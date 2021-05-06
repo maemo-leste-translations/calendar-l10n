@@ -1,0 +1,538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: calendar 20100125151649\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.25 15:16+0200\n"
+"PO-Revision-Date: 2010.01.25 15:16+0200\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cal_ap_name"
+msgstr "Kalender"
+
+msgid "cal_ap_name_short"
+msgstr "Kalender"
+
+msgid "cal_bd_edit_calendars"
+msgstr "Rediger kalendere"
+
+msgid "cal_bd_export"
+msgstr "Eksporter"
+
+msgid "cal_bd_jump"
+msgstr "Spring"
+
+msgid "cal_bd_monthview_week"
+msgstr "u%s"
+
+msgid "cal_bd_new_calendar"
+msgstr "Ny"
+
+msgid "cal_bd_new_event"
+msgstr "Ny begivenhed"
+
+msgid "cal_bd_new_note"
+msgstr "Ny note"
+
+msgid "cal_bd_new_task"
+msgstr "Ny opgave"
+
+msgid "cal_bd_transfer"
+msgstr "Overfør"
+
+msgid "cal_fi_alarm"
+msgstr "Alarm"
+
+msgid "cal_fi_alarm_tone"
+msgstr "Alarmtone"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "%d heldagsbegivenhed"
+msgstr[1] "%d heldagsbegivenheder"
+
+msgid "cal_fi_calendar"
+msgstr "Kalender"
+
+msgid "cal_fi_color"
+msgstr "Farve"
+
+msgid "cal_fi_date"
+msgstr "Dato"
+
+msgid "cal_fi_done"
+msgstr "OK"
+
+msgid "cal_fi_enddate"
+msgstr "Til"
+
+msgid "cal_fi_enddate2"
+msgstr "til"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "Skjul udførte opgaver"
+
+msgid "cal_fi_location"
+msgstr "Hvor"
+
+msgid "cal_fi_no_events"
+msgstr "Ingen begivenheder eller opgaver"
+
+msgid "cal_fi_remove_items"
+msgstr "Slet elementer"
+
+msgid "cal_fi_repeat"
+msgstr "Gentag"
+
+msgid "cal_fi_repeat_complex"
+msgstr "(Kompleks gentagelse. Kan ikke redigere)."
+
+msgid "cal_fi_repeat_until"
+msgstr "Indtil"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "Ringen"
+
+msgid "cal_fi_startdate"
+msgstr "Fra"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] "%d opgave"
+msgstr[1] "%d opgaver"
+
+msgid "cal_fi_visible"
+msgstr "Synlig"
+
+msgid "cal_fi_week_start_day"
+msgstr "Første dag i ugen"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "Titel"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "Lokal kalender"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "Intelligent fødselsdagskalender"
+
+msgid "cal_ia_wizard_complete"
+msgstr ""
+"Tryk på 'Afslut' for at gemme, eller annuller indstillinger ved at trykke "
+"uden for guiden. Du kan ændre dine indstillinger senere via 'Indstillinger' "
+"i menuen."
+
+msgid "cal_ia_wizard_intro"
+msgstr ""
+"Kalenderguiden giver dig mulighed for at oprette nye kalendere.\n"
+"\n"
+"Tryk på 'Næste' for at fortsætte."
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "Kalenderguiden fuldført."
+
+msgid "cal_ia_wizard_typetext"
+msgstr "Vælg kalendertype"
+
+msgid "cal_ib_add_title"
+msgstr "Tilføj titel"
+
+msgid "cal_ib_alarm_early"
+msgstr "Alarmtidspunktet kan ikke ligge i fortiden"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "Kalendertilmelding %s tilføjet"
+
+msgid "cal_ib_calendar_saved"
+msgstr "Kalender %s gemt"
+
+msgid "cal_ib_date_earlier"
+msgstr "Slutdato for begivenhed skal ligge efter startdato"
+
+msgid "cal_ib_date_earlier_until"
+msgstr "Sidste gentagelsesdato skal ligge efter startdato for begivenhed"
+
+msgid "cal_ib_import_duplicate"
+msgstr "Elementet findes allerede i kalenderen"
+
+msgid "cal_ib_import_duplicates"
+msgstr "Nogle elementer findes allerede i kalenderen"
+
+msgid "cal_ib_last_event"
+msgstr "Ikke flere begivenheder"
+
+msgid "cal_ib_setting_failed"
+msgstr "Kan ikke gemme indstillinger"
+
+msgid "cal_ib_time_earlier"
+msgstr "Sluttidspunkt for begivenhed skal ligge efter starttidspunkt"
+
+msgid "cal_ib_title_exists"
+msgstr "Der findes allerede en kalender med samme titel"
+
+msgid "cal_ib_unix"
+msgstr "Datogrænsen er overskredet"
+
+msgid "cal_ib_visible"
+msgstr "Mindst én kalender skal være synlig"
+
+msgid "cal_me_agenda_home_applet"
+msgstr "Kalender"
+
+msgid "cal_me_go_to_notes"
+msgstr "Gå til noter"
+
+msgid "cal_me_go_to_tasks"
+msgstr "Gå til opgaver"
+
+msgid "cal_me_jump_to_today"
+msgstr "Spring til i dag"
+
+msgid "cal_me_new_event"
+msgstr "Ny begivenhed"
+
+msgid "cal_me_next_day"
+msgstr "Næste dag"
+
+msgid "cal_me_next_event"
+msgstr "Næste begivenhed"
+
+msgid "cal_me_next_month"
+msgstr "Næste måned"
+
+msgid "cal_me_next_week"
+msgstr "Næste uge"
+
+msgid "cal_me_previous_day"
+msgstr "Forrige dag"
+
+msgid "cal_me_previous_event"
+msgstr "Forrige begivenhed"
+
+msgid "cal_me_previous_month"
+msgstr "Forrige måned"
+
+msgid "cal_me_previous_week"
+msgstr "Forrige uge"
+
+msgid "cal_me_toggle_agenda"
+msgstr "Program"
+
+msgid "cal_me_toggle_month"
+msgstr "Måned"
+
+msgid "cal_me_toggle_week"
+msgstr "Uge"
+
+msgid "cal_more_events"
+msgstr "Mere"
+
+msgid "cal_nc_delete_event"
+msgstr ""
+"Slet begivenhed?\n"
+"%s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr ""
+"Slet begivenhed og alle gentagelser?\n"
+"'%s'"
+
+msgid "cal_nc_delete_note"
+msgstr "Slet note?"
+
+msgid "cal_nc_delete_task"
+msgstr ""
+"Slet opgave?\n"
+"%s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr ""
+"Du er ved at redigere en begivenhed,\n"
+"%s\n"
+"som ikke kan redigeres i sin helhed. Der skal først angives en ny "
+"gentagelsesregel. Eventuelle undtagelsesregler vil gå tabt.\n"
+"Fortsæt?"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr ""
+"Du er ved at ændre en gentagelsesregel for begivenheden,\n"
+"%s\n"
+"som ikke kan redigeres i sin helhed. Eventuelle undtagelsesregler vil gå "
+"tabt. Fortsæt?"
+
+msgid "cal_nc_permanent_delete"
+msgstr ""
+"Kalenderen '%s' kan ikke slettes. Slet alt indhold i kalenderen i stedet?"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr ""
+"Data slettes muligvis også fra andre enheder.\n"
+"\n"
+"Kalenderen '%s' kan ikke slettes. Slet alt indhold i kalenderen i stedet?"
+
+msgid "cal_nc_remove_calendar"
+msgstr ""
+"Slet denne kalender og alle dens begivenheder, opgaver og noter?\n"
+"'%s'"
+
+msgid "cal_nc_smart_delete"
+msgstr "Slet intelligent kalender? Ingen originale data bliver slettet."
+
+msgid "cal_nc_synced_delete"
+msgstr "Kalenderen '%s' er synkroniseret. Slet alligevel?"
+
+msgid "cal_ni_export_nospace"
+msgstr "Der er ikke nok plads til at eksportere"
+
+msgid "cal_ni_ical_invalid"
+msgstr "Ugyldig kalenderfil"
+
+msgid "cal_ni_internal_error"
+msgstr "Der opstod en fejl"
+
+msgid "cal_ni_web_invalid"
+msgstr "Kalenderen kan ikke åbne denne adresse"
+
+msgid "cal_task_summary"
+msgstr "%d opgaver"
+
+msgid "cal_ti_agenda"
+msgstr "Kalender"
+
+msgid "cal_ti_alarm_tone"
+msgstr "Vælg alarmtone"
+
+msgid "cal_ti_calendar_private"
+msgstr "Privat"
+
+msgid "cal_ti_context_delete"
+msgstr "Slet"
+
+msgid "cal_ti_context_edit"
+msgstr "Rediger"
+
+msgid "cal_ti_edit_calendar"
+msgstr "Rediger kalender"
+
+msgid "cal_ti_edit_calendars"
+msgstr "Rediger kalendere"
+
+msgid "cal_ti_edit_event"
+msgstr "Rediger begivenhed"
+
+msgid "cal_ti_edit_note"
+msgstr "Rediger note"
+
+msgid "cal_ti_edit_task"
+msgstr "Rediger opgave"
+
+msgid "cal_ti_event"
+msgstr "Begivenhed"
+
+msgid "cal_ti_import"
+msgstr "Vælg kalender"
+
+msgid "cal_ti_import_info"
+msgstr "Tilføjer %s"
+
+msgid "cal_ti_invited_attendees"
+msgstr "Inviterede deltagere"
+
+msgid "cal_ti_jump_to"
+msgstr "Spring til"
+
+msgid "cal_ti_no_notes"
+msgstr "(ingen noter)"
+
+msgid "cal_ti_no_tasks"
+msgstr "(ingen opgaver)"
+
+msgid "cal_ti_notes"
+msgstr "Noter"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "Tilføj alarmtone"
+
+msgid "cal_ti_organiser"
+msgstr "Arrangør"
+
+msgid "cal_ti_remove_event"
+msgstr "Slet begivenhed"
+
+msgid "cal_ti_settings"
+msgstr "Indstillinger"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "Fødselsdage"
+
+msgid "cal_ti_tasks"
+msgstr "Opgaver"
+
+msgid "cal_ti_title"
+msgstr "Titel"
+
+msgid "cal_ti_weekview"
+msgstr "Uge %s (%s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "Uge %s"
+
+msgid "cal_ti_welcome"
+msgstr "Kalenderen er tom"
+
+msgid "cal_ti_welcome_info"
+msgstr ""
+"Overfør data fra den gamle telefon?\n"
+"\n"
+"Dette kan gøres senere via Overfør og synkroniser i Indstillinger."
+
+msgid "cal_ti_wizard"
+msgstr "Kalender"
+
+msgid "cal_ti_wizard_complete"
+msgstr "Fuldført"
+
+msgid "cal_ti_wizard_details"
+msgstr "Detaljer"
+
+msgid "cal_ti_wizard_type"
+msgstr "Type"
+
+msgid "cal_va_0_min"
+msgstr "0 minutter før"
+
+msgid "cal_va_15_min"
+msgstr "15 minutter før"
+
+msgid "cal_va_1_hour"
+msgstr "1 time før"
+
+msgid "cal_va_30_min"
+msgstr "30 minutter før"
+
+msgid "cal_va_3_hours"
+msgstr "3 timer før"
+
+msgid "cal_va_5_min"
+msgstr "5 minutter før"
+
+msgid "cal_va_allday"
+msgstr ""
+"Hele\n"
+"dagen"
+
+msgid "cal_va_allday_home"
+msgstr "I dag"
+
+msgid "cal_va_allday_long"
+msgstr "Hele dagen"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] "%d begivenhed"
+msgstr[1] "%d begivenheder"
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] "%d note"
+msgstr[1] "%d noter"
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] "%d opgave"
+msgstr[1] "%d opgaver"
+
+msgid "cal_va_and"
+msgstr "og"
+
+msgid "cal_va_calendar"
+msgstr "Brug '%s'"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] "%d synlige"
+msgstr[1] "%d synlige"
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] "%d begivenhed"
+msgstr[1] "%d begivenheder"
+
+msgid "cal_va_day_before"
+msgstr "Dagen før"
+
+msgid "cal_va_every_day"
+msgstr "Hver dag"
+
+msgid "cal_va_every_month"
+msgstr "Hver måned"
+
+msgid "cal_va_every_week"
+msgstr "Hver uge"
+
+msgid "cal_va_every_workday"
+msgstr "Alle arbejdsdage"
+
+msgid "cal_va_every_year"
+msgstr "Hvert år"
+
+msgid "cal_va_local"
+msgstr "Lokal"
+
+msgid "cal_va_monday"
+msgstr "Mandag"
+
+msgid "cal_va_never"
+msgstr "Aldrig"
+
+msgid "cal_va_newcalendar"
+msgstr "Opret ny kalender"
+
+msgid "cal_va_none"
+msgstr "Ingen"
+
+msgid "cal_va_note_saved"
+msgstr "Gemt sidste gang %s"
+
+msgid "cal_va_older_1_month"
+msgstr "Ældre end 1 måned"
+
+msgid "cal_va_older_1_week"
+msgstr "Ældre end 1 uge"
+
+msgid "cal_va_older_1_year"
+msgstr "Ældre end 1 år"
+
+msgid "cal_va_older_2_weeks"
+msgstr "Ældre end 2 uger"
+
+msgid "cal_va_placeholder_description"
+msgstr "Beskrivelse"
+
+msgid "cal_va_placeholder_note"
+msgstr "Note"
+
+msgid "cal_va_placeholder_title"
+msgstr "Titel"
+
+msgid "cal_va_repeat_complex"
+msgstr "(Kompleks gentagelse. Kan ikke redigere)."
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(ingen filer)"
+
+msgid "cal_va_smart"
+msgstr "Intelligent"
+
+msgid "cal_va_sunday"
+msgstr "Søndag"
+
+msgid "cal_va_synchronized"
+msgstr "Synkroniseret"
+
+msgid "cal_va_today"
+msgstr "%s (i dag)"

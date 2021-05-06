@@ -1,0 +1,549 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: calendar 20100125151649\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.25 15:16+0200\n"
+"PO-Revision-Date: 2010.01.25 15:16+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "cal_ap_name"
+msgstr "Календарь"
+
+msgid "cal_ap_name_short"
+msgstr "Календарь"
+
+msgid "cal_bd_edit_calendars"
+msgstr "Изменить календари"
+
+msgid "cal_bd_export"
+msgstr "Экспорт"
+
+msgid "cal_bd_jump"
+msgstr "Перейти"
+
+msgid "cal_bd_monthview_week"
+msgstr "%s"
+
+msgid "cal_bd_new_calendar"
+msgstr "Создать"
+
+msgid "cal_bd_new_event"
+msgstr "Новое событие"
+
+msgid "cal_bd_new_note"
+msgstr "Создать заметку"
+
+msgid "cal_bd_new_task"
+msgstr "Создать задачу"
+
+msgid "cal_bd_transfer"
+msgstr "Перенос"
+
+msgid "cal_fi_alarm"
+msgstr "Будильник"
+
+msgid "cal_fi_alarm_tone"
+msgstr "Сигнал будильника"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "Событий на весь день: %d"
+msgstr[1] "Событий на весь день: %d"
+msgstr[2] "Событий на весь день: %d"
+
+msgid "cal_fi_calendar"
+msgstr "Календарь"
+
+msgid "cal_fi_color"
+msgstr "Цвет"
+
+msgid "cal_fi_date"
+msgstr "Дата"
+
+msgid "cal_fi_done"
+msgstr "Готово"
+
+msgid "cal_fi_enddate"
+msgstr "До"
+
+msgid "cal_fi_enddate2"
+msgstr "до"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "Скрыть выполненные задачи"
+
+msgid "cal_fi_location"
+msgstr "Где"
+
+msgid "cal_fi_no_events"
+msgstr "Нет событий или задач"
+
+msgid "cal_fi_remove_items"
+msgstr "Удалить объекты"
+
+msgid "cal_fi_repeat"
+msgstr "Повтор"
+
+msgid "cal_fi_repeat_complex"
+msgstr "Сложные повтор-я. Не изменить."
+
+msgid "cal_fi_repeat_until"
+msgstr "До"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "Куранты"
+
+msgid "cal_fi_startdate"
+msgstr "С"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] "Невыполненных задач: %d"
+msgstr[1] "Невыполненных задач: %d"
+msgstr[2] "Невыполненных задач: %d"
+
+msgid "cal_fi_visible"
+msgstr "Видимый"
+
+msgid "cal_fi_week_start_day"
+msgstr "Первый день недели"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "Заголовок"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "Локальный календарь"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "Автоматический календарь дней рождения"
+
+msgid "cal_ia_wizard_complete"
+msgstr ""
+"Чтобы сохранить настройки, нажмите Готово, чтобы сбросить - нажмите за "
+"пределами окна мастера. Настройки можно изменить позднее, выбрав в меню "
+"пункт Параметры."
+
+msgid "cal_ia_wizard_intro"
+msgstr ""
+"Мастер календаря позволяет создавать новые календари.\n"
+"\n"
+"Для продолжения коснитесь Далее."
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "Мастер календаря завершил работу."
+
+msgid "cal_ia_wizard_typetext"
+msgstr "Выберите тип календаря"
+
+msgid "cal_ib_add_title"
+msgstr "Добавить заголовок"
+
+msgid "cal_ib_alarm_early"
+msgstr "Время сигнала не может быть в прошлом"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "Подписка на календарь %s добавлена"
+
+msgid "cal_ib_calendar_saved"
+msgstr "Календарь %s сохранен"
+
+msgid "cal_ib_date_earlier"
+msgstr "Дата окончания события должна быть позднее даты начала"
+
+msgid "cal_ib_date_earlier_until"
+msgstr "Дата последнего повтора должна быть позднее даты начала события"
+
+msgid "cal_ib_import_duplicate"
+msgstr "Объект уже добавлен в календарь"
+
+msgid "cal_ib_import_duplicates"
+msgstr "Некоторые объекты уже добавлены в календарь"
+
+msgid "cal_ib_last_event"
+msgstr "Больше событий нет"
+
+msgid "cal_ib_setting_failed"
+msgstr "Не удается сохранить параметры"
+
+msgid "cal_ib_time_earlier"
+msgstr "Время окончания события должно быть позднее времени начала"
+
+msgid "cal_ib_title_exists"
+msgstr "Календарь с таким названием уже существует"
+
+msgid "cal_ib_unix"
+msgstr "Дата выходит за пределы допустимых значений"
+
+msgid "cal_ib_visible"
+msgstr "Должен быть виден хотя бы один календарь"
+
+msgid "cal_me_agenda_home_applet"
+msgstr "Календарь"
+
+msgid "cal_me_go_to_notes"
+msgstr "Перейти к заметкам"
+
+msgid "cal_me_go_to_tasks"
+msgstr "Перейти к задачам"
+
+msgid "cal_me_jump_to_today"
+msgstr "Перейти к сегодняшн. дате"
+
+msgid "cal_me_new_event"
+msgstr "Новое событие"
+
+msgid "cal_me_next_day"
+msgstr "Следующий день"
+
+msgid "cal_me_next_event"
+msgstr "Следующее событие"
+
+msgid "cal_me_next_month"
+msgstr "Следующий месяц"
+
+msgid "cal_me_next_week"
+msgstr "Следующая неделя"
+
+msgid "cal_me_previous_day"
+msgstr "Предыдущий день"
+
+msgid "cal_me_previous_event"
+msgstr "Предыдущее событие"
+
+msgid "cal_me_previous_month"
+msgstr "Предыдущий месяц"
+
+msgid "cal_me_previous_week"
+msgstr "Предыдущая неделя"
+
+msgid "cal_me_toggle_agenda"
+msgstr "План дня"
+
+msgid "cal_me_toggle_month"
+msgstr "Месяц"
+
+msgid "cal_me_toggle_week"
+msgstr "Неделя"
+
+msgid "cal_more_events"
+msgstr "Дополнительно"
+
+msgid "cal_nc_delete_event"
+msgstr ""
+"Удалить событие?\n"
+"%s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr ""
+"Удалить событие и все повторы?\n"
+"'%s'"
+
+msgid "cal_nc_delete_note"
+msgstr "Удалить заметку?"
+
+msgid "cal_nc_delete_task"
+msgstr ""
+"Удалить задачу?\n"
+"%s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr ""
+"Вы изменяете правило повтора для события\n"
+"%s\n"
+",которое невозможно полностью изменить. Сначала нужно задать новое правило "
+"повтора. Все правила исключений будут утрачены.\n"
+"Продолжить?"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr ""
+"Вы изменяете правило повтора для события\n"
+"%s\n"
+", которое невозможно полностью изменить. Все правила исключений будут "
+"утрачены. Продолжить?"
+
+msgid "cal_nc_permanent_delete"
+msgstr ""
+"Не удается удалить календарь '%s'. Удалить вместо этого все содержимое "
+"календаря?"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr ""
+"Данные могут быть также удалены из других устройств.\n"
+"\n"
+"Не удается удалить календарь '%s'. Удалить вместо этого все содержимое "
+"календаря?"
+
+msgid "cal_nc_remove_calendar"
+msgstr ""
+"Удалить этот календарь и все связанные события, задачи и заметки?\n"
+"'%s'"
+
+msgid "cal_nc_smart_delete"
+msgstr "Удалить автоматический календарь? Исходные данные не будут удалены."
+
+msgid "cal_nc_synced_delete"
+msgstr "Календарь %s синхронизирован. Удалить?"
+
+msgid "cal_ni_export_nospace"
+msgstr "Недостаточно места для экспорта"
+
+msgid "cal_ni_ical_invalid"
+msgstr "Недопустимый файл календаря"
+
+msgid "cal_ni_internal_error"
+msgstr "Ошибка"
+
+msgid "cal_ni_web_invalid"
+msgstr "Календарь не может открыть этот адрес"
+
+msgid "cal_task_summary"
+msgstr "Задач: %d"
+
+msgid "cal_ti_agenda"
+msgstr "Календарь"
+
+msgid "cal_ti_alarm_tone"
+msgstr "Выбрать сигнал будильника"
+
+msgid "cal_ti_calendar_private"
+msgstr "Личный"
+
+msgid "cal_ti_context_delete"
+msgstr "Удалить"
+
+msgid "cal_ti_context_edit"
+msgstr "Изменить"
+
+msgid "cal_ti_edit_calendar"
+msgstr "Изменить календарь"
+
+msgid "cal_ti_edit_calendars"
+msgstr "Изменить календари"
+
+msgid "cal_ti_edit_event"
+msgstr "Изменить событие"
+
+msgid "cal_ti_edit_note"
+msgstr "Изменить заметку"
+
+msgid "cal_ti_edit_task"
+msgstr "Изменить задачу"
+
+msgid "cal_ti_event"
+msgstr "Событие"
+
+msgid "cal_ti_import"
+msgstr "Выбрать календарь"
+
+msgid "cal_ti_import_info"
+msgstr "Добавление %s"
+
+msgid "cal_ti_invited_attendees"
+msgstr "Приглашенные участники"
+
+msgid "cal_ti_jump_to"
+msgstr "Перейти к"
+
+msgid "cal_ti_no_notes"
+msgstr "(нет заметок)"
+
+msgid "cal_ti_no_tasks"
+msgstr "(нет задач)"
+
+msgid "cal_ti_notes"
+msgstr "Заметки"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "Добавить сигнал будильника"
+
+msgid "cal_ti_organiser"
+msgstr "Органайзер"
+
+msgid "cal_ti_remove_event"
+msgstr "Удалить событие"
+
+msgid "cal_ti_settings"
+msgstr "Параметры"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "Дни рождения"
+
+msgid "cal_ti_tasks"
+msgstr "Задачи"
+
+msgid "cal_ti_title"
+msgstr "Заголовок"
+
+msgid "cal_ti_weekview"
+msgstr "Неделя %s (%s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "Неделя %s"
+
+msgid "cal_ti_welcome"
+msgstr "Календарь пуст"
+
+msgid "cal_ti_welcome_info"
+msgstr ""
+"Перенести данные со старого телефона?\n"
+"\n"
+"Это также можно сделать позднее из пункта Перенос и синхронизация в разделе "
+"Параметры."
+
+msgid "cal_ti_wizard"
+msgstr "Календарь"
+
+msgid "cal_ti_wizard_complete"
+msgstr "Готово"
+
+msgid "cal_ti_wizard_details"
+msgstr "Свойства"
+
+msgid "cal_ti_wizard_type"
+msgstr "Тип"
+
+msgid "cal_va_0_min"
+msgstr "За 0 минут"
+
+msgid "cal_va_15_min"
+msgstr "За 15 минут"
+
+msgid "cal_va_1_hour"
+msgstr "За 1 час"
+
+msgid "cal_va_30_min"
+msgstr "За 30 минут"
+
+msgid "cal_va_3_hours"
+msgstr "За 3 часа"
+
+msgid "cal_va_5_min"
+msgstr "За 5 минут"
+
+msgid "cal_va_allday"
+msgstr ""
+"Весь\n"
+"день"
+
+msgid "cal_va_allday_home"
+msgstr "Сегодня"
+
+msgid "cal_va_allday_long"
+msgstr "Весь день"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] "%d событие"
+msgstr[1] "%d события"
+msgstr[2] "%d событий"
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] "%d заметка"
+msgstr[1] "%d заметки"
+msgstr[2] "%d заметок"
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] "%d задача"
+msgstr[1] "%d задачи"
+msgstr[2] "%d задач"
+
+msgid "cal_va_and"
+msgstr "и"
+
+msgid "cal_va_calendar"
+msgstr "Использ. '%s'"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] "%d: видим"
+msgstr[1] "%d: видимы"
+msgstr[2] "%d: видимы"
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] "%d событие"
+msgstr[1] "%d события"
+msgstr[2] "%d событий"
+
+msgid "cal_va_day_before"
+msgstr "Накануне"
+
+msgid "cal_va_every_day"
+msgstr "Ежедневно"
+
+msgid "cal_va_every_month"
+msgstr "Ежемесячно"
+
+msgid "cal_va_every_week"
+msgstr "Еженедельно"
+
+msgid "cal_va_every_workday"
+msgstr "Ежедневно по рабочим дням"
+
+msgid "cal_va_every_year"
+msgstr "Ежегодно"
+
+msgid "cal_va_local"
+msgstr "Местный"
+
+msgid "cal_va_monday"
+msgstr "Понедельник"
+
+msgid "cal_va_never"
+msgstr "Никогда"
+
+msgid "cal_va_newcalendar"
+msgstr "Создать новый календарь"
+
+msgid "cal_va_none"
+msgstr "Нет"
+
+msgid "cal_va_note_saved"
+msgstr "Последнее сохранение %s"
+
+msgid "cal_va_older_1_month"
+msgstr "Старше 1 месяца"
+
+msgid "cal_va_older_1_week"
+msgstr "Старше 1 недели"
+
+msgid "cal_va_older_1_year"
+msgstr "Старше 1 года"
+
+msgid "cal_va_older_2_weeks"
+msgstr "Старше 2 недель"
+
+msgid "cal_va_placeholder_description"
+msgstr "Описание"
+
+msgid "cal_va_placeholder_note"
+msgstr "Заметка"
+
+msgid "cal_va_placeholder_title"
+msgstr "Заголовок"
+
+msgid "cal_va_repeat_complex"
+msgstr "(Сложные повторения. Не удается изменить.)"
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(нет файлов)"
+
+msgid "cal_va_smart"
+msgstr "Автоматический"
+
+msgid "cal_va_sunday"
+msgstr "Воскресенье"
+
+msgid "cal_va_synchronized"
+msgstr "Синхрониз-й"
+
+msgid "cal_va_today"
+msgstr "%s (сегодня)"

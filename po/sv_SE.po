@@ -1,0 +1,542 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: calendar 20100125151649\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.25 15:16+0200\n"
+"PO-Revision-Date: 2010.01.25 15:16+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cal_ap_name"
+msgstr "Kalender"
+
+msgid "cal_ap_name_short"
+msgstr "Kalender"
+
+msgid "cal_bd_edit_calendars"
+msgstr "Redigera kalendrar"
+
+msgid "cal_bd_export"
+msgstr "Exportera"
+
+msgid "cal_bd_jump"
+msgstr "OK"
+
+msgid "cal_bd_monthview_week"
+msgstr "v%s"
+
+msgid "cal_bd_new_calendar"
+msgstr "Ny"
+
+msgid "cal_bd_new_event"
+msgstr "Ny händelse"
+
+msgid "cal_bd_new_note"
+msgstr "Ny anteckning"
+
+msgid "cal_bd_new_task"
+msgstr "Ny uppgift"
+
+msgid "cal_bd_transfer"
+msgstr "Överför"
+
+msgid "cal_fi_alarm"
+msgstr "Alarm"
+
+msgid "cal_fi_alarm_tone"
+msgstr "Alarmsignal"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "%d heldagshändelse"
+msgstr[1] "%d heldagshändelser"
+
+msgid "cal_fi_calendar"
+msgstr "Kalender"
+
+msgid "cal_fi_color"
+msgstr "Färg"
+
+msgid "cal_fi_date"
+msgstr "Datum"
+
+msgid "cal_fi_done"
+msgstr "OK"
+
+msgid "cal_fi_enddate"
+msgstr "Till"
+
+msgid "cal_fi_enddate2"
+msgstr "till"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "Dölj utförda uppgifter"
+
+msgid "cal_fi_location"
+msgstr "Var"
+
+msgid "cal_fi_no_events"
+msgstr "Inga händelser eller uppgifter"
+
+msgid "cal_fi_remove_items"
+msgstr "Ta bort objekt"
+
+msgid "cal_fi_repeat"
+msgstr "Upprepa"
+
+msgid "cal_fi_repeat_complex"
+msgstr "(Komplex upprepning. Går inte att redigera.)"
+
+msgid "cal_fi_repeat_until"
+msgstr "Tills"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "Signal"
+
+msgid "cal_fi_startdate"
+msgstr "Från"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] "%d uppgift ej utförd"
+msgstr[1] "%d uppgifter ej utförda"
+
+msgid "cal_fi_visible"
+msgstr "Synlig"
+
+msgid "cal_fi_week_start_day"
+msgstr "Första veckodagen"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "Namn"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "Lokal kalender"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "Födelsedagar smartkalender"
+
+msgid "cal_ia_wizard_complete"
+msgstr ""
+"Peka på slutför för att spara, eller ångra inställningarna genom att peka "
+"utanför guiden. Du kan ändra dina inställningar senare via Inställningar på "
+"menyn."
+
+msgid "cal_ia_wizard_intro"
+msgstr ""
+"Med kalenderguiden kan du skapa nya kalendrar.\n"
+"\n"
+"Peka på Nästa för att fortsätta."
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "Kalenderguiden klar."
+
+msgid "cal_ia_wizard_typetext"
+msgstr "Välj kalendertyp"
+
+msgid "cal_ib_add_title"
+msgstr "Lägg till namn"
+
+msgid "cal_ib_alarm_early"
+msgstr "Alarmtid kan inte ställas in för passerad tidpunkt"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "Kalender-abonnemang %s har lagts till"
+
+msgid "cal_ib_calendar_saved"
+msgstr "Kalender %s sparad"
+
+msgid "cal_ib_date_earlier"
+msgstr "Slutdatum för händelsen måste infalla senare än startdatum"
+
+msgid "cal_ib_date_earlier_until"
+msgstr ""
+"Senaste upprepningsdatum måste infalla senare än startdatumet för händelsen"
+
+msgid "cal_ib_import_duplicate"
+msgstr "Objektet finns redan i kalendern"
+
+msgid "cal_ib_import_duplicates"
+msgstr "Vissa objekt finns redan i kalendern"
+
+msgid "cal_ib_last_event"
+msgstr "Inga fler händelser"
+
+msgid "cal_ib_setting_failed"
+msgstr "Det gick inte att spara inställningarna"
+
+msgid "cal_ib_time_earlier"
+msgstr "Sluttid för händelsen måste infalla senare än starttid"
+
+msgid "cal_ib_title_exists"
+msgstr "Kalender med samma namn finns redan"
+
+msgid "cal_ib_unix"
+msgstr "Datumgränsen överskreds"
+
+msgid "cal_ib_visible"
+msgstr "Minst en kalender måste vara synlig"
+
+msgid "cal_me_agenda_home_applet"
+msgstr "Kalender"
+
+msgid "cal_me_go_to_notes"
+msgstr "Gå till anteckningar"
+
+msgid "cal_me_go_to_tasks"
+msgstr "Gå till uppgifter"
+
+msgid "cal_me_jump_to_today"
+msgstr "Hoppa till idag"
+
+msgid "cal_me_new_event"
+msgstr "Ny händelse"
+
+msgid "cal_me_next_day"
+msgstr "Nästa dag"
+
+msgid "cal_me_next_event"
+msgstr "Nästa händelse"
+
+msgid "cal_me_next_month"
+msgstr "Nästa månad"
+
+msgid "cal_me_next_week"
+msgstr "Nästa vecka"
+
+msgid "cal_me_previous_day"
+msgstr "Föregående dag"
+
+msgid "cal_me_previous_event"
+msgstr "Föregående händelse"
+
+msgid "cal_me_previous_month"
+msgstr "Föregående månad"
+
+msgid "cal_me_previous_week"
+msgstr "Föregående vecka"
+
+msgid "cal_me_toggle_agenda"
+msgstr "Agenda"
+
+msgid "cal_me_toggle_month"
+msgstr "Månad"
+
+msgid "cal_me_toggle_week"
+msgstr "Vecka"
+
+msgid "cal_more_events"
+msgstr "Mer"
+
+msgid "cal_nc_delete_event"
+msgstr ""
+"Vill du ta bort händelsen?\n"
+"%s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr ""
+"Vill du ta bort händelsen och alla upprepningar?\n"
+"'%s'"
+
+msgid "cal_nc_delete_note"
+msgstr "Vill du ta bort anteckningen?"
+
+msgid "cal_nc_delete_task"
+msgstr ""
+"Vill du ta bort uppgiften?\n"
+"%s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr ""
+"Du redigerar händelsen \n"
+"%s\n"
+" som inte går att redigera helt. Ny upprepningsregel måste ställas in först. "
+"Alla undantagsregler försvinner.\n"
+"Vill du fortsätta?"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr ""
+"Du ändrar en upprepningsregel för händelsen\n"
+"%s\n"
+"som inte går att redigera helt. Alla undantagsregler försvinner. Vill du "
+"fortsätta?"
+
+msgid "cal_nc_permanent_delete"
+msgstr ""
+"Det går inte att ta bort kalendern '%s'. Vill du ta bort allt "
+"kalenderinnehåll istället?"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr ""
+"Data kan också ha tagits bort från andra enheter.\n"
+"\n"
+"Det går inte att ta bort kalendern '%s'. Vill du ta bort allt "
+"kalenderinnehåll istället?"
+
+msgid "cal_nc_remove_calendar"
+msgstr ""
+"Vill du ta bort den här kalendern och dess händelser, uppgifter och "
+"anteckningar?\n"
+"'%s'"
+
+msgid "cal_nc_smart_delete"
+msgstr "Vill du ta bort den smarta kalendern? Inga originaldata tas bort."
+
+msgid "cal_nc_synced_delete"
+msgstr "Kalendern ‘%s’ är synkroniserad. Vill du ta bort ändå?"
+
+msgid "cal_ni_export_nospace"
+msgstr "Det finns inte tillräckligt med utrymme för att exportera"
+
+msgid "cal_ni_ical_invalid"
+msgstr "Ogiltig kalenderfil"
+
+msgid "cal_ni_internal_error"
+msgstr "Ett fel uppstod"
+
+msgid "cal_ni_web_invalid"
+msgstr "Den här adressen går inte att öppna i kalendern"
+
+msgid "cal_task_summary"
+msgstr "%d uppgifter"
+
+msgid "cal_ti_agenda"
+msgstr "Kalender"
+
+msgid "cal_ti_alarm_tone"
+msgstr "Välj alarmsignal"
+
+msgid "cal_ti_calendar_private"
+msgstr "Privat"
+
+msgid "cal_ti_context_delete"
+msgstr "Ta bort"
+
+msgid "cal_ti_context_edit"
+msgstr "Redigera"
+
+msgid "cal_ti_edit_calendar"
+msgstr "Redigera kalender"
+
+msgid "cal_ti_edit_calendars"
+msgstr "Redigera kalendrar"
+
+msgid "cal_ti_edit_event"
+msgstr "Redigera händelse"
+
+msgid "cal_ti_edit_note"
+msgstr "Redigera anteckning"
+
+msgid "cal_ti_edit_task"
+msgstr "Redigera uppgift"
+
+msgid "cal_ti_event"
+msgstr "Händelse"
+
+msgid "cal_ti_import"
+msgstr "Välj kalender"
+
+msgid "cal_ti_import_info"
+msgstr "Lägger till %s"
+
+msgid "cal_ti_invited_attendees"
+msgstr "Inbjudna deltagare"
+
+msgid "cal_ti_jump_to"
+msgstr "Hoppa till datum"
+
+msgid "cal_ti_no_notes"
+msgstr "(inga anteckningar)"
+
+msgid "cal_ti_no_tasks"
+msgstr "(inga uppgifter)"
+
+msgid "cal_ti_notes"
+msgstr "Anteckningar"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "Lägg till alarmsignal"
+
+msgid "cal_ti_organiser"
+msgstr "Planerare"
+
+msgid "cal_ti_remove_event"
+msgstr "Ta bort händelse"
+
+msgid "cal_ti_settings"
+msgstr "Inställningar"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "Födelsedagar"
+
+msgid "cal_ti_tasks"
+msgstr "Uppgifter"
+
+msgid "cal_ti_title"
+msgstr "Namn"
+
+msgid "cal_ti_weekview"
+msgstr "Vecka %s (%s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "Vecka %s"
+
+msgid "cal_ti_welcome"
+msgstr "Kalendern tom"
+
+msgid "cal_ti_welcome_info"
+msgstr ""
+"Vill du överföra data från gammal telefon?\n"
+"\n"
+"Det kan göras senare från Överför & synkronisera i Inställningar."
+
+msgid "cal_ti_wizard"
+msgstr "Kalender"
+
+msgid "cal_ti_wizard_complete"
+msgstr "Klar"
+
+msgid "cal_ti_wizard_details"
+msgstr "Information"
+
+msgid "cal_ti_wizard_type"
+msgstr "Typ"
+
+msgid "cal_va_0_min"
+msgstr "0 minuter före"
+
+msgid "cal_va_15_min"
+msgstr "15 minuter före"
+
+msgid "cal_va_1_hour"
+msgstr "1 timme före"
+
+msgid "cal_va_30_min"
+msgstr "30 minuter före"
+
+msgid "cal_va_3_hours"
+msgstr "3 timmar före"
+
+msgid "cal_va_5_min"
+msgstr "5 minuter före"
+
+msgid "cal_va_allday"
+msgstr ""
+"Hela\n"
+"dagen"
+
+msgid "cal_va_allday_home"
+msgstr "I dag"
+
+msgid "cal_va_allday_long"
+msgstr "Hela dagen"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] "%d händelse"
+msgstr[1] "%d händelser"
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] "%d anteckning"
+msgstr[1] "%d anteckningar"
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] "%d uppgift"
+msgstr[1] "%d uppgifter"
+
+msgid "cal_va_and"
+msgstr "och"
+
+msgid "cal_va_calendar"
+msgstr "Använd '%s'"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] "%d synlig(a)"
+msgstr[1] "%d synlig(a)"
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] "%d händelse"
+msgstr[1] "%d händelser"
+
+msgid "cal_va_day_before"
+msgstr "Dagen före"
+
+msgid "cal_va_every_day"
+msgstr "Varje dag"
+
+msgid "cal_va_every_month"
+msgstr "Varje månad"
+
+msgid "cal_va_every_week"
+msgstr "Varje vecka"
+
+msgid "cal_va_every_workday"
+msgstr "Varje arbetsdag"
+
+msgid "cal_va_every_year"
+msgstr "Varje år"
+
+msgid "cal_va_local"
+msgstr "Lokal"
+
+msgid "cal_va_monday"
+msgstr "Måndag"
+
+msgid "cal_va_never"
+msgstr "Aldrig"
+
+msgid "cal_va_newcalendar"
+msgstr "Skapa ny kalender"
+
+msgid "cal_va_none"
+msgstr "Ingen"
+
+msgid "cal_va_note_saved"
+msgstr "Senast sparad %s"
+
+msgid "cal_va_older_1_month"
+msgstr "Äldre än 1 månad"
+
+msgid "cal_va_older_1_week"
+msgstr "Äldre än 1 vecka"
+
+msgid "cal_va_older_1_year"
+msgstr "Äldre än 1 år"
+
+msgid "cal_va_older_2_weeks"
+msgstr "Äldre än 2 veckor"
+
+msgid "cal_va_placeholder_description"
+msgstr "Beskrivning"
+
+msgid "cal_va_placeholder_note"
+msgstr "Anteckning"
+
+msgid "cal_va_placeholder_title"
+msgstr "Namn"
+
+msgid "cal_va_repeat_complex"
+msgstr "(Komplex upprepning. Går inte att redigera.)"
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(inga filer)"
+
+msgid "cal_va_smart"
+msgstr "Smart"
+
+msgid "cal_va_sunday"
+msgstr "Söndag"
+
+msgid "cal_va_synchronized"
+msgstr "Synkroniserad"
+
+msgid "cal_va_today"
+msgstr "%s (i dag)"

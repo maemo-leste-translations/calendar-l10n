@@ -1,0 +1,542 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: calendar 20100125151649\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.25 15:16+0200\n"
+"PO-Revision-Date: 2010.01.25 15:16+0200\n"
+"Last-Translator:\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "cal_ap_name"
+msgstr "Calendrier"
+
+msgid "cal_ap_name_short"
+msgstr "Calendrier"
+
+msgid "cal_bd_edit_calendars"
+msgstr "Modifier calendriers"
+
+msgid "cal_bd_export"
+msgstr "Exporter"
+
+msgid "cal_bd_jump"
+msgstr "OK"
+
+msgid "cal_bd_monthview_week"
+msgstr "s%s"
+
+msgid "cal_bd_new_calendar"
+msgstr "Nouveau"
+
+msgid "cal_bd_new_event"
+msgstr "Nouvel événement"
+
+msgid "cal_bd_new_note"
+msgstr "Nouvelle note"
+
+msgid "cal_bd_new_task"
+msgstr "Nouvelle tâche"
+
+msgid "cal_bd_transfer"
+msgstr "Transfert"
+
+msgid "cal_fi_alarm"
+msgstr "Alarme"
+
+msgid "cal_fi_alarm_tone"
+msgstr "Sonnerie de l'alarme"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "%d événement sur toute la journée"
+msgstr[1] "%d événements sur toute la journée"
+
+msgid "cal_fi_calendar"
+msgstr "Calendrier"
+
+msgid "cal_fi_color"
+msgstr "Couleur"
+
+msgid "cal_fi_date"
+msgstr "Date "
+
+msgid "cal_fi_done"
+msgstr "Terminée"
+
+msgid "cal_fi_enddate"
+msgstr "À"
+
+msgid "cal_fi_enddate2"
+msgstr "à"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "Masquer tâches terminées"
+
+msgid "cal_fi_location"
+msgstr "Lieu"
+
+msgid "cal_fi_no_events"
+msgstr "Aucun événement ou aucune tâche"
+
+msgid "cal_fi_remove_items"
+msgstr "Supprimer éléments"
+
+msgid "cal_fi_repeat"
+msgstr "Répéter "
+
+msgid "cal_fi_repeat_complex"
+msgstr "(Répétition complexe. Modification impossible.)"
+
+msgid "cal_fi_repeat_until"
+msgstr "Jusqu'au"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "Carillon"
+
+msgid "cal_fi_startdate"
+msgstr "De"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] "%d tâche non terminée"
+msgstr[1] "%d tâches non terminées"
+
+msgid "cal_fi_visible"
+msgstr "Visible "
+
+msgid "cal_fi_week_start_day"
+msgstr "Premier jour de la semaine"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "Titre"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "Calendrier local"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "Calendrier intelligent Anniversaires"
+
+msgid "cal_ia_wizard_complete"
+msgstr ""
+"Taper sur Terminer pour enregistrer les paramètres, ou taper en dehors de "
+"l'assistant pour les ignorer. Vous pourrez les modifier ultérieurement dans "
+"le menu Paramètres."
+
+msgid "cal_ia_wizard_intro"
+msgstr ""
+"L'assistant du calendrier vous permet de créer des calendriers.\n"
+"\n"
+"Taper sur Suivant pour continuer."
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "Assistant du calendrier terminé."
+
+msgid "cal_ia_wizard_typetext"
+msgstr "Choisir un type de calendrier"
+
+msgid "cal_ib_add_title"
+msgstr "Ajoutez un titre"
+
+msgid "cal_ib_alarm_early"
+msgstr "L'heure de l'alarme ne peut pas être passée"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "Abonnement au calendrier %s ajouté"
+
+msgid "cal_ib_calendar_saved"
+msgstr "Calendrier %s sauvegardé"
+
+msgid "cal_ib_date_earlier"
+msgstr "La date de fin de l'événement doit être postérieure à la date de début"
+
+msgid "cal_ib_date_earlier_until"
+msgstr ""
+"La date de la dernière répétition doit être postérieure à la date de début "
+"de l'événement"
+
+msgid "cal_ib_import_duplicate"
+msgstr "Élément déjà dans le calendrier"
+
+msgid "cal_ib_import_duplicates"
+msgstr "Certains éléments sont déjà dans le calendrier"
+
+msgid "cal_ib_last_event"
+msgstr "Aucun autre événement"
+
+msgid "cal_ib_setting_failed"
+msgstr "Impossible d'enregistrer les paramètres"
+
+msgid "cal_ib_time_earlier"
+msgstr "L'heure de fin de l'événement doit être postérieure à l'heure de début"
+
+msgid "cal_ib_title_exists"
+msgstr "Un calendrier avec le même titre existe déjà"
+
+msgid "cal_ib_unix"
+msgstr "La plage de dates possibles est dépassée"
+
+msgid "cal_ib_visible"
+msgstr "Au moins un calendrier doit être visible"
+
+msgid "cal_me_agenda_home_applet"
+msgstr "Calendrier"
+
+msgid "cal_me_go_to_notes"
+msgstr "Aller aux notes"
+
+msgid "cal_me_go_to_tasks"
+msgstr "Aller aux tâches"
+
+msgid "cal_me_jump_to_today"
+msgstr "Aujourd'hui"
+
+msgid "cal_me_new_event"
+msgstr "Nouvel événement"
+
+msgid "cal_me_next_day"
+msgstr "Jour suivant"
+
+msgid "cal_me_next_event"
+msgstr "Événement suivant"
+
+msgid "cal_me_next_month"
+msgstr "Mois suivant"
+
+msgid "cal_me_next_week"
+msgstr "Semaine suivante"
+
+msgid "cal_me_previous_day"
+msgstr "Jour précédent"
+
+msgid "cal_me_previous_event"
+msgstr "Événement précédent"
+
+msgid "cal_me_previous_month"
+msgstr "Mois précédent"
+
+msgid "cal_me_previous_week"
+msgstr "Semaine précédente"
+
+msgid "cal_me_toggle_agenda"
+msgstr "Agenda"
+
+msgid "cal_me_toggle_month"
+msgstr "Mois"
+
+msgid "cal_me_toggle_week"
+msgstr "Semaine"
+
+msgid "cal_more_events"
+msgstr "Autres"
+
+msgid "cal_nc_delete_event"
+msgstr ""
+"Supprimer l'événement ?\n"
+"%s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr ""
+"Supprimer l'événement et toutes les répétitions ?\n"
+"%s"
+
+msgid "cal_nc_delete_note"
+msgstr "Supprimer la note ?"
+
+msgid "cal_nc_delete_task"
+msgstr ""
+"Supprimer la tâche ?\n"
+"%s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr ""
+"Vous modifiez un événement\n"
+"%s\n"
+"qui 'est pas entièrement modifiable. Vous devez tout d'abord définir une "
+"nouvelle règle de répétition. Toutes les règles d'exception seront perdues.\n"
+"Continuer ?"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr ""
+"Vous modifiez une règle de répétition pour l'événement\n"
+"« %s » qui n'est pas entièrement modifiable. Toutes les règles d'exception "
+"seront perdues. Continuer ?"
+
+msgid "cal_nc_permanent_delete"
+msgstr ""
+"Le calendrier %s ne peut pas être supprimé. Supprimer l'intégralité de son "
+"contenu à la place ?"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr ""
+"Les données peuvent également être supprimées depuis d'autres terminaux.\n"
+"\n"
+"Le calendrier %s ne peut pas être supprimé. Supprimer l'intégralité de son "
+"contenu à la place ?"
+
+msgid "cal_nc_remove_calendar"
+msgstr ""
+"Supprimer ce calendrier et tous ses événements, tâches et notes associés ?\n"
+"%s"
+
+msgid "cal_nc_smart_delete"
+msgstr "Supprimer le calendrier intelligent ? Aucune donnée ne sera supprimée."
+
+msgid "cal_nc_synced_delete"
+msgstr "Le calendrier %s est synchronisé. Supprimer quand même ?"
+
+msgid "cal_ni_export_nospace"
+msgstr "Espace insuffisant pour exporter"
+
+msgid "cal_ni_ical_invalid"
+msgstr "Fichier de calendrier invalide"
+
+msgid "cal_ni_internal_error"
+msgstr "Une erreur est survenue"
+
+msgid "cal_ni_web_invalid"
+msgstr "Le calendrier ne peut pas ouvrir cette adresse"
+
+msgid "cal_task_summary"
+msgstr "%d tâches"
+
+msgid "cal_ti_agenda"
+msgstr "Calendrier"
+
+msgid "cal_ti_alarm_tone"
+msgstr "Choisir la sonnerie de l'alarme"
+
+msgid "cal_ti_calendar_private"
+msgstr "Privé"
+
+msgid "cal_ti_context_delete"
+msgstr "Supprimer"
+
+msgid "cal_ti_context_edit"
+msgstr "Édition"
+
+msgid "cal_ti_edit_calendar"
+msgstr "Modifier le calendrier"
+
+msgid "cal_ti_edit_calendars"
+msgstr "Modifier calendriers"
+
+msgid "cal_ti_edit_event"
+msgstr "Modifier événement"
+
+msgid "cal_ti_edit_note"
+msgstr "Modifier une note"
+
+msgid "cal_ti_edit_task"
+msgstr "Modifier une tâche"
+
+msgid "cal_ti_event"
+msgstr "Événement"
+
+msgid "cal_ti_import"
+msgstr "Sélectionner calendrier"
+
+msgid "cal_ti_import_info"
+msgstr "Ajout (%s)"
+
+msgid "cal_ti_invited_attendees"
+msgstr "Personnes invitées"
+
+msgid "cal_ti_jump_to"
+msgstr "Passer à"
+
+msgid "cal_ti_no_notes"
+msgstr "(aucune note)"
+
+msgid "cal_ti_no_tasks"
+msgstr "(aucune tâche)"
+
+msgid "cal_ti_notes"
+msgstr "Notes"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "Ajouter une sonnerie d'alarme"
+
+msgid "cal_ti_organiser"
+msgstr "Organisateur"
+
+msgid "cal_ti_remove_event"
+msgstr "Supprimer événement"
+
+msgid "cal_ti_settings"
+msgstr "Paramètres"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "Anniversaires"
+
+msgid "cal_ti_tasks"
+msgstr "Tâches"
+
+msgid "cal_ti_title"
+msgstr "Titre"
+
+msgid "cal_ti_weekview"
+msgstr "Semaine %s (%s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "Semaine %s"
+
+msgid "cal_ti_welcome"
+msgstr "Calendrier vide"
+
+msgid "cal_ti_welcome_info"
+msgstr ""
+"Transférer des données de l'ancien téléphone ?\n"
+"\n"
+"Cette opération peut être effectuée ultérieurement via Transfert et "
+"synchronisation, dans Paramètres."
+
+msgid "cal_ti_wizard"
+msgstr "Calendrier"
+
+msgid "cal_ti_wizard_complete"
+msgstr "Terminé"
+
+msgid "cal_ti_wizard_details"
+msgstr "Détails"
+
+msgid "cal_ti_wizard_type"
+msgstr "Type"
+
+msgid "cal_va_0_min"
+msgstr "0 minute avant"
+
+msgid "cal_va_15_min"
+msgstr "15 minutes avant"
+
+msgid "cal_va_1_hour"
+msgstr "1 heure avant"
+
+msgid "cal_va_30_min"
+msgstr "30 minutes avant"
+
+msgid "cal_va_3_hours"
+msgstr "3 heures avant"
+
+msgid "cal_va_5_min"
+msgstr "5 minutes avant"
+
+msgid "cal_va_allday"
+msgstr ""
+"Toute\n"
+"journ."
+
+msgid "cal_va_allday_home"
+msgstr "Aujourd'hui"
+
+msgid "cal_va_allday_long"
+msgstr "Toute la journée"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] "%d événement"
+msgstr[1] "%d événements"
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] "%d note"
+msgstr[1] "%d notes"
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] "%d tâche"
+msgstr[1] "%d tâches"
+
+msgid "cal_va_and"
+msgstr "et"
+
+msgid "cal_va_calendar"
+msgstr "Utiliser %s"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] "%d visible(s)"
+msgstr[1] "%d visible(s)"
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] "%d événement"
+msgstr[1] "%d événements"
+
+msgid "cal_va_day_before"
+msgstr "1 jour avant"
+
+msgid "cal_va_every_day"
+msgstr "Tous les jours"
+
+msgid "cal_va_every_month"
+msgstr "Tous les mois"
+
+msgid "cal_va_every_week"
+msgstr "Toutes les semaines"
+
+msgid "cal_va_every_workday"
+msgstr "Tous les jours ouvrables"
+
+msgid "cal_va_every_year"
+msgstr "Tous les ans"
+
+msgid "cal_va_local"
+msgstr "Local"
+
+msgid "cal_va_monday"
+msgstr "Lundi"
+
+msgid "cal_va_never"
+msgstr "Jamais"
+
+msgid "cal_va_newcalendar"
+msgstr "Créer un calendrier"
+
+msgid "cal_va_none"
+msgstr "Aucune"
+
+msgid "cal_va_note_saved"
+msgstr "Dernier %s enregistré"
+
+msgid "cal_va_older_1_month"
+msgstr "Antérieurs à 1 mois"
+
+msgid "cal_va_older_1_week"
+msgstr "Antérieurs à 1 semaine"
+
+msgid "cal_va_older_1_year"
+msgstr "Antérieurs à 1 an"
+
+msgid "cal_va_older_2_weeks"
+msgstr "Antérieurs à 2 semaines"
+
+msgid "cal_va_placeholder_description"
+msgstr "Description "
+
+msgid "cal_va_placeholder_note"
+msgstr "Note"
+
+msgid "cal_va_placeholder_title"
+msgstr "Titre"
+
+msgid "cal_va_repeat_complex"
+msgstr "(Répétition complexe. Modification impossible.)"
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(aucun fichier)"
+
+msgid "cal_va_smart"
+msgstr "Intelligent"
+
+msgid "cal_va_sunday"
+msgstr "Dimanche"
+
+msgid "cal_va_synchronized"
+msgstr "Synchronisé"
+
+msgid "cal_va_today"
+msgstr "%s (aujourd'hui)"

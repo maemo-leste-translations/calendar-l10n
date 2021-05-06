@@ -1,0 +1,542 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: calendar 20100125151649\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.25 15:16+0200\n"
+"PO-Revision-Date: 2010.01.25 15:16+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cal_ap_name"
+msgstr "Kalender"
+
+msgid "cal_ap_name_short"
+msgstr "Kalender"
+
+msgid "cal_bd_edit_calendars"
+msgstr "Kalenders bewerken"
+
+msgid "cal_bd_export"
+msgstr "Exporteren"
+
+msgid "cal_bd_jump"
+msgstr "Openen"
+
+msgid "cal_bd_monthview_week"
+msgstr "w%s"
+
+msgid "cal_bd_new_calendar"
+msgstr "Nieuw"
+
+msgid "cal_bd_new_event"
+msgstr "Nieuwe gebeurtenis"
+
+msgid "cal_bd_new_note"
+msgstr "Nieuwe notitie"
+
+msgid "cal_bd_new_task"
+msgstr "Nieuwe taak"
+
+msgid "cal_bd_transfer"
+msgstr "Overbrengen"
+
+msgid "cal_fi_alarm"
+msgstr "Alarm"
+
+msgid "cal_fi_alarm_tone"
+msgstr "Alarmsignaal"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "%d dagvullende gebeurtenis"
+msgstr[1] "%d dagvullende gebeurtenissen"
+
+msgid "cal_fi_calendar"
+msgstr "Kalender"
+
+msgid "cal_fi_color"
+msgstr "Kleur"
+
+msgid "cal_fi_date"
+msgstr "Datum"
+
+msgid "cal_fi_done"
+msgstr "Voltooid"
+
+msgid "cal_fi_enddate"
+msgstr "Tot"
+
+msgid "cal_fi_enddate2"
+msgstr "tot"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "Voltooide taken verbergen"
+
+msgid "cal_fi_location"
+msgstr "Waar"
+
+msgid "cal_fi_no_events"
+msgstr "Geen gebeurtenissen of taken"
+
+msgid "cal_fi_remove_items"
+msgstr "Items verwijderen"
+
+msgid "cal_fi_repeat"
+msgstr "Herhalen"
+
+msgid "cal_fi_repeat_complex"
+msgstr "(Complexe herh. Bewerking onmogelijk.)"
+
+msgid "cal_fi_repeat_until"
+msgstr "Tot"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "Chime"
+
+msgid "cal_fi_startdate"
+msgstr "Van"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] "%d onvoltooide taak"
+msgstr[1] "%d onvoltooide taken"
+
+msgid "cal_fi_visible"
+msgstr "Zichtbaar"
+
+msgid "cal_fi_week_start_day"
+msgstr "Eerste dag van de week"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "Titel"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "Lokale kalender"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "Slimme verjaardagskalender"
+
+msgid "cal_ia_wizard_complete"
+msgstr ""
+"Tik op 'Voltooien' om instellingen op te slaan of buiten de wizard om de "
+"instellingen te negeren. U kunt uw instellingen later wijzigen via het menu "
+"'Instellingen'."
+
+msgid "cal_ia_wizard_intro"
+msgstr ""
+"Met de wizard Kalender kunt u nieuwe kalenders maken.\n"
+"\n"
+"Tik op 'Volgende' om door te gaan."
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "Wizard Kalender voltooid."
+
+msgid "cal_ia_wizard_typetext"
+msgstr "Kalendertype kiezen"
+
+msgid "cal_ib_add_title"
+msgstr "Voeg een titel toe."
+
+msgid "cal_ib_alarm_early"
+msgstr "Alarmtijd kan niet in het verleden liggen"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "Abonnement op kalender %s toegevoegd"
+
+msgid "cal_ib_calendar_saved"
+msgstr "Kalender %s opgeslagen"
+
+msgid "cal_ib_date_earlier"
+msgstr "De einddatum van een gebeurtenis moet later zijn dan de begindatum"
+
+msgid "cal_ib_date_earlier_until"
+msgstr ""
+"De laatste herhalingsdatum moet later zijn dan de startdatum van de "
+"gebeurtenis"
+
+msgid "cal_ib_import_duplicate"
+msgstr "Item al in kalender"
+
+msgid "cal_ib_import_duplicates"
+msgstr "Sommige items al in kalender"
+
+msgid "cal_ib_last_event"
+msgstr "Geen verdere gebeurtenissen"
+
+msgid "cal_ib_setting_failed"
+msgstr "Kan instellingen niet opslaan"
+
+msgid "cal_ib_time_earlier"
+msgstr "De eindtijd van een gebeurtenis moet later zijn dan de begintijd"
+
+msgid "cal_ib_title_exists"
+msgstr "Kalender met dezelfde titel bestaat al"
+
+msgid "cal_ib_unix"
+msgstr "Datumlimiet overschreden"
+
+msgid "cal_ib_visible"
+msgstr "Ten minste één kalender moet zichtbaar zijn"
+
+msgid "cal_me_agenda_home_applet"
+msgstr "Kalender"
+
+msgid "cal_me_go_to_notes"
+msgstr "Ga naar notities"
+
+msgid "cal_me_go_to_tasks"
+msgstr "Ga naar taken"
+
+msgid "cal_me_jump_to_today"
+msgstr "Ga naar vandaag"
+
+msgid "cal_me_new_event"
+msgstr "Nieuwe gebeurtenis"
+
+msgid "cal_me_next_day"
+msgstr "Volgende dag"
+
+msgid "cal_me_next_event"
+msgstr "Volgende gebeurtenis"
+
+msgid "cal_me_next_month"
+msgstr "Volgende maand"
+
+msgid "cal_me_next_week"
+msgstr "Volgende week"
+
+msgid "cal_me_previous_day"
+msgstr "Vorige dag"
+
+msgid "cal_me_previous_event"
+msgstr "Vorige gebeurtenis"
+
+msgid "cal_me_previous_month"
+msgstr "Vorige maand"
+
+msgid "cal_me_previous_week"
+msgstr "Vorige week"
+
+msgid "cal_me_toggle_agenda"
+msgstr "Agenda"
+
+msgid "cal_me_toggle_month"
+msgstr "Maand"
+
+msgid "cal_me_toggle_week"
+msgstr "Week"
+
+msgid "cal_more_events"
+msgstr "Meer"
+
+msgid "cal_nc_delete_event"
+msgstr ""
+"Gebeurtenis verwijderen?\n"
+"%s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr ""
+"Wilt u de gebeurtenis en alle herhalingen ervan verwijderen?\n"
+"'%s'"
+
+msgid "cal_nc_delete_note"
+msgstr "Notitie verwijderen?"
+
+msgid "cal_nc_delete_task"
+msgstr ""
+"Taak verwijderen?\n"
+"%s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr ""
+"U bewerkt een gebeurtenis\n"
+"%s\n"
+"die niet volledig kan worden bewerkt. U dient eerst een nieuwe "
+"herhalingsregel in te stellen. Eventuele uitzonderingen gaan zo verloren.\n"
+"Doorgaan?"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr ""
+"U wijzigt een herhalingsregel voor een gebeurtenis\n"
+"%s\n"
+"die niet volledig kan worden bewerkt. Eventuele uitzonderingen gaan zo "
+"verloren. Doorgaan?"
+
+msgid "cal_nc_permanent_delete"
+msgstr ""
+"Kalender '%s' kan niet worden verwijderd. Alle kalenderinhoud verwijderen?"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr ""
+"Gegevens worden mogelijk ook van andere apparaten verwijderd.\n"
+"\n"
+"Kalender '%s' kan niet worden verwijderd. Alle kalenderinhoud verwijderen?"
+
+msgid "cal_nc_remove_calendar"
+msgstr ""
+"Wilt u deze kalender en alle gebeurtenissen, taken en notities verwijderen?\n"
+"'%s'"
+
+msgid "cal_nc_smart_delete"
+msgstr ""
+"Slimme kalender verwijderen? Er worden geen oorspronkelijke gegevens "
+"verwijderd."
+
+msgid "cal_nc_synced_delete"
+msgstr "Kalender ‘%s’ is gesynchroniseerd. Toch verwijderen?"
+
+msgid "cal_ni_export_nospace"
+msgstr "Onvoldoende ruimte om te exporteren"
+
+msgid "cal_ni_ical_invalid"
+msgstr "Ongeldig kalenderbestand"
+
+msgid "cal_ni_internal_error"
+msgstr "Fout opgetreden"
+
+msgid "cal_ni_web_invalid"
+msgstr "Kalender kan dit adres niet openen"
+
+msgid "cal_task_summary"
+msgstr "%d taken"
+
+msgid "cal_ti_agenda"
+msgstr "Kalender"
+
+msgid "cal_ti_alarm_tone"
+msgstr "Alarmsignaal kiezen"
+
+msgid "cal_ti_calendar_private"
+msgstr "Privé"
+
+msgid "cal_ti_context_delete"
+msgstr "Verwijderen"
+
+msgid "cal_ti_context_edit"
+msgstr "Bewerken"
+
+msgid "cal_ti_edit_calendar"
+msgstr "Kalender bewerken"
+
+msgid "cal_ti_edit_calendars"
+msgstr "Kalenders bewerken"
+
+msgid "cal_ti_edit_event"
+msgstr "Gebeurtenis bewerken"
+
+msgid "cal_ti_edit_note"
+msgstr "Notitie bewerken"
+
+msgid "cal_ti_edit_task"
+msgstr "Taak bewerken"
+
+msgid "cal_ti_event"
+msgstr "Gebeurtenis"
+
+msgid "cal_ti_import"
+msgstr "Kalender selecteren"
+
+msgid "cal_ti_import_info"
+msgstr "%s toevoegen"
+
+msgid "cal_ti_invited_attendees"
+msgstr "Uitgenodigde deelnemers"
+
+msgid "cal_ti_jump_to"
+msgstr "Ga naar"
+
+msgid "cal_ti_no_notes"
+msgstr "(geen notities)"
+
+msgid "cal_ti_no_tasks"
+msgstr "(geen taken)"
+
+msgid "cal_ti_notes"
+msgstr "Notities"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "Alarmsignaal toevoegen"
+
+msgid "cal_ti_organiser"
+msgstr "Organizer"
+
+msgid "cal_ti_remove_event"
+msgstr "Gebeurtenis verwijderen"
+
+msgid "cal_ti_settings"
+msgstr "Instellingen"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "Verjaardagen"
+
+msgid "cal_ti_tasks"
+msgstr "Taken"
+
+msgid "cal_ti_title"
+msgstr "Titel"
+
+msgid "cal_ti_weekview"
+msgstr "Week %s (%s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "Week %s"
+
+msgid "cal_ti_welcome"
+msgstr "Kalender leeg"
+
+msgid "cal_ti_welcome_info"
+msgstr ""
+"Gegevens van oude telefoon overbrengen?\n"
+"\n"
+"Dit kunt u ook later doen via Overdracht en synchronisatie in Instellingen."
+
+msgid "cal_ti_wizard"
+msgstr "Kalender"
+
+msgid "cal_ti_wizard_complete"
+msgstr "Volledig"
+
+msgid "cal_ti_wizard_details"
+msgstr "Details"
+
+msgid "cal_ti_wizard_type"
+msgstr "Type"
+
+msgid "cal_va_0_min"
+msgstr "0 minuten voor"
+
+msgid "cal_va_15_min"
+msgstr "15 minuten voor"
+
+msgid "cal_va_1_hour"
+msgstr "1 uur voor"
+
+msgid "cal_va_30_min"
+msgstr "30 minuten voor"
+
+msgid "cal_va_3_hours"
+msgstr "3 uur voor"
+
+msgid "cal_va_5_min"
+msgstr "5 minuten voor"
+
+msgid "cal_va_allday"
+msgstr ""
+"Hele\n"
+"dag"
+
+msgid "cal_va_allday_home"
+msgstr "Vandaag"
+
+msgid "cal_va_allday_long"
+msgstr "Hele dag"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] "%d gebeurtenis"
+msgstr[1] "%d gebeurtenissen"
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] "%d notitie"
+msgstr[1] "%d notities"
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] "%d taak"
+msgstr[1] "%d taken"
+
+msgid "cal_va_and"
+msgstr "en"
+
+msgid "cal_va_calendar"
+msgstr "'%s' gebruiken"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] "%d zichtbaar"
+msgstr[1] "%d zichtbaar"
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] "%d gebeurtenis"
+msgstr[1] "%d gebeurtenissen"
+
+msgid "cal_va_day_before"
+msgstr "Dag voor"
+
+msgid "cal_va_every_day"
+msgstr "Elke dag"
+
+msgid "cal_va_every_month"
+msgstr "Elke maand"
+
+msgid "cal_va_every_week"
+msgstr "Elke week"
+
+msgid "cal_va_every_workday"
+msgstr "Elke werkdag"
+
+msgid "cal_va_every_year"
+msgstr "Elk jaar"
+
+msgid "cal_va_local"
+msgstr "Lokaal"
+
+msgid "cal_va_monday"
+msgstr "Maandag"
+
+msgid "cal_va_never"
+msgstr "Nooit"
+
+msgid "cal_va_newcalendar"
+msgstr "Nieuwe kalender maken"
+
+msgid "cal_va_none"
+msgstr "Geen"
+
+msgid "cal_va_note_saved"
+msgstr "Laatst opgeslagen op %s"
+
+msgid "cal_va_older_1_month"
+msgstr "Ouder dan 1 maand"
+
+msgid "cal_va_older_1_week"
+msgstr "Ouder dan 1 week"
+
+msgid "cal_va_older_1_year"
+msgstr "Ouder dan 1 jaar"
+
+msgid "cal_va_older_2_weeks"
+msgstr "Ouder dan 2 weken"
+
+msgid "cal_va_placeholder_description"
+msgstr "Beschrijving"
+
+msgid "cal_va_placeholder_note"
+msgstr "Notitie"
+
+msgid "cal_va_placeholder_title"
+msgstr "Titel"
+
+msgid "cal_va_repeat_complex"
+msgstr "(Complexe herhaling. Kan niet worden bewerkt.)"
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(geen bestanden)"
+
+msgid "cal_va_smart"
+msgstr "Slim"
+
+msgid "cal_va_sunday"
+msgstr "Zondag"
+
+msgid "cal_va_synchronized"
+msgstr "Gesynchroniseerd"
+
+msgid "cal_va_today"
+msgstr "%s (vandaag)"

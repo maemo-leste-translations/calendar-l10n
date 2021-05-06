@@ -1,0 +1,546 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: calendar 20100125151649\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.25 15:16+0200\n"
+"PO-Revision-Date: 2010.01.25 15:16+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "cal_ap_name"
+msgstr "Kalendář"
+
+msgid "cal_ap_name_short"
+msgstr "Kalendář"
+
+msgid "cal_bd_edit_calendars"
+msgstr "Upravit kalendáře"
+
+msgid "cal_bd_export"
+msgstr "Exportovat"
+
+msgid "cal_bd_jump"
+msgstr "Přejít"
+
+msgid "cal_bd_monthview_week"
+msgstr "%s"
+
+msgid "cal_bd_new_calendar"
+msgstr "Nový"
+
+msgid "cal_bd_new_event"
+msgstr "Nová událost"
+
+msgid "cal_bd_new_note"
+msgstr "Nová poznámka"
+
+msgid "cal_bd_new_task"
+msgstr "Nový úkol"
+
+msgid "cal_bd_transfer"
+msgstr "Přenos"
+
+msgid "cal_fi_alarm"
+msgstr "Budík"
+
+msgid "cal_fi_alarm_tone"
+msgstr "Tón budíku"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "%d celodenní událost"
+msgstr[1] "%d celodenní události"
+msgstr[2] "%d celodenních událostí"
+
+msgid "cal_fi_calendar"
+msgstr "Kalendář"
+
+msgid "cal_fi_color"
+msgstr "Barva"
+
+msgid "cal_fi_date"
+msgstr "Datum"
+
+msgid "cal_fi_done"
+msgstr "Hotovo"
+
+msgid "cal_fi_enddate"
+msgstr "Do"
+
+msgid "cal_fi_enddate2"
+msgstr "do"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "Skrýt hotové úkoly"
+
+msgid "cal_fi_location"
+msgstr "Kde"
+
+msgid "cal_fi_no_events"
+msgstr "Žádné události nebo úkoly"
+
+msgid "cal_fi_remove_items"
+msgstr "Odstranit položky"
+
+msgid "cal_fi_repeat"
+msgstr "Opakovat"
+
+msgid "cal_fi_repeat_complex"
+msgstr "(Komplexní opakování. Nelze upravit.)"
+
+msgid "cal_fi_repeat_until"
+msgstr "Až do"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "Vyzvánění"
+
+msgid "cal_fi_startdate"
+msgstr "Od"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] "%d úkol nedokončen"
+msgstr[1] "%d úkoly nedokončeny"
+msgstr[2] "%d úkolů nedokončeno"
+
+msgid "cal_fi_visible"
+msgstr "Viditelný"
+
+msgid "cal_fi_week_start_day"
+msgstr "První den týdne"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "Název"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "Místní kalendář"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "Inteligentní kalendář narozenin"
+
+msgid "cal_ia_wizard_complete"
+msgstr ""
+"Nastavení uložte klepnutím na tlačítko „Dokončit“ nebo zrušte klepnutím mimo "
+"průvodce. Nastavení můžete později změnit pomocí možnosti „Nastavení“ "
+"v nabídce."
+
+msgid "cal_ia_wizard_intro"
+msgstr ""
+"Průvodce kalendářem umožňuje vytvářet nové kalendáře.\n"
+"\n"
+"Pokračujte klepnutím na tlačítko „Další“."
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "Průvodce kalendářem dokončen."
+
+msgid "cal_ia_wizard_typetext"
+msgstr "Zvolte typ kalendáře"
+
+msgid "cal_ib_add_title"
+msgstr "Zadejte název události"
+
+msgid "cal_ib_alarm_early"
+msgstr "Čas budíku nemůže být v minulosti"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "Přidáno schválení %s kalendáře"
+
+msgid "cal_ib_calendar_saved"
+msgstr "Kalendář %s uložen"
+
+msgid "cal_ib_date_earlier"
+msgstr "Datum konce události nesmí předcházet datu začátku"
+
+msgid "cal_ib_date_earlier_until"
+msgstr "Datum posledního opakování nesmí předcházet datu začátku události"
+
+msgid "cal_ib_import_duplicate"
+msgstr "Položka je již v kalendáři"
+
+msgid "cal_ib_import_duplicates"
+msgstr "Některé položky jsou již v kalendáři"
+
+msgid "cal_ib_last_event"
+msgstr "Žádné další události"
+
+msgid "cal_ib_setting_failed"
+msgstr "Nelze uložit nastavení"
+
+msgid "cal_ib_time_earlier"
+msgstr "Čas konce události nesmí předcházet času začátku"
+
+msgid "cal_ib_title_exists"
+msgstr "Kalendář se stejným názvem již existuje"
+
+msgid "cal_ib_unix"
+msgstr "Překročen limit dat"
+
+msgid "cal_ib_visible"
+msgstr "Musí být viditelný alespoň jeden kalendář"
+
+msgid "cal_me_agenda_home_applet"
+msgstr "Kalendář"
+
+msgid "cal_me_go_to_notes"
+msgstr "Přejít na poznámky"
+
+msgid "cal_me_go_to_tasks"
+msgstr "Přejít na úkoly"
+
+msgid "cal_me_jump_to_today"
+msgstr "Přejít na dnešní den"
+
+msgid "cal_me_new_event"
+msgstr "Nová událost"
+
+msgid "cal_me_next_day"
+msgstr "Následující den"
+
+msgid "cal_me_next_event"
+msgstr "Následující událost"
+
+msgid "cal_me_next_month"
+msgstr "Následující měsíc"
+
+msgid "cal_me_next_week"
+msgstr "Následující týden"
+
+msgid "cal_me_previous_day"
+msgstr "Předchozí den"
+
+msgid "cal_me_previous_event"
+msgstr "Předchozí událost"
+
+msgid "cal_me_previous_month"
+msgstr "Předchozí měsíc"
+
+msgid "cal_me_previous_week"
+msgstr "Předchozí týden"
+
+msgid "cal_me_toggle_agenda"
+msgstr "Agenda"
+
+msgid "cal_me_toggle_month"
+msgstr "Měsíc"
+
+msgid "cal_me_toggle_week"
+msgstr "Týden"
+
+msgid "cal_more_events"
+msgstr "Další"
+
+msgid "cal_nc_delete_event"
+msgstr ""
+"Odstranit událost?\n"
+"%s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr ""
+"Odstranit událost i všechna opakování?\n"
+"'%s'"
+
+msgid "cal_nc_delete_note"
+msgstr "Odstranit poznámku?"
+
+msgid "cal_nc_delete_task"
+msgstr ""
+"Odstranit úkol?\n"
+"%s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr ""
+"Měníte událost\n"
+"%s\n"
+",kterou nelze zcela upravit. Nejprve nastavte nové pravidlo pro opakování. "
+"Všechna pravidla pro výjimky budou ztracena.\n"
+" Pokračovat?"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr ""
+"Měníte pravidlo opakování pro událost\n"
+"%s\n"
+",kterou nelze zcela upravit. Všechna pravidla pro výjimky budou ztracena. "
+"Pokračovat?"
+
+msgid "cal_nc_permanent_delete"
+msgstr "'%s' kalendář nelze odstranit. Odstranit veškerý obsah kalendáře?"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr ""
+"Data mohou být odstraněna také z ostatních přístrojů.\n"
+"\n"
+"'%s' kalendář nelze odstranit. Odstranit veškerý obsah kalendáře?"
+
+msgid "cal_nc_remove_calendar"
+msgstr ""
+"Odstranit tento kalendář s událostmi, úkoly a poznámkami?\n"
+"'%s'"
+
+msgid "cal_nc_smart_delete"
+msgstr ""
+"Odstranit inteligentní kalendář? Žádná původní data nebudou odstraněna."
+
+msgid "cal_nc_synced_delete"
+msgstr "Kalendář ‘%s’ je synchronizován. Odstranit?"
+
+msgid "cal_ni_export_nospace"
+msgstr "Nedostatek místa pro export"
+
+msgid "cal_ni_ical_invalid"
+msgstr "Neplatný soubor kalendáře"
+
+msgid "cal_ni_internal_error"
+msgstr "Došlo k chybě"
+
+msgid "cal_ni_web_invalid"
+msgstr "Kalendář nemůže otevřít tuto adresu"
+
+msgid "cal_task_summary"
+msgstr "úkoly: %d"
+
+msgid "cal_ti_agenda"
+msgstr "Kalendář"
+
+msgid "cal_ti_alarm_tone"
+msgstr "Zvolte tón budíku"
+
+msgid "cal_ti_calendar_private"
+msgstr "Osobní"
+
+msgid "cal_ti_context_delete"
+msgstr "Odstranit"
+
+msgid "cal_ti_context_edit"
+msgstr "Upravit"
+
+msgid "cal_ti_edit_calendar"
+msgstr "Upravit kalendář"
+
+msgid "cal_ti_edit_calendars"
+msgstr "Upravit kalendáře"
+
+msgid "cal_ti_edit_event"
+msgstr "Upravit událost"
+
+msgid "cal_ti_edit_note"
+msgstr "Upravit poznámku"
+
+msgid "cal_ti_edit_task"
+msgstr "Upravit úkol"
+
+msgid "cal_ti_event"
+msgstr "Událost"
+
+msgid "cal_ti_import"
+msgstr "Vyberte kalendář"
+
+msgid "cal_ti_import_info"
+msgstr "Přidat: %s"
+
+msgid "cal_ti_invited_attendees"
+msgstr "Pozvaní návštěvníci"
+
+msgid "cal_ti_jump_to"
+msgstr "Přejít na datum"
+
+msgid "cal_ti_no_notes"
+msgstr "(žádné poznámky)"
+
+msgid "cal_ti_no_tasks"
+msgstr "(žádné úkoly)"
+
+msgid "cal_ti_notes"
+msgstr "Poznámky"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "Přidejte tón budíku"
+
+msgid "cal_ti_organiser"
+msgstr "Organizátor"
+
+msgid "cal_ti_remove_event"
+msgstr "Odstranit událost"
+
+msgid "cal_ti_settings"
+msgstr "Nastavení"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "Narozeniny"
+
+msgid "cal_ti_tasks"
+msgstr "Úkoly"
+
+msgid "cal_ti_title"
+msgstr "Název"
+
+msgid "cal_ti_weekview"
+msgstr "Týden %s (%s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "Týden %s"
+
+msgid "cal_ti_welcome"
+msgstr "Kalendář prázdný"
+
+msgid "cal_ti_welcome_info"
+msgstr ""
+"Přenést data ze starého telefonu?\n"
+"\n"
+"Lze provést později prostřednictvím možnosti Přenos a synchronizace "
+"v Nastavení."
+
+msgid "cal_ti_wizard"
+msgstr "Kalendář"
+
+msgid "cal_ti_wizard_complete"
+msgstr "Dokončit"
+
+msgid "cal_ti_wizard_details"
+msgstr "Podrobnosti"
+
+msgid "cal_ti_wizard_type"
+msgstr "Typ"
+
+msgid "cal_va_0_min"
+msgstr "O 0 minut dříve"
+
+msgid "cal_va_15_min"
+msgstr "O 15 minut dříve"
+
+msgid "cal_va_1_hour"
+msgstr "O 1 hodinu dříve"
+
+msgid "cal_va_30_min"
+msgstr "O 30 minut dříve"
+
+msgid "cal_va_3_hours"
+msgstr "O 3 hodiny dříve"
+
+msgid "cal_va_5_min"
+msgstr "O 5 minut dříve"
+
+msgid "cal_va_allday"
+msgstr ""
+"Celý\n"
+"den"
+
+msgid "cal_va_allday_home"
+msgstr "Dnes"
+
+msgid "cal_va_allday_long"
+msgstr "Celý den"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] "%d událost"
+msgstr[1] "%d události"
+msgstr[2] "%d událostí"
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] "%d poznámka"
+msgstr[1] "%d poznámky"
+msgstr[2] "%d poznámek"
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] "%d úkol"
+msgstr[1] "%d úkoly"
+msgstr[2] "%d úkolů"
+
+msgid "cal_va_and"
+msgstr "a"
+
+msgid "cal_va_calendar"
+msgstr "Použijte '%s'"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] "%d viditelný"
+msgstr[1] "%d viditelné"
+msgstr[2] "%d viditelných"
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] "%d událost"
+msgstr[1] "%d události"
+msgstr[2] "%d událostí"
+
+msgid "cal_va_day_before"
+msgstr "Den předem"
+
+msgid "cal_va_every_day"
+msgstr "Každý den"
+
+msgid "cal_va_every_month"
+msgstr "Každý měsíc"
+
+msgid "cal_va_every_week"
+msgstr "Každý týden"
+
+msgid "cal_va_every_workday"
+msgstr "Každý pracovní den"
+
+msgid "cal_va_every_year"
+msgstr "Každý rok"
+
+msgid "cal_va_local"
+msgstr "Místní"
+
+msgid "cal_va_monday"
+msgstr "Pondělí"
+
+msgid "cal_va_never"
+msgstr "Nikdy"
+
+msgid "cal_va_newcalendar"
+msgstr "Vytvořte nový kalendář"
+
+msgid "cal_va_none"
+msgstr "Žádný"
+
+msgid "cal_va_note_saved"
+msgstr "Poslední uložené %s"
+
+msgid "cal_va_older_1_month"
+msgstr "Starší než 1 měsíc"
+
+msgid "cal_va_older_1_week"
+msgstr "Starší než 1 týden"
+
+msgid "cal_va_older_1_year"
+msgstr "Starší než 1 rok"
+
+msgid "cal_va_older_2_weeks"
+msgstr "Starší než 2 týdny"
+
+msgid "cal_va_placeholder_description"
+msgstr "Popis"
+
+msgid "cal_va_placeholder_note"
+msgstr "Poznámka"
+
+msgid "cal_va_placeholder_title"
+msgstr "Název"
+
+msgid "cal_va_repeat_complex"
+msgstr "(Komplexní opakování. Nelze upravit.)"
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(žádné soubory)"
+
+msgid "cal_va_smart"
+msgstr "Inteligentní"
+
+msgid "cal_va_sunday"
+msgstr "Neděle"
+
+msgid "cal_va_synchronized"
+msgstr "Synchronizováno"
+
+msgid "cal_va_today"
+msgstr "%s (dnes)"
