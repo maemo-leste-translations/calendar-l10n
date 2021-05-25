@@ -1,0 +1,533 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: calendar 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-04-22 19:38+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: Adib Al Abaji <shami585@yahoo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: SYRIAN ARAB REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "cal_ap_name"
+msgstr "التقويم"
+
+msgid "cal_ap_name_short"
+msgstr "التقويم"
+
+msgid "cal_bd_edit_calendars"
+msgstr "تعديل التقويم"
+
+msgid "cal_bd_export"
+msgstr "إرسال"
+
+msgid "cal_bd_jump"
+msgstr "الإنتقال"
+
+msgid "cal_bd_monthview_week"
+msgstr "w%s"
+
+msgid "cal_bd_new_calendar"
+msgstr "جديد"
+
+msgid "cal_bd_new_event"
+msgstr "حدث جديد"
+
+msgid "cal_bd_new_note"
+msgstr "ملاحظة جديدة"
+
+msgid "cal_bd_new_task"
+msgstr "مهمة جديدة"
+
+msgid "cal_bd_transfer"
+msgstr "نقل"
+
+msgid "cal_fi_alarm"
+msgstr "المنبه"
+
+msgid "cal_fi_alarm_tone"
+msgstr "نغمة المنبه"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "%d حدث لليوم كله"
+msgstr[1] "%d احداث لليوم كله"
+
+msgid "cal_fi_calendar"
+msgstr "التقويم"
+
+msgid "cal_fi_color"
+msgstr "اللون"
+
+msgid "cal_fi_date"
+msgstr "التاريخ"
+
+msgid "cal_fi_done"
+msgstr "تم"
+
+msgid "cal_fi_enddate"
+msgstr "إلى"
+
+msgid "cal_fi_enddate2"
+msgstr "إلى"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "إخفاء المهام المنتهية"
+
+msgid "cal_fi_location"
+msgstr "المكان"
+
+msgid "cal_fi_no_events"
+msgstr "لا يوجد أحداث أو مهام"
+
+msgid "cal_fi_pcsuite"
+msgstr "(PC Suite أستخدم بواسطة)"
+
+msgid "cal_fi_remove_items"
+msgstr "مسح"
+
+msgid "cal_fi_repeat"
+msgstr "تكرار"
+
+msgid "cal_fi_repeat_complex"
+msgstr "(غير قادر على التعديل)"
+
+msgid "cal_fi_repeat_until"
+msgstr "حتى"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "رنين"
+
+msgid "cal_fi_startdate"
+msgstr "من"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] "%d المهمة غير مكتملة"
+msgstr[1] "%d المهام غير مكتملة"
+
+msgid "cal_fi_visible"
+msgstr "مرئي"
+
+msgid "cal_fi_week_start_day"
+msgstr "أول يوم من الأسبوع"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "العنوان"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "تقويم محلي"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "تقويم أعياد الميلاد"
+
+msgid "cal_ia_wizard_complete"
+msgstr "اضغط 'انهاء' لحفظ التغيرات أو انقر خارج المربع في المساحة الفارغة لتجاهل التغييرات. تستطيع الرجوع لتغيير الإعدادات لاحقاً من الإعدادات في القائمة"
+
+msgid "cal_ia_wizard_intro"
+msgstr ""
+"إعداد التقويم يسمح لك بإنشاء تقويم جديد.\n"
+"\n"
+"اضغط 'التالي' للمتابعة."
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "تم إعداد التقويم بنجاح."
+
+msgid "cal_ia_wizard_typetext"
+msgstr "إختر نوع التقويم"
+
+msgid "cal_ib_add_title"
+msgstr "أضف عنوان"
+
+msgid "cal_ib_alarm_early"
+msgstr "لا يمكن إضافة منبه في وقت ماضي"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "تقويم جديد %s تمت الإضافته"
+
+msgid "cal_ib_calendar_saved"
+msgstr "التقويم %s تم حفظه"
+
+msgid "cal_ib_date_earlier"
+msgstr "تاريخ انتهاء الحدث يجب ان يكون بعد ابتدائه"
+
+msgid "cal_ib_date_earlier_until"
+msgstr "تاريخ التكرار الأخير يجب ان يكون بعد تاريخ ابتداء الحدث"
+
+msgid "cal_ib_import_duplicate"
+msgstr "ما تحاول اضافته موجود فعلياً في التوقيم"
+
+msgid "cal_ib_import_duplicates"
+msgstr "بعض مما تحاول اضافته موجود فعلياً في التقويم"
+
+msgid "cal_ib_last_event"
+msgstr "لا يوجد أحداث أخرى"
+
+msgid "cal_ib_setting_failed"
+msgstr "غير قادر على حفظ الإعدادات"
+
+msgid "cal_ib_time_earlier"
+msgstr "وقت إنتهاء الحديث يجب ان يكون في وقت لاحق بعد بدئه"
+
+msgid "cal_ib_title_exists"
+msgstr "تقويم بنفس العنون موجود فعلياً"
+
+msgid "cal_ib_unix"
+msgstr "تم تجاوز الحد المسموح للتاريخ"
+
+msgid "cal_ib_visible"
+msgstr "يجب ان يكون تقويم واحد ظاهر على الأقل"
+
+msgid "cal_me_agenda_home_applet"
+msgstr "التقويم"
+
+msgid "cal_me_go_to_notes"
+msgstr "الذهاب إلى الملاحظات"
+
+msgid "cal_me_go_to_tasks"
+msgstr "الذهاب إلى المهام"
+
+msgid "cal_me_jump_to_today"
+msgstr "الإنتقال إلى اليوم"
+
+msgid "cal_me_new_event"
+msgstr "حدث جديد"
+
+msgid "cal_me_next_day"
+msgstr "اليوم التالي"
+
+msgid "cal_me_next_event"
+msgstr "الحدث التالي"
+
+msgid "cal_me_next_month"
+msgstr "الشهر القادم"
+
+msgid "cal_me_next_week"
+msgstr "الأسبوع القادم"
+
+msgid "cal_me_previous_day"
+msgstr "اليوم السابق"
+
+msgid "cal_me_previous_event"
+msgstr "حدث سابق"
+
+msgid "cal_me_previous_month"
+msgstr "الشهر سابق"
+
+msgid "cal_me_previous_week"
+msgstr "الأسبوع سابق"
+
+msgid "cal_me_toggle_agenda"
+msgstr "جدول الأعمال"
+
+msgid "cal_me_toggle_month"
+msgstr "شهر"
+
+msgid "cal_me_toggle_week"
+msgstr "أسبوع"
+
+msgid "cal_more_events"
+msgstr "المزيد"
+
+msgid "cal_nc_delete_event"
+msgstr ""
+"حذف الحدث?\n"
+"%s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr ""
+"حذف الحدث والتكرار?\n"
+"'%s'"
+
+msgid "cal_nc_delete_note"
+msgstr "حذف الملاحظة?"
+
+msgid "cal_nc_delete_task"
+msgstr ""
+"حذف المهمة?\n"
+"%s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr ""
+"أنت تعدل الحدث\n"
+"%s\n"
+"لا يمكن التعديل كاملاً. يجب وضع تكرار أولاً. أي تكرار آخر سوف يحذف.\n"
+"المتابعة?"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr ""
+"انت تعدل تكرار الحدث\n"
+"%s\n"
+"لا يمكن تعديله كاملاً. أي تكرار آخر سوف يحذف. المتابعة?"
+
+msgid "cal_nc_permanent_delete"
+msgstr "'%s' لا يمكن حذف التقويم. حذف كل محتوى التقويم?"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr ""
+"المعلومات قد تحذف من أجهزة اخرى.\n"
+"\n"
+"'%s' لا يمكن حذف التقويم. حذف كل محتوى التقويم?"
+
+msgid "cal_nc_remove_calendar"
+msgstr ""
+"حذف التقويم ومكوناته, أحداث وملاحظات?\n"
+"'%s'"
+
+msgid "cal_nc_smart_delete"
+msgstr "حذف التقويم الذكي? لن يحذف أي محتوى موجود مسبقاً."
+
+msgid "cal_nc_synced_delete"
+msgstr "التقويم ‘%s’ تمت مزامنته. هل تريد الحذف?"
+
+msgid "cal_ni_export_nospace"
+msgstr "لا يوجد مساحة كافية للإرسال"
+
+msgid "cal_ni_ical_invalid"
+msgstr "ملف تقويم معطوب"
+
+msgid "cal_ni_internal_error"
+msgstr "حدث خطأ"
+
+msgid "cal_ni_web_invalid"
+msgstr "تعذر على القويم فتح هذا العنوان"
+
+msgid "cal_task_summary"
+msgstr "%d المهام"
+
+msgid "cal_ti_agenda"
+msgstr "التقويم"
+
+msgid "cal_ti_alarm_tone"
+msgstr "اختر نغمة المنبه"
+
+msgid "cal_ti_calendar_private"
+msgstr "خاص"
+
+msgid "cal_ti_context_delete"
+msgstr "حذف"
+
+msgid "cal_ti_context_edit"
+msgstr "تعديل"
+
+msgid "cal_ti_edit_calendar"
+msgstr "تعديل التقويم"
+
+msgid "cal_ti_edit_calendars"
+msgstr "تعديل التقاويم"
+
+msgid "cal_ti_edit_event"
+msgstr "تعديل الحدث"
+
+msgid "cal_ti_edit_note"
+msgstr "تعديل الملاحظة"
+
+msgid "cal_ti_edit_task"
+msgstr "تعديل المهمة"
+
+msgid "cal_ti_event"
+msgstr "حدث"
+
+msgid "cal_ti_import"
+msgstr "أختر التقويم"
+
+msgid "cal_ti_import_info"
+msgstr "جاري الإضافة %s"
+
+msgid "cal_ti_jump_to"
+msgstr "الإنتقال إلى"
+
+msgid "cal_ti_no_notes"
+msgstr "(لا يوجد ملاحظات)"
+
+msgid "cal_ti_no_tasks"
+msgstr "(لا يوجد مهام)"
+
+msgid "cal_ti_notes"
+msgstr "ملاحظات"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "إضافة نغمة منبه"
+
+msgid "cal_ti_remove_event"
+msgstr "حذف الحدث"
+
+msgid "cal_ti_settings"
+msgstr "الإعدادات"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "أعياد الميلاد"
+
+msgid "cal_ti_tasks"
+msgstr "المهام"
+
+msgid "cal_ti_title"
+msgstr "العنوان"
+
+msgid "cal_ti_weekview"
+msgstr "الأسبوع %s (%s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "الأسبوع %s"
+
+msgid "cal_ti_welcome"
+msgstr "التقويم فارغ"
+
+msgid "cal_ti_welcome_info"
+msgstr ""
+"نقل معلومات من جهاز قديم?\n"
+"\n"
+"يمكن عمل هذا بواسطة النقل & التزامن في الإعدادات"
+
+msgid "cal_ti_wizard"
+msgstr "التقويم"
+
+msgid "cal_ti_wizard_complete"
+msgstr "تم بنجاح"
+
+msgid "cal_ti_wizard_details"
+msgstr "تفاصيل"
+
+msgid "cal_ti_wizard_type"
+msgstr "النوع"
+
+msgid "cal_va_0_min"
+msgstr "0 دقائق قبل"
+
+msgid "cal_va_15_min"
+msgstr "15 دقيقة قبل"
+
+msgid "cal_va_1_hour"
+msgstr "ساعة قبل"
+
+msgid "cal_va_30_min"
+msgstr "30 دقيقة قبل"
+
+msgid "cal_va_3_hours"
+msgstr "3 ساعات قبل"
+
+msgid "cal_va_5_min"
+msgstr "5 دقائق قبل"
+
+msgid "cal_va_allday"
+msgstr ""
+"كل\n"
+"اليوم"
+
+msgid "cal_va_allday_home"
+msgstr "اليوم"
+
+msgid "cal_va_allday_long"
+msgstr "كل اليوم"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] "%d حدث"
+msgstr[1] "%d أحداث"
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] "%d ملاحظة"
+msgstr[1] "%d ملاحظات"
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] "%d مهمة"
+msgstr[1] "%d مهام"
+
+msgid "cal_va_and"
+msgstr "و"
+
+msgid "cal_va_calendar"
+msgstr "استعمال '%s'"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] "%d ظاهر"
+msgstr[1] "%d ظاهر"
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] "%d حدث"
+msgstr[1] "%d أحداث"
+
+msgid "cal_va_day_before"
+msgstr "يوماً قبل"
+
+msgid "cal_va_every_day"
+msgstr "كل يوم"
+
+msgid "cal_va_every_month"
+msgstr "كل شهر"
+
+msgid "cal_va_every_week"
+msgstr "كل أسبوع"
+
+msgid "cal_va_every_workday"
+msgstr "كل يوم عمل"
+
+msgid "cal_va_every_year"
+msgstr "كل سنة"
+
+msgid "cal_va_local"
+msgstr "محلي"
+
+msgid "cal_va_monday"
+msgstr "الإثنين"
+
+msgid "cal_va_never"
+msgstr "أبداً"
+
+msgid "cal_va_newcalendar"
+msgstr "انشئ تقويم جديد"
+
+msgid "cal_va_none"
+msgstr "لا شيء"
+
+msgid "cal_va_note_saved"
+msgstr "آخر حفظ %s"
+
+msgid "cal_va_older_1_month"
+msgstr "أقدم من 1 شهر"
+
+msgid "cal_va_older_1_week"
+msgstr "اقدم من 1 أسبوع"
+
+msgid "cal_va_older_1_year"
+msgstr "أقدم من 1 سنة"
+
+msgid "cal_va_older_2_weeks"
+msgstr "أقدم من أسبوعان"
+
+msgid "cal_va_placeholder_description"
+msgstr "الوصف"
+
+msgid "cal_va_placeholder_note"
+msgstr "ملاحظة"
+
+msgid "cal_va_placeholder_title"
+msgstr "عنوان"
+
+msgid "cal_va_repeat_complex"
+msgstr "(غير قادر على التعديل.)"
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(لا يوجد ملفات)"
+
+msgid "cal_va_smart"
+msgstr "ذكي"
+
+msgid "cal_va_sunday"
+msgstr "الأحد"
+
+msgid "cal_va_synchronized"
+msgstr "تمت مزامنته"
+
+msgid "cal_va_today"
+msgstr "%s (اليوم)"
+
