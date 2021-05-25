@@ -1,0 +1,536 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: calendar 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010.04.26 21:39+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cal_ap_name"
+msgstr "Takvim"
+
+msgid "cal_ap_name_short"
+msgstr "Takvim"
+
+msgid "cal_bd_edit_calendars"
+msgstr "Takvimleri düzenle"
+
+msgid "cal_bd_export"
+msgstr "Aktar"
+
+msgid "cal_bd_jump"
+msgstr "Atla"
+
+msgid "cal_bd_monthview_week"
+msgstr "h%s"
+
+msgid "cal_bd_new_calendar"
+msgstr "Yeni"
+
+msgid "cal_bd_new_event"
+msgstr "Yeni olay"
+
+msgid "cal_bd_new_note"
+msgstr "Yeni not"
+
+msgid "cal_bd_new_task"
+msgstr "Yeni görev"
+
+msgid "cal_bd_transfer"
+msgstr "Aktar"
+
+msgid "cal_fi_alarm"
+msgstr "Alarm"
+
+msgid "cal_fi_alarm_tone"
+msgstr "Alarm tonu"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "%d tam-gün olay"
+msgstr[1] "%d tam-gün olay"
+
+msgid "cal_fi_calendar"
+msgstr "Takvim"
+
+msgid "cal_fi_color"
+msgstr "Renk"
+
+msgid "cal_fi_date"
+msgstr "Tarih"
+
+msgid "cal_fi_done"
+msgstr "Bitti"
+
+msgid "cal_fi_enddate"
+msgstr "Bitiş"
+
+msgid "cal_fi_enddate2"
+msgstr "kaça"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "Tamamlanmış görevleri sakla"
+
+msgid "cal_fi_location"
+msgstr "Nerede"
+
+msgid "cal_fi_no_events"
+msgstr "Olay ya da görev yok"
+
+msgid "cal_fi_pcsuite"
+msgstr "(PC Suite tarafından kullanıldı)"
+
+msgid "cal_fi_remove_items"
+msgstr "Öğeleri sil"
+
+msgid "cal_fi_repeat"
+msgstr "Tekrar"
+
+msgid "cal_fi_repeat_complex"
+msgstr "(Karmaşık tekrar. Düzenlenemiyor.)"
+
+msgid "cal_fi_repeat_until"
+msgstr "Kadar"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "Çan sesi"
+
+msgid "cal_fi_startdate"
+msgstr "Başlangıç"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] "%d görev yapılmadı"
+msgstr[1] "%d görev yapılmadı"
+
+msgid "cal_fi_visible"
+msgstr "Görünür"
+
+msgid "cal_fi_week_start_day"
+msgstr "Haftanın ilk günü"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "Başlık"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "Yerel takvim"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "Akıllı doğum günü takvimi"
+
+msgid "cal_ia_wizard_complete"
+msgstr "Kaydetmek için 'Bitir' tuşuna, vazgeçmek için sihirbazın dışına basın.  Ayarları daha sonra 'Ayarlar' menüsünden değiştirebilirsiniz."
+
+msgid "cal_ia_wizard_intro"
+msgstr ""
+"Takvim sihirbazı yeni takvimler oluşturmanızı sağlar.\n"
+"\n"
+"Devam etmek için 'İleri' tuşuna basın."
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "Takvim sihirbazı tamamlandı."
+
+msgid "cal_ia_wizard_typetext"
+msgstr "Takvim türünü seç"
+
+msgid "cal_ib_add_title"
+msgstr "Başlık ekle"
+
+msgid "cal_ib_alarm_early"
+msgstr "Alarm zamanı geçmişte olamaz"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "%s takvim aboneliği eklendi"
+
+msgid "cal_ib_calendar_saved"
+msgstr "%s takvimi kaydedildi"
+
+msgid "cal_ib_date_earlier"
+msgstr "Olay bitiş zamanı başlangıç zamanından daha geç olmalı"
+
+msgid "cal_ib_date_earlier_until"
+msgstr "Son tekrar tarihi olay başlangıç tarihinden daha geç olmalı"
+
+msgid "cal_ib_import_duplicate"
+msgstr "Öğe zaten takvimde mevcut"
+
+msgid "cal_ib_import_duplicates"
+msgstr "Bazı öğeler zaten takvimde mevcut"
+
+msgid "cal_ib_last_event"
+msgstr "Başka olay yok"
+
+msgid "cal_ib_setting_failed"
+msgstr "Ayarlar kaydedilemedi"
+
+msgid "cal_ib_time_earlier"
+msgstr "Olay bitiş zamanı başlangıç zamanından daha geç olmalı"
+
+msgid "cal_ib_title_exists"
+msgstr "Aynı başlıklı takvim mevcut"
+
+msgid "cal_ib_unix"
+msgstr "Tarih limiti aşmıştır"
+
+msgid "cal_ib_visible"
+msgstr "En az bir takvim görünür olmalı"
+
+msgid "cal_me_agenda_home_applet"
+msgstr "Takvim"
+
+msgid "cal_me_go_to_notes"
+msgstr "Notlara git"
+
+msgid "cal_me_go_to_tasks"
+msgstr "Görevlere git"
+
+msgid "cal_me_jump_to_today"
+msgstr "Bugüne atla"
+
+msgid "cal_me_new_event"
+msgstr "Yeni olay"
+
+msgid "cal_me_next_day"
+msgstr "Gelecek gün"
+
+msgid "cal_me_next_event"
+msgstr "Gelecek olay"
+
+msgid "cal_me_next_month"
+msgstr "Gelecek ay"
+
+msgid "cal_me_next_week"
+msgstr "Gelecek hafta"
+
+msgid "cal_me_previous_day"
+msgstr "Önceki gün"
+
+msgid "cal_me_previous_event"
+msgstr "Önceki olay"
+
+msgid "cal_me_previous_month"
+msgstr "Önceki ay"
+
+msgid "cal_me_previous_week"
+msgstr "Önceki hafta"
+
+msgid "cal_me_toggle_agenda"
+msgstr "Ajanda"
+
+msgid "cal_me_toggle_month"
+msgstr "Ay"
+
+msgid "cal_me_toggle_week"
+msgstr "Hafta"
+
+msgid "cal_more_events"
+msgstr "Daha fazla"
+
+msgid "cal_nc_delete_event"
+msgstr ""
+"Olay silinsin mi?\n"
+"%s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr ""
+"Bu olay ve tüm tekrarları silinsin mi?\n"
+"'%s'"
+
+msgid "cal_nc_delete_note"
+msgstr "Not silinsin mi?"
+
+msgid "cal_nc_delete_task"
+msgstr ""
+"Görev silinsin mi?\n"
+"%s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr ""
+"Bu olayı düzenliyorsunuz\n"
+"%s\n"
+"tamamen düzenlenemedi. İlk olarak yeni bir tekrar kuralı ayarlanması gerekiyor. Tüm istisna kurallar kaybedilecek.\n"
+"Devam et?"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr ""
+"Bu olayın tekrar kuralını değiştiriyorsunuz\n"
+"%s\n"
+"Bu kural tamamen düzenlenemedi.İstisna kurallar kaybolacaktır. devam edilsin mi?"
+
+msgid "cal_nc_permanent_delete"
+msgstr "'%s' takvimi silinemedi.Onun yerine takvim içeriği silinsin mi?"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr ""
+"Veri diğer cihazlardanda silinebilir.\n"
+"\n"
+"'%s' takvimi silinemedi.Onun yerine takvim içeriği silinsin mi?"
+
+msgid "cal_nc_remove_calendar"
+msgstr ""
+"Bu takvim olayları, görevleri ve notlarıyla beraber silinsin mi?\n"
+"'%s'"
+
+msgid "cal_nc_smart_delete"
+msgstr "Akıllı takvim silinsin mi? Özgün veri silinmeyecektir."
+
+msgid "cal_nc_synced_delete"
+msgstr "‘%s’ takvimi senkronlandı. Yine de silinsin mi?"
+
+msgid "cal_ni_export_nospace"
+msgstr "Dışarıya aktarmak için yeterince yer yok"
+
+msgid "cal_ni_ical_invalid"
+msgstr "Geçersiz takvim dosyası"
+
+msgid "cal_ni_internal_error"
+msgstr "Hata oluştu"
+
+msgid "cal_ni_web_invalid"
+msgstr "Takvim bu adresi açamadı"
+
+msgid "cal_task_summary"
+msgstr "%d görev"
+
+msgid "cal_ti_agenda"
+msgstr "Takvim"
+
+msgid "cal_ti_alarm_tone"
+msgstr "Alarm tonu seç"
+
+msgid "cal_ti_calendar_private"
+msgstr "Özel"
+
+msgid "cal_ti_context_delete"
+msgstr "Sil"
+
+msgid "cal_ti_context_edit"
+msgstr "Düzenle"
+
+msgid "cal_ti_edit_calendar"
+msgstr "Takvim düzenle"
+
+msgid "cal_ti_edit_calendars"
+msgstr "Takvimleri düzenle"
+
+msgid "cal_ti_edit_event"
+msgstr "Olay düzenle"
+
+msgid "cal_ti_edit_note"
+msgstr "Not düzenle"
+
+msgid "cal_ti_edit_task"
+msgstr "Görev düzenle"
+
+msgid "cal_ti_event"
+msgstr "Olay"
+
+msgid "cal_ti_import"
+msgstr "Takvim seç"
+
+msgid "cal_ti_import_info"
+msgstr "%s ekleniyor"
+
+msgid "cal_ti_invited_attendees"
+msgstr "Davetli katılımcılar"
+
+msgid "cal_ti_jump_to"
+msgstr "Atla"
+
+msgid "cal_ti_no_notes"
+msgstr "(not yok)"
+
+msgid "cal_ti_no_tasks"
+msgstr "(Görev yok)"
+
+msgid "cal_ti_notes"
+msgstr "Notlar"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "Alarm tonu ekle"
+
+msgid "cal_ti_organiser"
+msgstr "Ajanda"
+
+msgid "cal_ti_remove_event"
+msgstr "Olayı sil"
+
+msgid "cal_ti_settings"
+msgstr "Ayarlar"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "Doğum günleri"
+
+msgid "cal_ti_tasks"
+msgstr "Görevler"
+
+msgid "cal_ti_title"
+msgstr "Başlık"
+
+msgid "cal_ti_weekview"
+msgstr "Hafta %s (%s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "Hafta %s"
+
+msgid "cal_ti_welcome"
+msgstr "Takvim boş"
+
+msgid "cal_ti_welcome_info"
+msgstr ""
+"Eski telefondan veri aktarılsın mı?\n"
+"\n"
+"Daha sonra Ayarlar'da Aktar & Senkronla bölümünden yapılabilir."
+
+msgid "cal_ti_wizard"
+msgstr "Takvim"
+
+msgid "cal_ti_wizard_complete"
+msgstr "Tamamla"
+
+msgid "cal_ti_wizard_details"
+msgstr "Ayrıntılar"
+
+msgid "cal_ti_wizard_type"
+msgstr "Tür"
+
+msgid "cal_va_0_min"
+msgstr "0 dakika önce"
+
+msgid "cal_va_15_min"
+msgstr "15 dakika önce"
+
+msgid "cal_va_1_hour"
+msgstr "1 saat önce"
+
+msgid "cal_va_30_min"
+msgstr "30 dakika önce"
+
+msgid "cal_va_3_hours"
+msgstr "3 saat önce"
+
+msgid "cal_va_5_min"
+msgstr "5 dakika önce"
+
+msgid "cal_va_allday"
+msgstr ""
+"Gün\n"
+"Boyu"
+
+msgid "cal_va_allday_home"
+msgstr "Bugün"
+
+msgid "cal_va_allday_long"
+msgstr "Gün boyu"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] "%d olay"
+msgstr[1] "%d olay"
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] "%d not"
+msgstr[1] "%d not"
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] "%d görev"
+msgstr[1] "%d görev"
+
+msgid "cal_va_and"
+msgstr "ve"
+
+msgid "cal_va_calendar"
+msgstr "'%s' kullan"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] "%d görünür"
+msgstr[1] "%d görünür"
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] "%d olay"
+msgstr[1] "%d olay"
+
+msgid "cal_va_day_before"
+msgstr "Önceki gün"
+
+msgid "cal_va_every_day"
+msgstr "Her gün"
+
+msgid "cal_va_every_month"
+msgstr "Her ay"
+
+msgid "cal_va_every_week"
+msgstr "Her hafta"
+
+msgid "cal_va_every_workday"
+msgstr "Her iş günü"
+
+msgid "cal_va_every_year"
+msgstr "Her yıl"
+
+msgid "cal_va_local"
+msgstr "Yerel"
+
+msgid "cal_va_monday"
+msgstr "Pazartesi"
+
+msgid "cal_va_never"
+msgstr "Asla"
+
+msgid "cal_va_newcalendar"
+msgstr "Yeni takvim oluştur"
+
+msgid "cal_va_none"
+msgstr "Hiçbiri"
+
+msgid "cal_va_note_saved"
+msgstr "Son kaydedildi %s"
+
+msgid "cal_va_older_1_month"
+msgstr "1 aydan eski"
+
+msgid "cal_va_older_1_week"
+msgstr "1 haftadan eski"
+
+msgid "cal_va_older_1_year"
+msgstr "1 yıldan eski"
+
+msgid "cal_va_older_2_weeks"
+msgstr "2 haftadan eski"
+
+msgid "cal_va_placeholder_description"
+msgstr "Açıklama"
+
+msgid "cal_va_placeholder_note"
+msgstr "Not"
+
+msgid "cal_va_placeholder_title"
+msgstr "Başlık"
+
+msgid "cal_va_repeat_complex"
+msgstr "(Karmaşık tekrar. Düzenlenemiyor.)"
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(dosya yok)"
+
+msgid "cal_va_smart"
+msgstr "Akıllı"
+
+msgid "cal_va_sunday"
+msgstr "Pazar"
+
+msgid "cal_va_synchronized"
+msgstr "Senkronlandı"
+
+msgid "cal_va_today"
+msgstr "%s (bugün)"
+
