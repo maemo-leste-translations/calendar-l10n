@@ -1,0 +1,533 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: calendar 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-05-04 09:23+0100\n"
+"Last-Translator: Tari László <n900nseries@gmail.com>\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cal_ap_name"
+msgstr "Naptár"
+
+msgid "cal_ap_name_short"
+msgstr "Naptár"
+
+msgid "cal_bd_edit_calendars"
+msgstr "Naptár beállítás"
+
+msgid "cal_bd_export"
+msgstr "Export"
+
+msgid "cal_bd_jump"
+msgstr "Ugrás"
+
+msgid "cal_bd_monthview_week"
+msgstr "h%s"
+
+msgid "cal_bd_new_calendar"
+msgstr "Új"
+
+msgid "cal_bd_new_event"
+msgstr "Új esemény"
+
+msgid "cal_bd_new_note"
+msgstr "Új megjegyzés"
+
+msgid "cal_bd_new_task"
+msgstr "Új feladat"
+
+msgid "cal_bd_transfer"
+msgstr "Átvitel"
+
+msgid "cal_fi_alarm"
+msgstr "Riasztás"
+
+msgid "cal_fi_alarm_tone"
+msgstr "Riasztás hangja"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "%d egésznapos esemény"
+msgstr[1] "%d egésznapos események"
+
+msgid "cal_fi_calendar"
+msgstr "Naptár"
+
+msgid "cal_fi_color"
+msgstr "Szín"
+
+msgid "cal_fi_date"
+msgstr "Dátum"
+
+msgid "cal_fi_done"
+msgstr "Befejezett"
+
+msgid "cal_fi_enddate"
+msgstr ".-ig"
+
+msgid "cal_fi_enddate2"
+msgstr ".-ig"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "Ne mutasd a befejezett feladatokat"
+
+msgid "cal_fi_location"
+msgstr "Hol"
+
+msgid "cal_fi_no_events"
+msgstr "Nincs esemény vagy feladat"
+
+msgid "cal_fi_pcsuite"
+msgstr "(used by PC Suite)"
+
+msgid "cal_fi_remove_items"
+msgstr "Elemek törlése"
+
+msgid "cal_fi_repeat"
+msgstr "Ismétlés"
+
+msgid "cal_fi_repeat_complex"
+msgstr "(Összetett ismétlés. Nem lehet szerkeszteni.)"
+
+msgid "cal_fi_repeat_until"
+msgstr "Eddig"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "Chime"
+
+msgid "cal_fi_startdate"
+msgstr "Tól"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] "%d befejezetlen feladat"
+msgstr[1] "%d befejezetlen feladatok"
+
+msgid "cal_fi_visible"
+msgstr "Látható"
+
+msgid "cal_fi_week_start_day"
+msgstr "A hét első napja"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "Cím"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "Helyi naptár"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "Születésnapok"
+
+msgid "cal_ia_wizard_complete"
+msgstr "Nyomd meg a 'Befejezés' gombot vagy nyomj a varázslón kivüli területre az elvetéshez. Később is megváltoztathatod a beállításaidat a 'Beállítások' menüben."
+
+msgid "cal_ia_wizard_intro"
+msgstr ""
+"A naptár varázsló segít neked létrehozni új naptárakat.\n"
+"\n"
+"Nyomd meg a  'Következő' gombot a folytatáshoz."
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "Naptár varázsló kész."
+
+msgid "cal_ia_wizard_typetext"
+msgstr "Válaszd ki a naptár tipsát"
+
+msgid "cal_ib_add_title"
+msgstr "Cím hozzáadása"
+
+msgid "cal_ib_alarm_early"
+msgstr "A riasztás nem lehet korábbi a mai dátumnál"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "Naptár aláírás %s hozzáadva"
+
+msgid "cal_ib_calendar_saved"
+msgstr "Naptár %s elmentve"
+
+msgid "cal_ib_date_earlier"
+msgstr "Az esemény vége dátumának később kell lennie mint a kezdő dátumának!"
+
+msgid "cal_ib_date_earlier_until"
+msgstr "Az utolsó ismétlés dátumának később kell lennie mint az esemény kezdő dátuma!"
+
+msgid "cal_ib_import_duplicate"
+msgstr "Már van egy ilyen elem a naptárban"
+
+msgid "cal_ib_import_duplicates"
+msgstr "Már vannak ilyen elemek a naptárban"
+
+msgid "cal_ib_last_event"
+msgstr "Nincs több esemény"
+
+msgid "cal_ib_setting_failed"
+msgstr "Nem lehet menteni a beállításokat"
+
+msgid "cal_ib_time_earlier"
+msgstr "Az esemény vége időpontjának később kell lennie mint a kezdő időpontjának!"
+
+msgid "cal_ib_title_exists"
+msgstr "Már van ilyen nevü naptár"
+
+msgid "cal_ib_unix"
+msgstr "Dátum túl távoli"
+
+msgid "cal_ib_visible"
+msgstr "Legalább egy naptárnak láthatónak kell lennie"
+
+msgid "cal_me_agenda_home_applet"
+msgstr "Naptár"
+
+msgid "cal_me_go_to_notes"
+msgstr "Menj a megjegyzésekhez"
+
+msgid "cal_me_go_to_tasks"
+msgstr "Menj a feladatokhoz"
+
+msgid "cal_me_jump_to_today"
+msgstr "Ugorj erre a napra"
+
+msgid "cal_me_new_event"
+msgstr "Új esemény"
+
+msgid "cal_me_next_day"
+msgstr "Következő nap"
+
+msgid "cal_me_next_event"
+msgstr "Következő esemény"
+
+msgid "cal_me_next_month"
+msgstr "Következő hónap"
+
+msgid "cal_me_next_week"
+msgstr "Következő hét"
+
+msgid "cal_me_previous_day"
+msgstr "Előző nap"
+
+msgid "cal_me_previous_event"
+msgstr "Előző esemény"
+
+msgid "cal_me_previous_month"
+msgstr "Előző hónap"
+
+msgid "cal_me_previous_week"
+msgstr "Előző hét"
+
+msgid "cal_me_toggle_agenda"
+msgstr "Teendők"
+
+msgid "cal_me_toggle_month"
+msgstr "Hónap"
+
+msgid "cal_me_toggle_week"
+msgstr "Hét"
+
+msgid "cal_more_events"
+msgstr "További események"
+
+msgid "cal_nc_delete_event"
+msgstr ""
+"Esemény törlése?\n"
+"%s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr ""
+"Törlöd az eseményt az ismétlésekkel együtt?\n"
+"'%s'"
+
+msgid "cal_nc_delete_note"
+msgstr "Megjegyzés törlése?"
+
+msgid "cal_nc_delete_task"
+msgstr ""
+"Feladat törlése?\n"
+"%s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr ""
+"A szerkesztés alatt lévő eseményt \n"
+"%s\n"
+"nem lehet teljesen megváltoztatni.Új ismétlési szabályt kell először megadni. Minden eddigi ismétlés elvész.\n"
+"Folytatod?"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr ""
+"Megváltoztatod az ismétlések szabályait ehez az eseményhez \n"
+"%s\n"
+". Minden eddigi ismétlés elvész.\n"
+"Folytatod?"
+
+msgid "cal_nc_permanent_delete"
+msgstr "'%s' Naptár nem törölhető. Törlöd az összes naptárat?"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr ""
+"Az adat valószínüleg törölve lett egy másik készülékről.\n"
+"\n"
+"'%s'  Naptár nem törölhető. Törlöd az összes naptárat?"
+
+msgid "cal_nc_remove_calendar"
+msgstr ""
+"Törlöd ezt a naptárat az összes eseménnyel, megjegyzéssel és feladattal együtt?\n"
+"'%s'"
+
+msgid "cal_nc_smart_delete"
+msgstr "Törlöd ezt a gyors naptárat? Az eredeti adatok nem lessznek törölve."
+
+msgid "cal_nc_synced_delete"
+msgstr " ‘%s’ naptár szinkronizálva.Akarod törölni?"
+
+msgid "cal_ni_export_nospace"
+msgstr "Nincs elég lemezterület az exportáláshoz"
+
+msgid "cal_ni_ical_invalid"
+msgstr "Érvénytelen naptár file"
+
+msgid "cal_ni_internal_error"
+msgstr "Hiba történt"
+
+msgid "cal_ni_web_invalid"
+msgstr "Nem lehet megnyitni ezt a címet"
+
+msgid "cal_task_summary"
+msgstr "%d feladatok"
+
+msgid "cal_ti_agenda"
+msgstr "Naptár"
+
+msgid "cal_ti_alarm_tone"
+msgstr "Válassz riasztás hangot"
+
+msgid "cal_ti_calendar_private"
+msgstr "Személyes"
+
+msgid "cal_ti_context_delete"
+msgstr "Törlés"
+
+msgid "cal_ti_context_edit"
+msgstr "Szerkesztés"
+
+msgid "cal_ti_edit_calendar"
+msgstr "Naptár szerkesztése"
+
+msgid "cal_ti_edit_calendars"
+msgstr "Naptárak szerkesztése"
+
+msgid "cal_ti_edit_event"
+msgstr "Esemény szerkesztése"
+
+msgid "cal_ti_edit_note"
+msgstr "Megjegyzés szerkesztése"
+
+msgid "cal_ti_edit_task"
+msgstr "Feladat szerkesztése"
+
+msgid "cal_ti_event"
+msgstr "Esemény"
+
+msgid "cal_ti_import"
+msgstr "Naptár kiválasztása"
+
+msgid "cal_ti_import_info"
+msgstr "Hozzáadás %s"
+
+msgid "cal_ti_jump_to"
+msgstr "Ugrás ide"
+
+msgid "cal_ti_no_notes"
+msgstr "(nincsenek megjegyzések)"
+
+msgid "cal_ti_no_tasks"
+msgstr "(nincsenek feladatok)"
+
+msgid "cal_ti_notes"
+msgstr "Megjegyzések"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "Riasztás hozzáadás"
+
+msgid "cal_ti_remove_event"
+msgstr "Esemény törlése"
+
+msgid "cal_ti_settings"
+msgstr "Beállítások"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "Születésnapok gyors naptár"
+
+msgid "cal_ti_tasks"
+msgstr "Feladatok"
+
+msgid "cal_ti_title"
+msgstr "Cím"
+
+msgid "cal_ti_weekview"
+msgstr "Hét %s (%s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "Hét %s"
+
+msgid "cal_ti_welcome"
+msgstr "A naptár üres"
+
+msgid "cal_ti_welcome_info"
+msgstr ""
+"Adatok átvitele a régi telefonról?\n"
+"\n"
+"Ezt megteheted később is a Beállítások menü Adatátvitel & szinkronizálás almenüben."
+
+msgid "cal_ti_wizard"
+msgstr "Naptár"
+
+msgid "cal_ti_wizard_complete"
+msgstr "A varázsló kész"
+
+msgid "cal_ti_wizard_details"
+msgstr "Részletek"
+
+msgid "cal_ti_wizard_type"
+msgstr "Tipus"
+
+msgid "cal_va_0_min"
+msgstr "0 percel előtte"
+
+msgid "cal_va_15_min"
+msgstr "15 percel előtte"
+
+msgid "cal_va_1_hour"
+msgstr "1 órával előtte"
+
+msgid "cal_va_30_min"
+msgstr "30 percel előtte"
+
+msgid "cal_va_3_hours"
+msgstr "3 órával előtte"
+
+msgid "cal_va_5_min"
+msgstr "5 percel előtte"
+
+msgid "cal_va_allday"
+msgstr ""
+"Egész\n"
+"nap"
+
+msgid "cal_va_allday_home"
+msgstr "Ma"
+
+msgid "cal_va_allday_long"
+msgstr ""
+"Egész\n"
+"nap"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] "%d esemény"
+msgstr[1] "%d események"
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] "%d megjegyzés"
+msgstr[1] "%d megjegyzések"
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] "%d feladat"
+msgstr[1] "%d feladatok"
+
+msgid "cal_va_and"
+msgstr "és"
+
+msgid "cal_va_calendar"
+msgstr "Használd '%s'"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] "%d látható"
+msgstr[1] "%d látható"
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] "%d esemény"
+msgstr[1] "%d események"
+
+msgid "cal_va_day_before"
+msgstr "Egy nappal előtte"
+
+msgid "cal_va_every_day"
+msgstr "Minden nap"
+
+msgid "cal_va_every_month"
+msgstr "Minden hónapban"
+
+msgid "cal_va_every_week"
+msgstr "Minden héten"
+
+msgid "cal_va_every_workday"
+msgstr "Minden munkanapon"
+
+msgid "cal_va_every_year"
+msgstr "Minden évben"
+
+msgid "cal_va_local"
+msgstr "Helyi"
+
+msgid "cal_va_monday"
+msgstr "Hétfő"
+
+msgid "cal_va_never"
+msgstr "Soha"
+
+msgid "cal_va_newcalendar"
+msgstr "Új naptár készítése"
+
+msgid "cal_va_none"
+msgstr "Nincs"
+
+msgid "cal_va_note_saved"
+msgstr "Utolsó mentés ideje %s"
+
+msgid "cal_va_older_1_month"
+msgstr "Régebbi mint 1 hónap"
+
+msgid "cal_va_older_1_week"
+msgstr "Régebbi mint 1 hét"
+
+msgid "cal_va_older_1_year"
+msgstr "Régebbi mint 1 év"
+
+msgid "cal_va_older_2_weeks"
+msgstr "Régebbi mint 2 hét"
+
+msgid "cal_va_placeholder_description"
+msgstr "Leírás"
+
+msgid "cal_va_placeholder_note"
+msgstr "Megjegyzés"
+
+msgid "cal_va_placeholder_title"
+msgstr "Cím"
+
+msgid "cal_va_repeat_complex"
+msgstr "(Összetett ismétlés. Nem lehet szerkeszteni.)"
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(nincs ilyen file)"
+
+msgid "cal_va_smart"
+msgstr "Gyors"
+
+msgid "cal_va_sunday"
+msgstr "Vasárnap"
+
+msgid "cal_va_synchronized"
+msgstr "Szinkronizálva"
+
+msgid "cal_va_today"
+msgstr "%s (ma)"
+
