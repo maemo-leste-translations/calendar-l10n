@@ -1,3 +1,11 @@
+calendar-l10n (7.1.2) unreleased; urgency=medium
+
+  * Translated using Weblate (Spanish)
+  * Translated using Weblate (Norwegian Bokmål)
+  * Translated using Weblate (English)
+
+ -- Ivan J. <parazyd@dyne.org>  Tue, 25 May 2021 07:12:36 +0200
+
 calendar-l10n (7.1.1) unreleased; urgency=medium
 
   * Tag new release
