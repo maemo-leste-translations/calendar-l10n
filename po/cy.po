@@ -1,0 +1,527 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2012-02-07 09:58+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "cal_ap_name"
+msgstr "Calendr"
+
+msgid "cal_ap_name_short"
+msgstr "Calendr"
+
+msgid "cal_bd_edit_calendars"
+msgstr "Golygu calendrau"
+
+msgid "cal_bd_export"
+msgstr "Allforio"
+
+msgid "cal_bd_jump"
+msgstr "Neidio"
+
+msgid "cal_bd_monthview_week"
+msgstr "w%s"
+
+msgid "cal_bd_new_calendar"
+msgstr "Newydd"
+
+msgid "cal_bd_new_event"
+msgstr "Digwyddiad newydd"
+
+msgid "cal_bd_new_note"
+msgstr "Nodyn newydd"
+
+msgid "cal_bd_new_task"
+msgstr "Tasg newydd"
+
+msgid "cal_bd_transfer"
+msgstr "Trosglwyddo"
+
+msgid "cal_fi_alarm"
+msgstr "Larwm"
+
+msgid "cal_fi_alarm_tone"
+msgstr "Tôn larwm"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "%d digwyddiad gydol-diwrnod"
+msgstr[1] "%d digwyddiad gydol-diwrnod"
+msgstr[2] "%d digwyddiad gydol-diwrnod"
+msgstr[3] "%d digwyddiad gydol-diwrnod"
+
+msgid "cal_fi_calendar"
+msgstr "Calendr"
+
+msgid "cal_fi_color"
+msgstr "Lliw"
+
+msgid "cal_fi_date"
+msgstr "Dyddiad"
+
+msgid "cal_fi_done"
+msgstr "Gorffen"
+
+msgid "cal_fi_enddate"
+msgstr "I"
+
+msgid "cal_fi_enddate2"
+msgstr "i"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "Cuddio tasgau a orffennwyd"
+
+msgid "cal_fi_location"
+msgstr "Ble"
+
+msgid "cal_fi_no_events"
+msgstr "Dim digwyddiadau na thasgau"
+
+msgid "cal_fi_pcsuite"
+msgstr "(defnyddir gan PC Suite)"
+
+msgid "cal_fi_remove_items"
+msgstr "Dileu eitemau"
+
+msgid "cal_fi_repeat"
+msgstr "Ailadrodd"
+
+msgid "cal_fi_repeat_complex"
+msgstr "(Ailadrodd cymhleth. Methu golygu.)"
+
+msgid "cal_fi_repeat_until"
+msgstr "Hyd at"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "Canu"
+
+msgid "cal_fi_startdate"
+msgstr "O"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] "%d tasg i'w gorffen"
+msgstr[1] "%d tasg i'w gorffen"
+msgstr[2] "%d tasg i'w gorffen"
+msgstr[3] "%d tasg i'w gorffen"
+
+msgid "cal_fi_visible"
+msgstr "Gweledol"
+
+msgid "cal_fi_week_start_day"
+msgstr "Diwrnod cyntaf yr wythnos"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "Teitl"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "Calendr lleol"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "Calendr glyfar pen-blwydd"
+
+msgid "cal_ia_wizard_complete"
+msgstr "Tarwch 'Gorffen' i gadw, neu gwaredwch a'ch newidiadau drwy daro y tu allan i'r dewin. Gallwch newid eich gosodiadau'n ddiweddarach drwy 'Gosodiadau' yn y ddewislen."
+
+msgid "cal_ia_wizard_intro"
+msgstr "Mae'r dewin calendr yn caniatáu i chi greu calendrau newydd. Tarwch 'Nesaf' i barhau."
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "Dewin calendr wedi gorffen."
+
+msgid "cal_ia_wizard_typetext"
+msgstr "Dewis math o galendr"
+
+msgid "cal_ib_add_title"
+msgstr "Ychwanegu teitl"
+
+msgid "cal_ib_alarm_early"
+msgstr "Ni all amser larwm fod yn y gorffennol"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "Ychwanegwyd tanysgrifiad calendr %s"
+
+msgid "cal_ib_calendar_saved"
+msgstr "Calendr %s wedi ei gadw"
+
+msgid "cal_ib_date_earlier"
+msgstr "Rhaid i dyddiad terfyn digwyddiad fod wedi'r dyddiad dechrau"
+
+msgid "cal_ib_date_earlier_until"
+msgstr "Rhaid i'r dyddiad ailadrodd olaf fod wedi'r dyddiad dechrau"
+
+msgid "cal_ib_import_duplicate"
+msgstr "Eitem eisoes yn y calendr"
+
+msgid "cal_ib_import_duplicates"
+msgstr "Rhai eitemau eisoes yn y calendr"
+
+msgid "cal_ib_last_event"
+msgstr "Dim mwy o ddigwyddiadau"
+
+msgid "cal_ib_setting_failed"
+msgstr "Methu cadw'r gosodiadau"
+
+msgid "cal_ib_time_earlier"
+msgstr "Rhaid i amser gorffen y digwyddiad fod wedi'r amser dechrau"
+
+msgid "cal_ib_title_exists"
+msgstr "Mae calendr gyda'r un enw eisoes yn bodoli"
+
+msgid "cal_ib_unix"
+msgstr "Dyddiad heibio i'r terfyn"
+
+msgid "cal_ib_visible"
+msgstr "Rhaid cael o leiaf un calendr yn weledol"
+
+msgid "cal_me_agenda_home_applet"
+msgstr "Calendr"
+
+msgid "cal_me_go_to_notes"
+msgstr "Mynd at nodiadau"
+
+msgid "cal_me_go_to_tasks"
+msgstr "Mynd at tasgau"
+
+msgid "cal_me_jump_to_today"
+msgstr "Neidio at heddiw"
+
+msgid "cal_me_new_event"
+msgstr "Digwyddiad newydd"
+
+msgid "cal_me_next_day"
+msgstr "Diwrnod nesaf"
+
+msgid "cal_me_next_event"
+msgstr "Digwyddiad nesaf"
+
+msgid "cal_me_next_month"
+msgstr "Mis nesaf"
+
+msgid "cal_me_next_week"
+msgstr "Wythnos nesaf"
+
+msgid "cal_me_previous_day"
+msgstr "Diwrnod cynt"
+
+msgid "cal_me_previous_event"
+msgstr "Digwyddiad cynt"
+
+msgid "cal_me_previous_month"
+msgstr "Mis cynt"
+
+msgid "cal_me_previous_week"
+msgstr "Wythnos cynt"
+
+msgid "cal_me_toggle_agenda"
+msgstr "Agenda"
+
+msgid "cal_me_toggle_month"
+msgstr "Mis"
+
+msgid "cal_me_toggle_week"
+msgstr "Wythnos"
+
+msgid "cal_more_events"
+msgstr "Mwy"
+
+msgid "cal_nc_delete_event"
+msgstr "Dileu digwyddiad? %s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr "Dileu digwyddiad a phob ailadroddiad? '%s'"
+
+msgid "cal_nc_delete_note"
+msgstr "Dileu nodyn?"
+
+msgid "cal_nc_delete_task"
+msgstr "Dileu tasg? %s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr "Rydych yn golygu digwyddiad %s na ellir ei olygu'n llawn. Rhaid gosod rheol ailadrodd newydd yn gyntaf. Collir unrhyw reolau eithrio. Parhau?"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr "Rydych yn golygu digwyddiad %s na ellir ei olygu'n llawn. Collir unrhyw reolau eithrio. Parhau?"
+
+msgid "cal_nc_permanent_delete"
+msgstr "Ni ellir dileu calendr '%s'. Dileu holl gynnwys y calendr?"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr "Mae modd y dilëir data o ddyfeisiau eraill. Ni ellir dileu calendr '%s'. Dileu holl gynnwys y calendr?"
+
+msgid "cal_nc_remove_calendar"
+msgstr "Dileu'r calendr yma, ei digwyddiadau, tasgau a nodiadau? '%s'"
+
+msgid "cal_nc_smart_delete"
+msgstr "Dileu calendr glyfar? Ni ddilëir unrhyw ddata gwreiddiol."
+
+msgid "cal_nc_synced_delete"
+msgstr "Mae calendr '%s' wedi ei gydamseru. Dileu beth bynnag?"
+
+msgid "cal_ni_export_nospace"
+msgstr "Diffyg lle i allforio"
+
+msgid "cal_ni_ical_invalid"
+msgstr "Ffeil calendr annilys"
+
+msgid "cal_ni_internal_error"
+msgstr "Bu gwall"
+
+msgid "cal_ni_web_invalid"
+msgstr "Mae Calendr yn methu agor y cyfeiriad yma"
+
+msgid "cal_task_summary"
+msgstr "%d tasg"
+
+msgid "cal_ti_agenda"
+msgstr "Calendr"
+
+msgid "cal_ti_alarm_tone"
+msgstr "Dewis tôn larwm"
+
+msgid "cal_ti_calendar_private"
+msgstr "Preifat"
+
+msgid "cal_ti_context_delete"
+msgstr "Dileu"
+
+msgid "cal_ti_context_edit"
+msgstr "Golygu"
+
+msgid "cal_ti_edit_calendar"
+msgstr "Golygu calendr"
+
+msgid "cal_ti_edit_calendars"
+msgstr "Golygu calendrau"
+
+msgid "cal_ti_edit_event"
+msgstr "Golygu digwyddiad"
+
+msgid "cal_ti_edit_note"
+msgstr "Golygu nodyn"
+
+msgid "cal_ti_edit_task"
+msgstr "Golygu tasg"
+
+msgid "cal_ti_event"
+msgstr "Digwyddiad"
+
+msgid "cal_ti_import"
+msgstr "Dewis calendr"
+
+msgid "cal_ti_import_info"
+msgstr "Yn ychwanegu %s"
+
+msgid "cal_ti_invited_attendees"
+msgstr "Gwahoddedigion"
+
+msgid "cal_ti_jump_to"
+msgstr "Neidio at"
+
+msgid "cal_ti_no_notes"
+msgstr "(dim nodiadau)"
+
+msgid "cal_ti_no_tasks"
+msgstr "(dim tasgau)"
+
+msgid "cal_ti_notes"
+msgstr "Nodiadau"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "Ychwanegu tôn larwm"
+
+msgid "cal_ti_organiser"
+msgstr "Trefnydd"
+
+msgid "cal_ti_remove_event"
+msgstr "Dileu digwyddiad"
+
+msgid "cal_ti_settings"
+msgstr "Gosodiadau"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "Penblwyddi"
+
+msgid "cal_ti_tasks"
+msgstr "Tasgau"
+
+msgid "cal_ti_title"
+msgstr "Teitl"
+
+msgid "cal_ti_weekview"
+msgstr "Wythnos %s (%s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "Wythnos %s"
+
+msgid "cal_ti_welcome"
+msgstr "Calendr gwag"
+
+msgid "cal_ti_welcome_info"
+msgstr "Trosglwyddo data o hen ffôn? Mae modd gwneud hyn wedyn drwy Trosglwyddo a chydamseru o dan Gosodiadau."
+
+msgid "cal_ti_wizard"
+msgstr "Calendr"
+
+msgid "cal_ti_wizard_complete"
+msgstr "Cwblhawyd"
+
+msgid "cal_ti_wizard_details"
+msgstr "Manylion"
+
+msgid "cal_ti_wizard_type"
+msgstr "Math"
+
+msgid "cal_va_0_min"
+msgstr "0 munud cyn"
+
+msgid "cal_va_15_min"
+msgstr "15 munud cyn"
+
+msgid "cal_va_1_hour"
+msgstr "1 awr cyn"
+
+msgid "cal_va_30_min"
+msgstr "30 munud cyn"
+
+msgid "cal_va_3_hours"
+msgstr "3 awr cyn"
+
+msgid "cal_va_5_min"
+msgstr "5 munud cyn"
+
+msgid "cal_va_allday"
+msgstr "Drwy'r dydd"
+
+msgid "cal_va_allday_home"
+msgstr "Heddiw"
+
+msgid "cal_va_allday_long"
+msgstr "Drwy'r dydd"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] "%d digwyddiad"
+msgstr[1] "%d digwyddiad"
+msgstr[2] "%d digwyddiad"
+msgstr[3] "%d digwyddiad"
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] "%d nodyn"
+msgstr[1] "%d nodyn"
+msgstr[2] "%d nodyn"
+msgstr[3] "%d nodyn"
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] "%d tasg"
+msgstr[1] "%d tasg"
+msgstr[2] "%d tasg"
+msgstr[3] "%d tasg"
+
+msgid "cal_va_and"
+msgstr "a"
+
+msgid "cal_va_calendar"
+msgstr "Defnyddio '%s'"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] "%d gweledol"
+msgstr[1] "%d gweledol"
+msgstr[2] "%d gweledol"
+msgstr[3] "%d gweledol"
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] "%d digwyddiad"
+msgstr[1] "%d digwyddiad"
+msgstr[2] "%d digwyddiad"
+msgstr[3] "%d digwyddiad"
+
+msgid "cal_va_day_before"
+msgstr "Diwrnod cynt"
+
+msgid "cal_va_every_day"
+msgstr "Pob dydd"
+
+msgid "cal_va_every_month"
+msgstr "Pob mis"
+
+msgid "cal_va_every_week"
+msgstr "Pob wythnos"
+
+msgid "cal_va_every_workday"
+msgstr "Pob diwrnod gwaith"
+
+msgid "cal_va_every_year"
+msgstr "Pob blwyddyn"
+
+msgid "cal_va_local"
+msgstr "Lleol"
+
+msgid "cal_va_monday"
+msgstr "Llun"
+
+msgid "cal_va_never"
+msgstr "Byth"
+
+msgid "cal_va_newcalendar"
+msgstr "Creu calendr newydd"
+
+msgid "cal_va_none"
+msgstr "Dim"
+
+msgid "cal_va_note_saved"
+msgstr "Cadwyd olaf %s"
+
+msgid "cal_va_older_1_month"
+msgstr "Mis oed"
+
+msgid "cal_va_older_1_week"
+msgstr "Wythnos oed"
+
+msgid "cal_va_older_1_year"
+msgstr "Blwydd oed"
+
+msgid "cal_va_older_2_weeks"
+msgstr "Pythefnos oed"
+
+msgid "cal_va_placeholder_description"
+msgstr "Disgrifiad"
+
+msgid "cal_va_placeholder_note"
+msgstr "Nodyn"
+
+msgid "cal_va_placeholder_title"
+msgstr "Teitl"
+
+msgid "cal_va_repeat_complex"
+msgstr "(Ailadroddiad cymhleth. Methu golygu.)"
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(dim ffeiliau)"
+
+msgid "cal_va_smart"
+msgstr "Clyfar"
+
+msgid "cal_va_sunday"
+msgstr "Sul"
+
+msgid "cal_va_synchronized"
+msgstr "Wedi' gydamseru"
+
+msgid "cal_va_today"
+msgstr "%s (heddiw)"
