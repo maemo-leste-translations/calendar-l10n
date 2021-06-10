@@ -1,0 +1,505 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2012-05-30 14:20+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_HK\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "cal_ap_name"
+msgstr "日曆"
+
+msgid "cal_ap_name_short"
+msgstr "日曆"
+
+msgid "cal_bd_edit_calendars"
+msgstr "修改日曆"
+
+msgid "cal_bd_export"
+msgstr "匯出"
+
+msgid "cal_bd_jump"
+msgstr "前往"
+
+msgid "cal_bd_monthview_week"
+msgstr "第%s週"
+
+msgid "cal_bd_new_calendar"
+msgstr "新增"
+
+msgid "cal_bd_new_event"
+msgstr "新增會議"
+
+msgid "cal_bd_new_note"
+msgstr "新增備註"
+
+msgid "cal_bd_new_task"
+msgstr "新增待辦事項"
+
+msgid "cal_bd_transfer"
+msgstr "轉移"
+
+msgid "cal_fi_alarm"
+msgstr "響鬧"
+
+msgid "cal_fi_alarm_tone"
+msgstr "響鬧鈴聲"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "%d 個全日會議"
+
+msgid "cal_fi_calendar"
+msgstr "日曆"
+
+msgid "cal_fi_color"
+msgstr "顏色"
+
+msgid "cal_fi_date"
+msgstr "日期"
+
+msgid "cal_fi_done"
+msgstr "完成"
+
+msgid "cal_fi_enddate"
+msgstr "至"
+
+msgid "cal_fi_enddate2"
+msgstr "至"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "隱藏已完成的待辦事項"
+
+msgid "cal_fi_location"
+msgstr "地點"
+
+msgid "cal_fi_no_events"
+msgstr "沒有會議或待辦事項"
+
+msgid "cal_fi_pcsuite"
+msgstr "(使用電腦端套件)"
+
+msgid "cal_fi_remove_items"
+msgstr "刪除項目"
+
+msgid "cal_fi_repeat"
+msgstr "重覆"
+
+msgid "cal_fi_repeat_complex"
+msgstr "(重覆事項產生錯誤，無法編輯)"
+
+msgid "cal_fi_repeat_until"
+msgstr "直至"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "預設響鬧聲(Chime)"
+
+msgid "cal_fi_startdate"
+msgstr "從"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] "%d 則待辦事項已取消完成"
+
+msgid "cal_fi_visible"
+msgstr "選擇顯示"
+
+msgid "cal_fi_week_start_day"
+msgstr "星期開始於"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "名稱"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "裝置預設日曆"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "生日日曆"
+
+msgid "cal_ia_wizard_complete"
+msgstr "按\"結束\"來儲存或按此設定以外的版面來取消設定。您稍後仍可經\"控制台\"來更改您的設定"
+
+msgid "cal_ia_wizard_intro"
+msgstr "日曆設定精靈可協助您設定新的日曆。\n\n請按'下一步'繼續。"
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "日曆設定完成"
+
+msgid "cal_ia_wizard_typetext"
+msgstr "請選擇日曆類別"
+
+msgid "cal_ib_add_title"
+msgstr "請輸入標題"
+
+msgid "cal_ib_alarm_early"
+msgstr "響鬧時間已過期"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "日曆%s登記已增加"
+
+msgid "cal_ib_calendar_saved"
+msgstr "日曆 %s 已儲存"
+
+msgid "cal_ib_date_earlier"
+msgstr "會議結束日期比開始日期早，請重新輸入。"
+
+msgid "cal_ib_date_earlier_until"
+msgstr "最後重複日期比會議開始日期早，請重新輸入。"
+
+msgid "cal_ib_import_duplicate"
+msgstr "此項目已在日曆中存在"
+
+msgid "cal_ib_import_duplicates"
+msgstr "部分項目已在日曆中存在"
+
+msgid "cal_ib_last_event"
+msgstr "再沒有其他會議"
+
+msgid "cal_ib_setting_failed"
+msgstr "無法儲存設定"
+
+msgid "cal_ib_time_earlier"
+msgstr "會議結束時間比開始時間早，請重新輸入。"
+
+msgid "cal_ib_title_exists"
+msgstr "相同名稱的日曆已經存在，請重新輸入"
+
+msgid "cal_ib_unix"
+msgstr "已超出日期設定上限"
+
+msgid "cal_ib_visible"
+msgstr "至少需要有一個日曆設定為顯示"
+
+msgid "cal_me_agenda_home_applet"
+msgstr "日曆"
+
+msgid "cal_me_go_to_notes"
+msgstr "前往備註"
+
+msgid "cal_me_go_to_tasks"
+msgstr "前往待辦事項"
+
+msgid "cal_me_jump_to_today"
+msgstr "返回今日日程"
+
+msgid "cal_me_new_event"
+msgstr "新會議"
+
+msgid "cal_me_next_day"
+msgstr "下一日"
+
+msgid "cal_me_next_event"
+msgstr "下一個會議"
+
+msgid "cal_me_next_month"
+msgstr "下月"
+
+msgid "cal_me_next_week"
+msgstr "下週"
+
+msgid "cal_me_previous_day"
+msgstr "前一日"
+
+msgid "cal_me_previous_event"
+msgstr "上一個會議"
+
+msgid "cal_me_previous_month"
+msgstr "上月"
+
+msgid "cal_me_previous_week"
+msgstr "上週"
+
+msgid "cal_me_toggle_agenda"
+msgstr "議程表"
+
+msgid "cal_me_toggle_month"
+msgstr "以月顯示"
+
+msgid "cal_me_toggle_week"
+msgstr "以週顯示"
+
+msgid "cal_more_events"
+msgstr "更多會議"
+
+msgid "cal_nc_delete_event"
+msgstr "刪除會議?\n%s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr "刪除這會議及有有重複事項？\n'%s'"
+
+msgid "cal_nc_delete_note"
+msgstr "刪除備註?"
+
+msgid "cal_nc_delete_task"
+msgstr "刪除待辦事項？\n%s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr "您正在修改這會議\n%s\n這會議不能完全修改。需重新設置重複選項。現有選項將會消失。\n要繼續嗎？"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr "您正在修改這會議的重複選項。\n%s\n這會議不能完全修改。現有選項將會消失。要繼續嗎？"
+
+msgid "cal_nc_permanent_delete"
+msgstr "'%s' 日曆不能刪除。可否只刪除所有日曆內容？"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr "在其他裝置的資料有機會被刪除\\n\n'%s' 日曆不能刪除。可否只刪除所有日曆內容？"
+
+msgid "cal_nc_remove_calendar"
+msgstr "要刪除這日曆及其所有會議、待辦事項和備忘嗎？\n'%s'"
+
+msgid "cal_nc_smart_delete"
+msgstr "想刪除這日曆嗎？手機內的資料將不會被刪除。"
+
+msgid "cal_nc_synced_delete"
+msgstr "日曆‘%s’已經同步，要刪除嗎？"
+
+msgid "cal_ni_export_nospace"
+msgstr "記憶體不足，無法匯出"
+
+msgid "cal_ni_ical_invalid"
+msgstr "無效的日曆檔案"
+
+msgid "cal_ni_internal_error"
+msgstr "發生錯誤"
+
+msgid "cal_ni_web_invalid"
+msgstr "日曆無法開啟此網址"
+
+msgid "cal_task_summary"
+msgstr "%d 個待辦事項"
+
+msgid "cal_ti_agenda"
+msgstr "日曆"
+
+msgid "cal_ti_alarm_tone"
+msgstr "選擇響鬧鈴聲"
+
+msgid "cal_ti_calendar_private"
+msgstr "私人"
+
+msgid "cal_ti_context_delete"
+msgstr "刪除"
+
+msgid "cal_ti_context_edit"
+msgstr "修改"
+
+msgid "cal_ti_edit_calendar"
+msgstr "修改日曆"
+
+msgid "cal_ti_edit_calendars"
+msgstr "修改多個日曆"
+
+msgid "cal_ti_edit_event"
+msgstr "修改會議"
+
+msgid "cal_ti_edit_note"
+msgstr "修改備註"
+
+msgid "cal_ti_edit_task"
+msgstr "修改待辦事項"
+
+msgid "cal_ti_event"
+msgstr "會議"
+
+msgid "cal_ti_import"
+msgstr "選擇匯入日曆"
+
+msgid "cal_ti_import_info"
+msgstr "正新增 %s"
+
+msgid "cal_ti_invited_attendees"
+msgstr "已邀請的參與者"
+
+msgid "cal_ti_jump_to"
+msgstr "前往指定日期"
+
+msgid "cal_ti_no_notes"
+msgstr "(沒有備註)"
+
+msgid "cal_ti_no_tasks"
+msgstr "(沒有待辦事項)"
+
+msgid "cal_ti_notes"
+msgstr "備註"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "新增響鬧鈴聲"
+
+msgid "cal_ti_organiser"
+msgstr "主辦人"
+
+msgid "cal_ti_remove_event"
+msgstr "刪除會議"
+
+msgid "cal_ti_settings"
+msgstr "設定"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "生日"
+
+msgid "cal_ti_tasks"
+msgstr "待辦事項"
+
+msgid "cal_ti_title"
+msgstr "標題"
+
+msgid "cal_ti_weekview"
+msgstr "第%s週(%s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "第%s週"
+
+msgid "cal_ti_welcome"
+msgstr "日曆是空的"
+
+msgid "cal_ti_welcome_info"
+msgstr "想轉移舊手機內的資料過來嗎？\n\n您稍後可從手機設定內的轉移及同步選項中轉移。"
+
+msgid "cal_ti_wizard"
+msgstr "日曆"
+
+msgid "cal_ti_wizard_complete"
+msgstr "設定完成"
+
+msgid "cal_ti_wizard_details"
+msgstr "更多資訊"
+
+msgid "cal_ti_wizard_type"
+msgstr "類別"
+
+msgid "cal_va_0_min"
+msgstr "0分鐘之前"
+
+msgid "cal_va_15_min"
+msgstr "15分鐘之前"
+
+msgid "cal_va_1_hour"
+msgstr "1小時之後"
+
+msgid "cal_va_30_min"
+msgstr "30分鐘之前"
+
+msgid "cal_va_3_hours"
+msgstr "3小時之前"
+
+msgid "cal_va_5_min"
+msgstr "5分鐘之前"
+
+msgid "cal_va_allday"
+msgstr "全\n日"
+
+msgid "cal_va_allday_home"
+msgstr "今日"
+
+msgid "cal_va_allday_long"
+msgstr "全日"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] "%d 個會議"
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] "%d 則備註"
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] "%d 則待辦事項"
+
+msgid "cal_va_and"
+msgstr "和"
+
+msgid "cal_va_calendar"
+msgstr "使用 '%s'"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] "%d個已顯示"
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] "%d個會議"
+
+msgid "cal_va_day_before"
+msgstr "日之前"
+
+msgid "cal_va_every_day"
+msgstr "每天"
+
+msgid "cal_va_every_month"
+msgstr "每月"
+
+msgid "cal_va_every_week"
+msgstr "每週"
+
+msgid "cal_va_every_workday"
+msgstr "每個工作日"
+
+msgid "cal_va_every_year"
+msgstr "每年"
+
+msgid "cal_va_local"
+msgstr "裝置預設"
+
+msgid "cal_va_monday"
+msgstr "星期一"
+
+msgid "cal_va_never"
+msgstr "從不"
+
+msgid "cal_va_newcalendar"
+msgstr "建立新日曆"
+
+msgid "cal_va_none"
+msgstr "沒有"
+
+msgid "cal_va_note_saved"
+msgstr "最後儲存為 %s"
+
+msgid "cal_va_older_1_month"
+msgstr "一個月以前"
+
+msgid "cal_va_older_1_week"
+msgstr "一星期以前"
+
+msgid "cal_va_older_1_year"
+msgstr "一年以前"
+
+msgid "cal_va_older_2_weeks"
+msgstr "兩星期以前"
+
+msgid "cal_va_placeholder_description"
+msgstr "內容說明"
+
+msgid "cal_va_placeholder_note"
+msgstr "備註"
+
+msgid "cal_va_placeholder_title"
+msgstr "標題"
+
+msgid "cal_va_repeat_complex"
+msgstr "(重複事項產生錯誤，無法編輯)"
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(沒有檔案)"
+
+msgid "cal_va_smart"
+msgstr "智能"
+
+msgid "cal_va_sunday"
+msgstr "星期日"
+
+msgid "cal_va_synchronized"
+msgstr "已同步"
+
+msgid "cal_va_today"
+msgstr "%s (今日)"
