@@ -1,0 +1,512 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "cal_ap_name"
+msgstr "Ημερολόγιο"
+
+msgid "cal_ap_name_short"
+msgstr "Ημερολόγιο"
+
+msgid "cal_bd_edit_calendars"
+msgstr "Επεξεργασία ημερολογίων"
+
+msgid "cal_bd_export"
+msgstr "Εξαγωγή"
+
+msgid "cal_bd_jump"
+msgstr "Μετάβαση"
+
+msgid "cal_bd_monthview_week"
+msgstr "w%s"
+
+msgid "cal_bd_new_calendar"
+msgstr "Νέο"
+
+msgid "cal_bd_new_event"
+msgstr "Νέο γεγονός"
+
+msgid "cal_bd_new_note"
+msgstr "Νέα σημείωση"
+
+msgid "cal_bd_new_task"
+msgstr "Νέα εργασία"
+
+msgid "cal_bd_transfer"
+msgstr "Μεταφορά"
+
+msgid "cal_fi_alarm"
+msgstr "Ειδοποίηση"
+
+msgid "cal_fi_alarm_tone"
+msgstr "Ήχος ειδοποίησης"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "%d Ολοήμερο γεγονός"
+msgstr[1] "%d Ολοήμερα γεγονότα"
+
+msgid "cal_fi_calendar"
+msgstr "Ημερολόγιο"
+
+msgid "cal_fi_color"
+msgstr "Χρώμα"
+
+msgid "cal_fi_date"
+msgstr "Ημερομηνία"
+
+msgid "cal_fi_done"
+msgstr "Εντάξει"
+
+msgid "cal_fi_enddate"
+msgstr "Μέχρι"
+
+msgid "cal_fi_enddate2"
+msgstr "Μέχρι"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "Απόκρυψη ολοκληρωμένων εργασιών"
+
+msgid "cal_fi_location"
+msgstr "Τοποθεσία"
+
+msgid "cal_fi_no_events"
+msgstr "Κανένα γεγονός ή εργασία"
+
+msgid "cal_fi_pcsuite"
+msgstr "(χρησιμοποιείται από το PC Suite)"
+
+msgid "cal_fi_remove_items"
+msgstr "Διαγραφή αντικειμένων"
+
+msgid "cal_fi_repeat"
+msgstr "Επανάληψη"
+
+msgid "cal_fi_repeat_complex"
+msgstr "(Δυσνόητη επανάληψη. Αδυναμία επεξεργασίας.)"
+
+msgid "cal_fi_repeat_until"
+msgstr "Μέχρι"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "Ήχος 1"
+
+msgid "cal_fi_startdate"
+msgstr "Από"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] "%d μη ολοκληρ. εργασία"
+msgstr[1] "%d μη ολοκληρ. εργασίες"
+
+msgid "cal_fi_visible"
+msgstr "Ορατό"
+
+msgid "cal_fi_week_start_day"
+msgstr "Πρώτη μέρα της εβδομάδας"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "Τίτλος"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "Τοπικό ημερολόγιο"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "Έξυπνο ημερολόγιο γενεθλίων"
+
+msgid "cal_ia_wizard_complete"
+msgstr "Επιλέξτε 'Τέλος' για να αποθηκεύσετε ή πατήστε έξω από τον οδηγό για απόρριψη. Μπορείτε αργότερα να αλλάξετε τις ρυθμίσεις σας μέσω της επιλογής 'Ρυθμίσεις' στο μενού."
+
+msgid "cal_ia_wizard_intro"
+msgstr "Ο οδηγός ημερολογίου σας επιτρέπει να δημιουργήσετε νέα ημερολόγια.\n\nΕπιλέξτε 'Επόμενο' για να συνεχίσετε."
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "Ο οδηγός του ημερολογίου ολοκληρώθηκε."
+
+msgid "cal_ia_wizard_typetext"
+msgstr "Επέλεξε τον τύπο του ημερολογίου"
+
+msgid "cal_ib_add_title"
+msgstr "Προσθέστε τίτλο"
+
+msgid "cal_ib_alarm_early"
+msgstr "Ο χρόνος της ειδοποίησης δεν μπορεί να είναι στο παρελθόν"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "Η εγγραφή %s προστέθηκε στο ημερολόγιο"
+
+msgid "cal_ib_calendar_saved"
+msgstr "Το ημερολόγιο %s αποθηκεύτηκε"
+
+msgid "cal_ib_date_earlier"
+msgstr "Η ημερομηνία ολοκλήρωσης του γεγονότος πρέπει να είναι αργότερα από αυτή της έναρξης"
+
+msgid "cal_ib_date_earlier_until"
+msgstr "Η ημερομηνία της τελευταίας επανάληψης πρέπει να είναι αργότερα από αυτή της έναρξης του γεγονότος"
+
+msgid "cal_ib_import_duplicate"
+msgstr "Αντικείμενο ήδη στο ημερολόγιο"
+
+msgid "cal_ib_import_duplicates"
+msgstr "Κάποια από τα αντικείμενα είναι ήδη στο ημερολόγιο"
+
+msgid "cal_ib_last_event"
+msgstr "Δεν υπάρχουν άλλα γεγονότα"
+
+msgid "cal_ib_setting_failed"
+msgstr "Αδύνατον να αποθηκευθούν οι ρυθμίσεις"
+
+msgid "cal_ib_time_earlier"
+msgstr "Ο χρόνος ολοκλήρωσης του γεγονότος πρέπει να είναι μεταγενέστερος από αυτόν της έναρξης"
+
+msgid "cal_ib_title_exists"
+msgstr "Υπάρχει ήδη ημερολόγιο με τον ίδιο τίτλο"
+
+msgid "cal_ib_unix"
+msgstr "Υπερέβη το όριο ημερομηνίας"
+
+msgid "cal_ib_visible"
+msgstr "Τουλάχιστον ένα ημερολόγιο πρέπει να είναι ορατό"
+
+msgid "cal_me_agenda_home_applet"
+msgstr "Ημερολόγιο"
+
+msgid "cal_me_go_to_notes"
+msgstr "Σημειώσεις"
+
+msgid "cal_me_go_to_tasks"
+msgstr "Εργασίες"
+
+msgid "cal_me_jump_to_today"
+msgstr "Σήμερα"
+
+msgid "cal_me_new_event"
+msgstr "Νέο γεγονός"
+
+msgid "cal_me_next_day"
+msgstr "Επόμενη ημέρα"
+
+msgid "cal_me_next_event"
+msgstr "Επόμενο γεγονός"
+
+msgid "cal_me_next_month"
+msgstr "Επόμενος μήνας"
+
+msgid "cal_me_next_week"
+msgstr "Επόμενη εβδομάδα"
+
+msgid "cal_me_previous_day"
+msgstr "Προηγούμενη ημέρα"
+
+msgid "cal_me_previous_event"
+msgstr "Προηγούμενο γεγονός"
+
+msgid "cal_me_previous_month"
+msgstr "Προηγούμενος μήνας"
+
+msgid "cal_me_previous_week"
+msgstr "Προηγούμενη εβδομάδα"
+
+msgid "cal_me_toggle_agenda"
+msgstr "Ευρετήριο"
+
+msgid "cal_me_toggle_month"
+msgstr "Μήνας"
+
+msgid "cal_me_toggle_week"
+msgstr "Εβδομάδα"
+
+msgid "cal_more_events"
+msgstr "Περισσότερα"
+
+msgid "cal_nc_delete_event"
+msgstr "Διαγραφή του γεγονότος;\n%s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr "Διαγραφή γεγονότων και όλων των επαναλήψεων;\n'%s'"
+
+msgid "cal_nc_delete_note"
+msgstr "Διαγραφή σημείωσης;"
+
+msgid "cal_nc_delete_task"
+msgstr "Διαγραφή της εργασίας;\n%s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr "Επεξεργάζεστε το γεγονός\n%s\nπου είναι αδύνατο να επεξεργαστεί πλήρως. Πρέπει να ορισθεί πρώτα ένας νέος επαναληπτικός κανόνας. Οποιαδήποτε εξαίρεση κανόνων θα διαγραφεί.\nΣυνέχεια;"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr "Αλλάζετε έναν επαναληπτικό κανόνα για το γεγονός\n%s\nπου είναι αδύνατον να επεξεργαστεί πλήρως. Οποιαδήποτε εξαίρεση κανόνων θα διαγραφεί.\nΣυνέχεια;"
+
+msgid "cal_nc_permanent_delete"
+msgstr "Το ημερολόγιο '%s' δεν μπορεί να διαγραφεί.\nΝα διαγραφούν τα περιεχόμενα του αντί για αυτό;"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr "Δεδομένα μπορεί επίσης να διαγραφούν και από άλλες συσκευές.\n\nΤο ημερολόγιο '%s' δεν μπορεί να διαγραφεί.\nΝα διαγραφούν τα περιεχόμενα του αντί για αυτό;"
+
+msgid "cal_nc_remove_calendar"
+msgstr "Διαγραφή του ημερολογίου '%s'\nκαθώς και των γεγονότων εργασιών και σημειώσεων;"
+
+msgid "cal_nc_smart_delete"
+msgstr "Διαγραφή έξυπνου ημερολογίου;\nΔεν θα διαγραφούν αρχικά δεδομένα."
+
+msgid "cal_nc_synced_delete"
+msgstr "Το ημερολόγιο '%s' χρησιμοποιείτε για συγχρονισμό.\nΔιαγραφή;"
+
+msgid "cal_ni_export_nospace"
+msgstr "Δεν επαρκεί ο χώρος για εξαγωγή"
+
+msgid "cal_ni_ical_invalid"
+msgstr "Λάθος αρχείο ημερολογίου"
+
+msgid "cal_ni_internal_error"
+msgstr "Παρουσιάσθηκε σφάλμα"
+
+msgid "cal_ni_web_invalid"
+msgstr "Το ημερολόγιο είναι αδύνατον να ανοίξει αυτή τη διεύθυνση"
+
+msgid "cal_task_summary"
+msgstr "%d εργασίες"
+
+msgid "cal_ti_agenda"
+msgstr "Ημερολόγιο"
+
+msgid "cal_ti_alarm_tone"
+msgstr "Διαλέξτε ήχο ειδοποίησης"
+
+msgid "cal_ti_calendar_private"
+msgstr "Ιδιωτικό"
+
+msgid "cal_ti_context_delete"
+msgstr "Διαγραφή"
+
+msgid "cal_ti_context_edit"
+msgstr "Επεξεργασία"
+
+msgid "cal_ti_edit_calendar"
+msgstr "Επεξεργασία ημερολογίου"
+
+msgid "cal_ti_edit_calendars"
+msgstr "Επεξεργασία ημερολογίων"
+
+msgid "cal_ti_edit_event"
+msgstr "Επεξεργασία γεγονότος"
+
+msgid "cal_ti_edit_note"
+msgstr "Επεξεργασία σημείωσης"
+
+msgid "cal_ti_edit_task"
+msgstr "Επεξεργασία εργασίας"
+
+msgid "cal_ti_event"
+msgstr "Γεγονός"
+
+msgid "cal_ti_import"
+msgstr "Επιλογή ημερολογίου"
+
+msgid "cal_ti_import_info"
+msgstr "Προσθήκη %s"
+
+msgid "cal_ti_invited_attendees"
+msgstr "Συμμετέχοντες"
+
+msgid "cal_ti_jump_to"
+msgstr "Μετάβαση σε"
+
+msgid "cal_ti_no_notes"
+msgstr "(χωρίς σημειώσεις)"
+
+msgid "cal_ti_no_tasks"
+msgstr "(χωρίς εργασίες)"
+
+msgid "cal_ti_notes"
+msgstr "Σημειώσεις"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "Προσθήκη ήχου ειδοποίησης"
+
+msgid "cal_ti_organiser"
+msgstr "Ατζέντα"
+
+msgid "cal_ti_remove_event"
+msgstr "Διαγραφή γεγονότος"
+
+msgid "cal_ti_settings"
+msgstr "Ρυθμίσεις"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "Γενέθλια"
+
+msgid "cal_ti_tasks"
+msgstr "Εργασίες"
+
+msgid "cal_ti_title"
+msgstr "Τίτλος"
+
+msgid "cal_ti_weekview"
+msgstr "Εβδομάδα %s (%s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "Εβδομάδα %s"
+
+msgid "cal_ti_welcome"
+msgstr "Ημερολόγιο κενό"
+
+msgid "cal_ti_welcome_info"
+msgstr "Συγχρονισμός δεδομένων από παλιότερο τηλέφωνο;\n\nΑυτό μπορεί να γίνει και αργότερα μέσω του Συγχρονισμού από τις Ρυθμίσεις."
+
+msgid "cal_ti_wizard"
+msgstr "Ημερολόγιο"
+
+msgid "cal_ti_wizard_complete"
+msgstr "Ολοκλήρωση"
+
+msgid "cal_ti_wizard_details"
+msgstr "Λεπτομέρειες"
+
+msgid "cal_ti_wizard_type"
+msgstr "Τύπος"
+
+msgid "cal_va_0_min"
+msgstr "Εκείνη τη στιγμή"
+
+msgid "cal_va_15_min"
+msgstr "15 λεπτά πριν"
+
+msgid "cal_va_1_hour"
+msgstr "1 ώρα πριν"
+
+msgid "cal_va_30_min"
+msgstr "30 λεπτά πριν"
+
+msgid "cal_va_3_hours"
+msgstr "3 ώρες πριν"
+
+msgid "cal_va_5_min"
+msgstr "5 λεπτά πριν"
+
+msgid "cal_va_allday"
+msgstr "Όλη\nμέρα"
+
+msgid "cal_va_allday_home"
+msgstr "Σήμερα"
+
+msgid "cal_va_allday_long"
+msgstr "Όλη μέρα"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] "%d γεγονός"
+msgstr[1] "%d γεγονότα"
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] "%d σημείωση"
+msgstr[1] "%d σημειώσεις"
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] "%d εργασία"
+msgstr[1] "%d εργασίες"
+
+msgid "cal_va_and"
+msgstr "και"
+
+msgid "cal_va_calendar"
+msgstr "Χρήση '%s'"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] "%d ορατό"
+msgstr[1] "%d ορατά"
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] "%d γεγονός"
+msgstr[1] "%d γεγονότα"
+
+msgid "cal_va_day_before"
+msgstr "Προηγούμενη ημέρα"
+
+msgid "cal_va_every_day"
+msgstr "Κάθε ημέρα"
+
+msgid "cal_va_every_month"
+msgstr "Κάθε μήνα"
+
+msgid "cal_va_every_week"
+msgstr "Κάθε εβδομάδα"
+
+msgid "cal_va_every_workday"
+msgstr "Κάθε εργάσιμη"
+
+msgid "cal_va_every_year"
+msgstr "Κάθε χρόνο"
+
+msgid "cal_va_local"
+msgstr "Τοπικό"
+
+msgid "cal_va_monday"
+msgstr "Δευτέρα"
+
+msgid "cal_va_never"
+msgstr "Ποτέ"
+
+msgid "cal_va_newcalendar"
+msgstr "Δημιουργήστε νέο ημερολόγιο"
+
+msgid "cal_va_none"
+msgstr "Κανένα"
+
+msgid "cal_va_note_saved"
+msgstr "Τελευταία αποθήκευση %s"
+
+msgid "cal_va_older_1_month"
+msgstr "Παλαιότερα από 1 μήνα"
+
+msgid "cal_va_older_1_week"
+msgstr "Παλαιότερα από 1 εβδομάδα "
+
+msgid "cal_va_older_1_year"
+msgstr "Παλαιότερα από 1 χρόνο"
+
+msgid "cal_va_older_2_weeks"
+msgstr "Παλαιότερα από 2 εβδομάδες"
+
+msgid "cal_va_placeholder_description"
+msgstr "Περιγραφή"
+
+msgid "cal_va_placeholder_note"
+msgstr "Σημείωση"
+
+msgid "cal_va_placeholder_title"
+msgstr "Τίτλος"
+
+msgid "cal_va_repeat_complex"
+msgstr "(Δυσνόητη επανάληψη. Αδυναμία επεξεργασίας.)"
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(κανένα αρχείο)"
+
+msgid "cal_va_smart"
+msgstr "Έξυπνο"
+
+msgid "cal_va_sunday"
+msgstr "Κυριακή"
+
+msgid "cal_va_synchronized"
+msgstr "Συγχρονισμένο"
+
+msgid "cal_va_today"
+msgstr "%s (σήμερα)"
