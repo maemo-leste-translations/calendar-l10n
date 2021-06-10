@@ -1,0 +1,513 @@
+# 
+# Translators:
+# Stanislau  <kasrkin@mail.by>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2011-12-28 18:42+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "cal_ap_name"
+msgstr "Каляндар"
+
+msgid "cal_ap_name_short"
+msgstr "Каляндар"
+
+msgid "cal_bd_edit_calendars"
+msgstr "Рэдагаваць каляндары"
+
+msgid "cal_bd_export"
+msgstr "Экспарт"
+
+msgid "cal_bd_jump"
+msgstr "Перайсці да"
+
+msgid "cal_bd_monthview_week"
+msgstr "т% s"
+
+msgid "cal_bd_new_calendar"
+msgstr "Стварыць"
+
+msgid "cal_bd_new_event"
+msgstr "Стварыць падзею"
+
+msgid "cal_bd_new_note"
+msgstr "Стварыць нататку"
+
+msgid "cal_bd_new_task"
+msgstr "Стварыць задачу"
+
+msgid "cal_bd_transfer"
+msgstr "Перадаць"
+
+msgid "cal_fi_alarm"
+msgstr "Будзільнік"
+
+msgid "cal_fi_alarm_tone"
+msgstr "Сігнал будзільніка"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "% d Кругласутачная падзея"
+msgstr[1] "% d Кругласутачныя падзеі"
+
+msgid "cal_fi_calendar"
+msgstr "Каляндар"
+
+msgid "cal_fi_color"
+msgstr "Колер"
+
+msgid "cal_fi_date"
+msgstr "Дата"
+
+msgid "cal_fi_done"
+msgstr "Выканана"
+
+msgid "cal_fi_enddate"
+msgstr "Да"
+
+msgid "cal_fi_enddate2"
+msgstr "да"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "Схаваць выкананыя задачы"
+
+msgid "cal_fi_location"
+msgstr "Месца"
+
+msgid "cal_fi_no_events"
+msgstr "Няма падзей і задач"
+
+msgid "cal_fi_pcsuite"
+msgstr "(ужыванне PC Suite)"
+
+msgid "cal_fi_remove_items"
+msgstr "Выдаліць..."
+
+msgid "cal_fi_repeat"
+msgstr "Паўтарыць"
+
+msgid "cal_fi_repeat_complex"
+msgstr "(Складаны паўтор. Немагчыма адрэдагаваць)"
+
+msgid "cal_fi_repeat_until"
+msgstr "Да"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "Перазвон"
+
+msgid "cal_fi_startdate"
+msgstr "Ад"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] "Нявыкананая задача"
+msgstr[1] "Нявыкананыя задачы"
+
+msgid "cal_fi_visible"
+msgstr "Бачны"
+
+msgid "cal_fi_week_start_day"
+msgstr "Першы дзень тыдня"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "Назва"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "Мясцовы каляндар"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "Каляндар днёў Народзінаў"
+
+msgid "cal_ia_wizard_complete"
+msgstr "Насісніце \"Гатова\", каб захаваць ці змяніць налады, націснуўшы па-за межамі вакна. Вы заўсёды можаце змяніць налады праз \"Налады\" ў меню."
+
+msgid "cal_ia_wizard_intro"
+msgstr "Памочнік дазваляе ствараць новыя каляндары. Націсніце \"Далей\" для працягу."
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "Усталёўка каляндара завершана."
+
+msgid "cal_ia_wizard_typetext"
+msgstr "Тып каляндара"
+
+msgid "cal_ib_add_title"
+msgstr "Дадаць назву"
+
+msgid "cal_ib_alarm_early"
+msgstr "Абвестка не можа быць у мінулым"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "Дададзена падпіска на каляндар % s"
+
+msgid "cal_ib_calendar_saved"
+msgstr "Каляндар % s захаваны"
+
+msgid "cal_ib_date_earlier"
+msgstr "Канец падзеі павінен быць пазней яе пачатку"
+
+msgid "cal_ib_date_earlier_until"
+msgstr "Дата апошняга паўтору падзеі павінна быць пазней яе пачатку"
+
+msgid "cal_ib_import_duplicate"
+msgstr "Азначаны элемент ужо ў каляндары."
+
+msgid "cal_ib_import_duplicates"
+msgstr "Некаторыя элементы ўжо існуюць у календары"
+
+msgid "cal_ib_last_event"
+msgstr "Няма больш падзей"
+
+msgid "cal_ib_setting_failed"
+msgstr "Немагчыма захаваць налады"
+
+msgid "cal_ib_time_earlier"
+msgstr "Час заканчэння падзеі павінен быць пазней часу яе пачатку"
+
+msgid "cal_ib_title_exists"
+msgstr "Каляндар з такой назвай ужо існуе"
+
+msgid "cal_ib_unix"
+msgstr "Перавышана максімальнае значэнне даты"
+
+msgid "cal_ib_visible"
+msgstr "Прынамсі адзін каляндар павінен быць бачны."
+
+msgid "cal_me_agenda_home_applet"
+msgstr "Каляндар"
+
+msgid "cal_me_go_to_notes"
+msgstr "Перайсці да нататак"
+
+msgid "cal_me_go_to_tasks"
+msgstr "Перайсці да задач"
+
+msgid "cal_me_jump_to_today"
+msgstr "Перайсці да сёння"
+
+msgid "cal_me_new_event"
+msgstr "Новая падзея"
+
+msgid "cal_me_next_day"
+msgstr "Наступны дзень"
+
+msgid "cal_me_next_event"
+msgstr "Наступная падзея"
+
+msgid "cal_me_next_month"
+msgstr "Наступны месяц"
+
+msgid "cal_me_next_week"
+msgstr "Наступны тыдзень"
+
+msgid "cal_me_previous_day"
+msgstr "Мінулы дзень"
+
+msgid "cal_me_previous_event"
+msgstr "Мінулая падзея"
+
+msgid "cal_me_previous_month"
+msgstr "Мінулы месяц"
+
+msgid "cal_me_previous_week"
+msgstr "Мінулы тыдзень"
+
+msgid "cal_me_toggle_agenda"
+msgstr "Парадак дня"
+
+msgid "cal_me_toggle_month"
+msgstr "Месяц"
+
+msgid "cal_me_toggle_week"
+msgstr "Тыдзень"
+
+msgid "cal_more_events"
+msgstr "Болей"
+
+msgid "cal_nc_delete_event"
+msgstr "Выдаліць падзею? % s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr "Выдаліць падзеі і ўсе паўторы? '% s'"
+
+msgid "cal_nc_delete_note"
+msgstr "Выдаліць нататку?"
+
+msgid "cal_nc_delete_task"
+msgstr "Выдаліць задачу? % s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr "Вы редагуеце падзею % s, якая не можа быць цалкам зменена. Неабходна наладзіць новае правіла для паўтору. Усе выключэнні будуць страчаны. Вы жадаеце працягнуць?"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr "Вы змяняеце правіла для паўтору падзеі % s, якое не можа быць цалкам зменена. Неабходна наладзіць новае правіла для паўтору. Усе выключэнні будуць страчаны. Вы жадаеце працягнуць?"
+
+msgid "cal_nc_permanent_delete"
+msgstr "Каляндар '% s' не можа быць выдалены. Выдаліць увесь змест календара замест гэтага?"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr "Дадзеныя могуць быць выдалены іншымі прыладамі. Каляндар '% s' нельга выдаліць. Выдаліць увесь змест календара замест гэтага?"
+
+msgid "cal_nc_remove_calendar"
+msgstr "Выдаліць гэты каляндар, яго падзеі, задачы і нататкі? '% s'"
+
+msgid "cal_nc_smart_delete"
+msgstr "Выдаліць дынамічны каляндар? Зыходныя дадзеныя не будуць выдаленыя."
+
+msgid "cal_nc_synced_delete"
+msgstr "Каляндар '% s' сінхранізаваны. Усё роўна выдаліць?"
+
+msgid "cal_ni_export_nospace"
+msgstr "Не хапае месца для экспарту"
+
+msgid "cal_ni_ical_invalid"
+msgstr "Некарэктны каляндарны файл"
+
+msgid "cal_ni_internal_error"
+msgstr "Адбылася ўнутраная памылка"
+
+msgid "cal_ni_web_invalid"
+msgstr "Каляндар не можа адчыніць гэты адрас"
+
+msgid "cal_task_summary"
+msgstr "% d задач"
+
+msgid "cal_ti_agenda"
+msgstr "Парадак дня"
+
+msgid "cal_ti_alarm_tone"
+msgstr "Абярыце сігнал"
+
+msgid "cal_ti_calendar_private"
+msgstr "Прыватны"
+
+msgid "cal_ti_context_delete"
+msgstr "Выдаліць"
+
+msgid "cal_ti_context_edit"
+msgstr "Рэдагаваць"
+
+msgid "cal_ti_edit_calendar"
+msgstr "Рэдагаваць каляндар"
+
+msgid "cal_ti_edit_calendars"
+msgstr "Рэдагаваць каляндары"
+
+msgid "cal_ti_edit_event"
+msgstr "Рэдагаваць падзею"
+
+msgid "cal_ti_edit_note"
+msgstr "Рэдагаваць нататку"
+
+msgid "cal_ti_edit_task"
+msgstr "Рэдагаваць задачу"
+
+msgid "cal_ti_event"
+msgstr "Падзея"
+
+msgid "cal_ti_import"
+msgstr "Абярыце каляндар"
+
+msgid "cal_ti_import_info"
+msgstr "Даданне % s"
+
+msgid "cal_ti_invited_attendees"
+msgstr "Запрошаныя ўдзельнікі"
+
+msgid "cal_ti_jump_to"
+msgstr "Ісці да"
+
+msgid "cal_ti_no_notes"
+msgstr "(няма нататак)"
+
+msgid "cal_ti_no_tasks"
+msgstr "(няма задач)"
+
+msgid "cal_ti_notes"
+msgstr "Нататкі"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "Дадаць сігнал будзільніка"
+
+msgid "cal_ti_organiser"
+msgstr "Арганайзер"
+
+msgid "cal_ti_remove_event"
+msgstr "Выдаліць падзею"
+
+msgid "cal_ti_settings"
+msgstr "Налады"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "Дні Народўінаў"
+
+msgid "cal_ti_tasks"
+msgstr "Задачы"
+
+msgid "cal_ti_title"
+msgstr "Назва"
+
+msgid "cal_ti_weekview"
+msgstr "Тыдзень % s (% s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "Тыдзень % s"
+
+msgid "cal_ti_welcome"
+msgstr "Каляндар пусты"
+
+msgid "cal_ti_welcome_info"
+msgstr "Перадаць дадзеныя са старога тэлефона? Гэта можа быць зроблена пазней з дапамогай \"перадачы і сінхранизацыі\" ў наладах."
+
+msgid "cal_ti_wizard"
+msgstr "Каляндар"
+
+msgid "cal_ti_wizard_complete"
+msgstr "Выканана"
+
+msgid "cal_ti_wizard_details"
+msgstr "Апісанне"
+
+msgid "cal_ti_wizard_type"
+msgstr "Тып"
+
+msgid "cal_va_0_min"
+msgstr "за 0 хвілін"
+
+msgid "cal_va_15_min"
+msgstr "за 15 хвілін"
+
+msgid "cal_va_1_hour"
+msgstr "за 1 гадзіну"
+
+msgid "cal_va_30_min"
+msgstr "за 30 хвілін"
+
+msgid "cal_va_3_hours"
+msgstr "за 3 гадзіны"
+
+msgid "cal_va_5_min"
+msgstr "за 5 хвілін"
+
+msgid "cal_va_allday"
+msgstr "Увесь дзень"
+
+msgid "cal_va_allday_home"
+msgstr "Сёння"
+
+msgid "cal_va_allday_long"
+msgstr "Увесь дзень"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] "% d падзея"
+msgstr[1] "% d падзеі"
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] "% d нататка"
+msgstr[1] "% d нататкі"
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] "% d задача"
+msgstr[1] "% d задачы"
+
+msgid "cal_va_and"
+msgstr "і"
+
+msgid "cal_va_calendar"
+msgstr "Выкарыстоўваючы '% s'"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] "% d бачны"
+msgstr[1] "% d бачныя"
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] "% d падзея"
+msgstr[1] "% d падзеі"
+
+msgid "cal_va_day_before"
+msgstr "Напярэдадні"
+
+msgid "cal_va_every_day"
+msgstr "Штодня"
+
+msgid "cal_va_every_month"
+msgstr "Штомесяц"
+
+msgid "cal_va_every_week"
+msgstr "Штотыдзень"
+
+msgid "cal_va_every_workday"
+msgstr "У будні"
+
+msgid "cal_va_every_year"
+msgstr "Штогод"
+
+msgid "cal_va_local"
+msgstr "Мясцовы"
+
+msgid "cal_va_monday"
+msgstr "Панядзелак"
+
+msgid "cal_va_never"
+msgstr "Ніколі"
+
+msgid "cal_va_newcalendar"
+msgstr "Стварыць новы каляндар"
+
+msgid "cal_va_none"
+msgstr "Няма"
+
+msgid "cal_va_note_saved"
+msgstr "Апошні захаваны % s"
+
+msgid "cal_va_older_1_month"
+msgstr "Cтарэйшы за месяц"
+
+msgid "cal_va_older_1_week"
+msgstr "Старэйшы за тыдзень"
+
+msgid "cal_va_older_1_year"
+msgstr "Старэйшы за год"
+
+msgid "cal_va_older_2_weeks"
+msgstr "Старэйшы за 2 тыдні"
+
+msgid "cal_va_placeholder_description"
+msgstr "Апісанне"
+
+msgid "cal_va_placeholder_note"
+msgstr "Нататка"
+
+msgid "cal_va_placeholder_title"
+msgstr "Назва"
+
+msgid "cal_va_repeat_complex"
+msgstr "(Складаны паўтор. Немагчыма адрэдагаваць)"
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(няма файлаў)"
+
+msgid "cal_va_smart"
+msgstr "Дынамічны"
+
+msgid "cal_va_sunday"
+msgstr "Нядзеля"
+
+msgid "cal_va_synchronized"
+msgstr "Сінхранізаваны"
+
+msgid "cal_va_today"
+msgstr "% s (сёння)"
