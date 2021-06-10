@@ -1,0 +1,512 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "cal_ap_name"
+msgstr "Calendari"
+
+msgid "cal_ap_name_short"
+msgstr "Calendari"
+
+msgid "cal_bd_edit_calendars"
+msgstr "Edita els calendaris"
+
+msgid "cal_bd_export"
+msgstr "Exporta"
+
+msgid "cal_bd_jump"
+msgstr "Salta"
+
+msgid "cal_bd_monthview_week"
+msgstr "s%s"
+
+msgid "cal_bd_new_calendar"
+msgstr "Nou"
+
+msgid "cal_bd_new_event"
+msgstr "Nova cita"
+
+msgid "cal_bd_new_note"
+msgstr "Nova nota"
+
+msgid "cal_bd_new_task"
+msgstr "Nova tasca"
+
+msgid "cal_bd_transfer"
+msgstr "Transfereix"
+
+msgid "cal_fi_alarm"
+msgstr "Alarma"
+
+msgid "cal_fi_alarm_tone"
+msgstr "To d'alarma"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "%d cita de dia complet"
+msgstr[1] "%d cites de dia complet"
+
+msgid "cal_fi_calendar"
+msgstr "Calendari"
+
+msgid "cal_fi_color"
+msgstr "Color"
+
+msgid "cal_fi_date"
+msgstr "Data"
+
+msgid "cal_fi_done"
+msgstr "Fet"
+
+msgid "cal_fi_enddate"
+msgstr "A"
+
+msgid "cal_fi_enddate2"
+msgstr "a"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "Amaga les tasques acabades"
+
+msgid "cal_fi_location"
+msgstr "On"
+
+msgid "cal_fi_no_events"
+msgstr "No hi ha cites"
+
+msgid "cal_fi_pcsuite"
+msgstr "(utilitzat per PC Suite)"
+
+msgid "cal_fi_remove_items"
+msgstr "Esborra les entrades"
+
+msgid "cal_fi_repeat"
+msgstr "Repetició"
+
+msgid "cal_fi_repeat_complex"
+msgstr "(Repetició complexa. No editable)"
+
+msgid "cal_fi_repeat_until"
+msgstr "Fins"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "Timbre"
+
+msgid "cal_fi_startdate"
+msgstr "De"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] "%d tasques no finalitzades"
+msgstr[1] "%d tasques no finalitzades"
+
+msgid "cal_fi_visible"
+msgstr "Visible"
+
+msgid "cal_fi_week_start_day"
+msgstr "Primer dia de la setmana"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "Títol"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "Calendari local"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "Calendari d'aniversaris"
+
+msgid "cal_ia_wizard_complete"
+msgstr "Toqueu 'Finalitza' per desar o descartar els canvis tocant fora de la finestra. Podeu canviar després les opcions fent servir 'Preferències' al menú."
+
+msgid "cal_ia_wizard_intro"
+msgstr "L'auxiliar de calendari us permet crear nous calendaris.\n\nToqueu 'Continua' per continuar."
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "S'ha acabat l'execució de l'auxiliar"
+
+msgid "cal_ia_wizard_typetext"
+msgstr "Trieu el tipus de calendari"
+
+msgid "cal_ib_add_title"
+msgstr "Afegeix un títol"
+
+msgid "cal_ib_alarm_early"
+msgstr "No es pot configurar una alarma en el passat"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "S'ha subscrit al calendari %s"
+
+msgid "cal_ib_calendar_saved"
+msgstr "S'ha desat el calendari %s"
+
+msgid "cal_ib_date_earlier"
+msgstr "La data final ha de ser posterior a la data inicial"
+
+msgid "cal_ib_date_earlier_until"
+msgstr "L'última repetició ha de ser més tard que la primera ocurrència."
+
+msgid "cal_ib_import_duplicate"
+msgstr "L'entrada ja existeix al calendari"
+
+msgid "cal_ib_import_duplicates"
+msgstr "Ja existeixen algunes entrades al calendari"
+
+msgid "cal_ib_last_event"
+msgstr "No hi ha més cites"
+
+msgid "cal_ib_setting_failed"
+msgstr "No s'ha pogut desar"
+
+msgid "cal_ib_time_earlier"
+msgstr "L'hora final ha de ser posterior a l'hora inicial"
+
+msgid "cal_ib_title_exists"
+msgstr "Ja existeix un calendari amb el mateix títol"
+
+msgid "cal_ib_unix"
+msgstr "Fora de la data límit"
+
+msgid "cal_ib_visible"
+msgstr "Com a mínim un calendari ha de ser visible"
+
+msgid "cal_me_agenda_home_applet"
+msgstr "Calendari"
+
+msgid "cal_me_go_to_notes"
+msgstr "Vés a notes"
+
+msgid "cal_me_go_to_tasks"
+msgstr "Vés a tasques"
+
+msgid "cal_me_jump_to_today"
+msgstr "Vés a avui"
+
+msgid "cal_me_new_event"
+msgstr "Nova cita"
+
+msgid "cal_me_next_day"
+msgstr "Dia següent"
+
+msgid "cal_me_next_event"
+msgstr "Següent entrada"
+
+msgid "cal_me_next_month"
+msgstr "Següent mes"
+
+msgid "cal_me_next_week"
+msgstr "Següent setmana"
+
+msgid "cal_me_previous_day"
+msgstr "Dia anterior"
+
+msgid "cal_me_previous_event"
+msgstr "Entrada anterior"
+
+msgid "cal_me_previous_month"
+msgstr "Mes anterior"
+
+msgid "cal_me_previous_week"
+msgstr "Setmana anterior"
+
+msgid "cal_me_toggle_agenda"
+msgstr "Agenda"
+
+msgid "cal_me_toggle_month"
+msgstr "Mes"
+
+msgid "cal_me_toggle_week"
+msgstr "Setmana"
+
+msgid "cal_more_events"
+msgstr "Més"
+
+msgid "cal_nc_delete_event"
+msgstr "S'elimina l'entrada?\n%s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr "S'elimina l'entrada i les seves repeticions?\n'%s'"
+
+msgid "cal_nc_delete_note"
+msgstr "S'elimina la nota?"
+
+msgid "cal_nc_delete_task"
+msgstr "S'elimina la tasca?\n%s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr "Esteu editant l'entrada\n%s\nque no es pot editar completament. Primer s'ha de definir una nova regla de repetició. Es perdran les actuals excepcions.\nVoleu continuar?"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr "Esteu canviant una regla de repetició per a l'entrada:\n%s\nque no es pot editar completament. Es perdran les actuals excepcions. Voleu Continuar?"
+
+msgid "cal_nc_permanent_delete"
+msgstr "El calendari '%s' no es pot esborrar. Voleu eliminar-ne el contingut?"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr "Pot ser que s'esborrin dades d'altres dispositius.\n\nEl calendari '%s' no es pot esborrar. Voleu eliminar-ne el contingut?"
+
+msgid "cal_nc_remove_calendar"
+msgstr "Voleu eliminar el calendari i les seves cites, tasques i notes?\n'%s'"
+
+msgid "cal_nc_smart_delete"
+msgstr "S'elimina el calendari intel·ligent?"
+
+msgid "cal_nc_synced_delete"
+msgstr "El calendari ‘%s’ està sincronitzat. S'elimina de totes maneres?"
+
+msgid "cal_ni_export_nospace"
+msgstr "No hi ha prou espai per exportar"
+
+msgid "cal_ni_ical_invalid"
+msgstr "Fitxer de calendari invàlid"
+
+msgid "cal_ni_internal_error"
+msgstr "S'ha produït un error"
+
+msgid "cal_ni_web_invalid"
+msgstr "El calendari no pot obrir aquesta adreça"
+
+msgid "cal_task_summary"
+msgstr "%d tasques"
+
+msgid "cal_ti_agenda"
+msgstr "Calendari"
+
+msgid "cal_ti_alarm_tone"
+msgstr "Tria del to d'alarma"
+
+msgid "cal_ti_calendar_private"
+msgstr "Privat"
+
+msgid "cal_ti_context_delete"
+msgstr "Elimina"
+
+msgid "cal_ti_context_edit"
+msgstr "Edita"
+
+msgid "cal_ti_edit_calendar"
+msgstr "Edita el calendari"
+
+msgid "cal_ti_edit_calendars"
+msgstr "Edita els calendaris"
+
+msgid "cal_ti_edit_event"
+msgstr "Edita la cita"
+
+msgid "cal_ti_edit_note"
+msgstr "Edita la nota"
+
+msgid "cal_ti_edit_task"
+msgstr "Edita la tasca"
+
+msgid "cal_ti_event"
+msgstr "Cita"
+
+msgid "cal_ti_import"
+msgstr "Tria un calendari"
+
+msgid "cal_ti_import_info"
+msgstr "Afegint %s"
+
+msgid "cal_ti_invited_attendees"
+msgstr "convidats"
+
+msgid "cal_ti_jump_to"
+msgstr "Salta a"
+
+msgid "cal_ti_no_notes"
+msgstr "(no hi ha notes)"
+
+msgid "cal_ti_no_tasks"
+msgstr "(no hi ha tasques)"
+
+msgid "cal_ti_notes"
+msgstr "Notes"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "Afegeix un to d'alarma"
+
+msgid "cal_ti_organiser"
+msgstr "Organitzador"
+
+msgid "cal_ti_remove_event"
+msgstr "Elimina la cita"
+
+msgid "cal_ti_settings"
+msgstr "Preferències"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "Aniversaris"
+
+msgid "cal_ti_tasks"
+msgstr "Tasques"
+
+msgid "cal_ti_title"
+msgstr "Títol"
+
+msgid "cal_ti_weekview"
+msgstr "Setmana %s (%s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "Setmana %s"
+
+msgid "cal_ti_welcome"
+msgstr "Calendari buit"
+
+msgid "cal_ti_welcome_info"
+msgstr "Es transfereixen dades d'un telèfon anterior?\n\nEs pot fer més tard via 'transferència i sincronització' a les preferències"
+
+msgid "cal_ti_wizard"
+msgstr "Calendari"
+
+msgid "cal_ti_wizard_complete"
+msgstr "Completat"
+
+msgid "cal_ti_wizard_details"
+msgstr "Detalls"
+
+msgid "cal_ti_wizard_type"
+msgstr "Tipus"
+
+msgid "cal_va_0_min"
+msgstr "0 minuts abans"
+
+msgid "cal_va_15_min"
+msgstr "15 minuts abans"
+
+msgid "cal_va_1_hour"
+msgstr "1 hora abans"
+
+msgid "cal_va_30_min"
+msgstr "30 minuts abans"
+
+msgid "cal_va_3_hours"
+msgstr "3 hores abans"
+
+msgid "cal_va_5_min"
+msgstr "5 minuts abans"
+
+msgid "cal_va_allday"
+msgstr "Tot\nel dia"
+
+msgid "cal_va_allday_home"
+msgstr "Avui"
+
+msgid "cal_va_allday_long"
+msgstr "Tot el dia"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] "%d cita"
+msgstr[1] "%d cites"
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] "%d nota"
+msgstr[1] "%d notes"
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] "%d tasca"
+msgstr[1] "%d tasques"
+
+msgid "cal_va_and"
+msgstr "i"
+
+msgid "cal_va_calendar"
+msgstr "Utilitza '%s'"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] "%d visible"
+msgstr[1] "%d visible"
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] "%d cita"
+msgstr[1] "%d cites"
+
+msgid "cal_va_day_before"
+msgstr "Dia abans"
+
+msgid "cal_va_every_day"
+msgstr "Cada dia"
+
+msgid "cal_va_every_month"
+msgstr "Cada mes"
+
+msgid "cal_va_every_week"
+msgstr "Cada setmana"
+
+msgid "cal_va_every_workday"
+msgstr "Cada dia de cada dia"
+
+msgid "cal_va_every_year"
+msgstr "Cada any"
+
+msgid "cal_va_local"
+msgstr "Local"
+
+msgid "cal_va_monday"
+msgstr "Dilluns"
+
+msgid "cal_va_never"
+msgstr "Mai"
+
+msgid "cal_va_newcalendar"
+msgstr "Crear nou calendari"
+
+msgid "cal_va_none"
+msgstr "Cap"
+
+msgid "cal_va_note_saved"
+msgstr "Desada %s"
+
+msgid "cal_va_older_1_month"
+msgstr "Més antic d'1 mes"
+
+msgid "cal_va_older_1_week"
+msgstr "Més antic d'1 setmana"
+
+msgid "cal_va_older_1_year"
+msgstr "Més antic d'1 any"
+
+msgid "cal_va_older_2_weeks"
+msgstr "Més antic de 2 setmanes"
+
+msgid "cal_va_placeholder_description"
+msgstr "Descripció"
+
+msgid "cal_va_placeholder_note"
+msgstr "Nota"
+
+msgid "cal_va_placeholder_title"
+msgstr "Títol"
+
+msgid "cal_va_repeat_complex"
+msgstr "(Repetició complexa. No editable)"
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(no hi ha fitxers)"
+
+msgid "cal_va_smart"
+msgstr "Intel·ligent"
+
+msgid "cal_va_sunday"
+msgstr "Diumenge"
+
+msgid "cal_va_synchronized"
+msgstr "Sincronitzat"
+
+msgid "cal_va_today"
+msgstr "%s (avui)"
