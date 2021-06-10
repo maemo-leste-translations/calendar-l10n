@@ -1,0 +1,505 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2012-05-30 14:32+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "cal_ap_name"
+msgstr "日历"
+
+msgid "cal_ap_name_short"
+msgstr "日历"
+
+msgid "cal_bd_edit_calendars"
+msgstr "日历编辑"
+
+msgid "cal_bd_export"
+msgstr "导入"
+
+msgid "cal_bd_jump"
+msgstr "确定"
+
+msgid "cal_bd_monthview_week"
+msgstr "%s周"
+
+msgid "cal_bd_new_calendar"
+msgstr "新建"
+
+msgid "cal_bd_new_event"
+msgstr "新日历项"
+
+msgid "cal_bd_new_note"
+msgstr "新便笺"
+
+msgid "cal_bd_new_task"
+msgstr "新任务"
+
+msgid "cal_bd_transfer"
+msgstr "转换"
+
+msgid "cal_fi_alarm"
+msgstr "闹钟"
+
+msgid "cal_fi_alarm_tone"
+msgstr "闹铃"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "%d 所有日历项"
+
+msgid "cal_fi_calendar"
+msgstr "日历"
+
+msgid "cal_fi_color"
+msgstr "颜色"
+
+msgid "cal_fi_date"
+msgstr "日期"
+
+msgid "cal_fi_done"
+msgstr "完成"
+
+msgid "cal_fi_enddate"
+msgstr "至"
+
+msgid "cal_fi_enddate2"
+msgstr "至"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "隐藏已完成"
+
+msgid "cal_fi_location"
+msgstr "位置"
+
+msgid "cal_fi_no_events"
+msgstr "无日历项"
+
+msgid "cal_fi_pcsuite"
+msgstr "(PC套件)"
+
+msgid "cal_fi_remove_items"
+msgstr "删除条目"
+
+msgid "cal_fi_repeat"
+msgstr "重复"
+
+msgid "cal_fi_repeat_complex"
+msgstr "循环重复(每年,月,日重复）"
+
+msgid "cal_fi_repeat_until"
+msgstr "重复至"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "设置闹铃1"
+
+msgid "cal_fi_startdate"
+msgstr "自"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] "%d 未完事项"
+
+msgid "cal_fi_visible"
+msgstr "可见"
+
+msgid "cal_fi_week_start_day"
+msgstr "星期开始日"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "标题"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "当地时间"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "生日智能日历"
+
+msgid "cal_ia_wizard_complete"
+msgstr "点击'完成'保存或放弃通过利用外部的向导设置.您可以在以后通过您菜单中的'设置'来改变"
+
+msgid "cal_ia_wizard_intro"
+msgstr "日历向导允许您创建新日历.\n\n点击"
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "日历向导完成."
+
+msgid "cal_ia_wizard_typetext"
+msgstr "选择日历类型"
+
+msgid "cal_ib_add_title"
+msgstr "增加条目"
+
+msgid "cal_ib_alarm_early"
+msgstr "闹铃时间无法设置在过去"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "日历订阅 %s 增加"
+
+msgid "cal_ib_calendar_saved"
+msgstr "日历 %s 保存"
+
+msgid "cal_ib_date_earlier"
+msgstr "活动结束日期必须晚于开始日期"
+
+msgid "cal_ib_date_earlier_until"
+msgstr "最后重复日期必须晚于开始日期"
+
+msgid "cal_ib_import_duplicate"
+msgstr "该项目已经存在日历中"
+
+msgid "cal_ib_import_duplicates"
+msgstr "已经存在的日历项目"
+
+msgid "cal_ib_last_event"
+msgstr "没有更多的活动"
+
+msgid "cal_ib_setting_failed"
+msgstr "无法保存设置"
+
+msgid "cal_ib_time_earlier"
+msgstr "活动结束时间必须晚于开始时间"
+
+msgid "cal_ib_title_exists"
+msgstr "已存在的日历项"
+
+msgid "cal_ib_unix"
+msgstr "日期超出限制"
+
+msgid "cal_ib_visible"
+msgstr "至少有一个必须是可见的日历"
+
+msgid "cal_me_agenda_home_applet"
+msgstr "日历"
+
+msgid "cal_me_go_to_notes"
+msgstr "转到便笺"
+
+msgid "cal_me_go_to_tasks"
+msgstr "转到任务"
+
+msgid "cal_me_jump_to_today"
+msgstr "跳到今天"
+
+msgid "cal_me_new_event"
+msgstr "新事件"
+
+msgid "cal_me_next_day"
+msgstr "下明天"
+
+msgid "cal_me_next_event"
+msgstr "下个事件"
+
+msgid "cal_me_next_month"
+msgstr "下月"
+
+msgid "cal_me_next_week"
+msgstr "下周"
+
+msgid "cal_me_previous_day"
+msgstr "前一天"
+
+msgid "cal_me_previous_event"
+msgstr "前事件"
+
+msgid "cal_me_previous_month"
+msgstr "上月"
+
+msgid "cal_me_previous_week"
+msgstr "上周"
+
+msgid "cal_me_toggle_agenda"
+msgstr "日"
+
+msgid "cal_me_toggle_month"
+msgstr "月"
+
+msgid "cal_me_toggle_week"
+msgstr "周"
+
+msgid "cal_more_events"
+msgstr "更多"
+
+msgid "cal_nc_delete_event"
+msgstr "删除事件?\n%s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr "删除所有重复事件?\n'%s'"
+
+msgid "cal_nc_delete_note"
+msgstr "删除便笺?"
+
+msgid "cal_nc_delete_task"
+msgstr "删除任务?\n%s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr "你正在编辑事件\n%s\n此项无法完全编辑.新的重复的规则必须设置第一.任何例外的规则都将丢失.\n继续吗?"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr "改变了规则的事件重新发生?\n%s\n这是无法完全编辑的.任何自定义的规则都将丢失.继续?"
+
+msgid "cal_nc_permanent_delete"
+msgstr "'%s' 日历无法删除,删除所有内容,而不是日历?"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr "数据也将从其他设备删除.\n\n'%s'"
+
+msgid "cal_nc_remove_calendar"
+msgstr "删除此日历和事件'%s'"
+
+msgid "cal_nc_smart_delete"
+msgstr "删除智能日历吗?原始数据将被删除."
+
+msgid "cal_nc_synced_delete"
+msgstr "日历 ‘%s’ 同步完成. 确定删除?"
+
+msgid "cal_ni_export_nospace"
+msgstr "没有足够的空间导出"
+
+msgid "cal_ni_ical_invalid"
+msgstr "无效的日历文件"
+
+msgid "cal_ni_internal_error"
+msgstr "意外错误发生"
+
+msgid "cal_ni_web_invalid"
+msgstr "日历无法打开这个地址"
+
+msgid "cal_task_summary"
+msgstr "%d 任务"
+
+msgid "cal_ti_agenda"
+msgstr "日历"
+
+msgid "cal_ti_alarm_tone"
+msgstr "选择闹铃"
+
+msgid "cal_ti_calendar_private"
+msgstr "私人"
+
+msgid "cal_ti_context_delete"
+msgstr "删除"
+
+msgid "cal_ti_context_edit"
+msgstr "编辑"
+
+msgid "cal_ti_edit_calendar"
+msgstr "编辑日历项"
+
+msgid "cal_ti_edit_calendars"
+msgstr "编辑日历"
+
+msgid "cal_ti_edit_event"
+msgstr "编辑事件"
+
+msgid "cal_ti_edit_note"
+msgstr "编辑便笺"
+
+msgid "cal_ti_edit_task"
+msgstr "编辑任务"
+
+msgid "cal_ti_event"
+msgstr "大事"
+
+msgid "cal_ti_import"
+msgstr "选择日历"
+
+msgid "cal_ti_import_info"
+msgstr "添加 %s"
+
+msgid "cal_ti_invited_attendees"
+msgstr "已邀请与会人员"
+
+msgid "cal_ti_jump_to"
+msgstr "转至"
+
+msgid "cal_ti_no_notes"
+msgstr "(无说明)"
+
+msgid "cal_ti_no_tasks"
+msgstr "(无任务)"
+
+msgid "cal_ti_notes"
+msgstr "便笺"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "增加闹钟铃声"
+
+msgid "cal_ti_organiser"
+msgstr "主持人"
+
+msgid "cal_ti_remove_event"
+msgstr "删除事件"
+
+msgid "cal_ti_settings"
+msgstr "设置"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "生日"
+
+msgid "cal_ti_tasks"
+msgstr "任务"
+
+msgid "cal_ti_title"
+msgstr "标题"
+
+msgid "cal_ti_weekview"
+msgstr "第%s周 (%s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "第%s周"
+
+msgid "cal_ti_welcome"
+msgstr "空白日历项"
+
+msgid "cal_ti_welcome_info"
+msgstr "从旧手机数据传输?\n\n这可以通过转让及稍后在设置同步."
+
+msgid "cal_ti_wizard"
+msgstr "日历"
+
+msgid "cal_ti_wizard_complete"
+msgstr "完成"
+
+msgid "cal_ti_wizard_details"
+msgstr "详细"
+
+msgid "cal_ti_wizard_type"
+msgstr "类型"
+
+msgid "cal_va_0_min"
+msgstr "0分钟前"
+
+msgid "cal_va_15_min"
+msgstr "15分钟前"
+
+msgid "cal_va_1_hour"
+msgstr "1小时后"
+
+msgid "cal_va_30_min"
+msgstr "30分钟前"
+
+msgid "cal_va_3_hours"
+msgstr "3小时前"
+
+msgid "cal_va_5_min"
+msgstr "前5分钟"
+
+msgid "cal_va_allday"
+msgstr "全部\n天"
+
+msgid "cal_va_allday_home"
+msgstr "今天"
+
+msgid "cal_va_allday_long"
+msgstr "全天"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] "%d 事件"
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] "%d 通知"
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] "%d 任务"
+
+msgid "cal_va_and"
+msgstr "和"
+
+msgid "cal_va_calendar"
+msgstr "使用 '%s'"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] "%d 可见"
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] "%d 事件"
+
+msgid "cal_va_day_before"
+msgstr "前一天"
+
+msgid "cal_va_every_day"
+msgstr "每天"
+
+msgid "cal_va_every_month"
+msgstr "每月"
+
+msgid "cal_va_every_week"
+msgstr "每星期"
+
+msgid "cal_va_every_workday"
+msgstr "每个工作日"
+
+msgid "cal_va_every_year"
+msgstr "每年"
+
+msgid "cal_va_local"
+msgstr "当地"
+
+msgid "cal_va_monday"
+msgstr "星期一"
+
+msgid "cal_va_never"
+msgstr "从不"
+
+msgid "cal_va_newcalendar"
+msgstr "创建新日历"
+
+msgid "cal_va_none"
+msgstr "从未"
+
+msgid "cal_va_note_saved"
+msgstr "上次保存 %s"
+
+msgid "cal_va_older_1_month"
+msgstr "1个月以上"
+
+msgid "cal_va_older_1_week"
+msgstr "1个星期以上"
+
+msgid "cal_va_older_1_year"
+msgstr "1年以上"
+
+msgid "cal_va_older_2_weeks"
+msgstr "2周以上"
+
+msgid "cal_va_placeholder_description"
+msgstr "描述"
+
+msgid "cal_va_placeholder_note"
+msgstr "便笺"
+
+msgid "cal_va_placeholder_title"
+msgstr "标题"
+
+msgid "cal_va_repeat_complex"
+msgstr "(文件重复.无法修改.)"
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(无文件)"
+
+msgid "cal_va_smart"
+msgstr "智能"
+
+msgid "cal_va_sunday"
+msgstr "星期日"
+
+msgid "cal_va_synchronized"
+msgstr "同步"
+
+msgid "cal_va_today"
+msgstr "%s (今天)"
