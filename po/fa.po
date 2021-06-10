@@ -1,0 +1,506 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2011-11-06 14:43+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "cal_ap_name"
+msgstr "تقویم"
+
+msgid "cal_ap_name_short"
+msgstr "تقویم"
+
+msgid "cal_bd_edit_calendars"
+msgstr "ویرایش تقویم‌ها"
+
+msgid "cal_bd_export"
+msgstr "ذخیره"
+
+msgid "cal_bd_jump"
+msgstr "پرش"
+
+msgid "cal_bd_monthview_week"
+msgstr "h%s"
+
+msgid "cal_bd_new_calendar"
+msgstr "جدید"
+
+msgid "cal_bd_new_event"
+msgstr "رویداد جدید"
+
+msgid "cal_bd_new_note"
+msgstr "یاداشت جدید"
+
+msgid "cal_bd_new_task"
+msgstr "وظیفهء جدید"
+
+msgid "cal_bd_transfer"
+msgstr "انتقال"
+
+msgid "cal_fi_alarm"
+msgstr "هشدار"
+
+msgid "cal_fi_alarm_tone"
+msgstr "زنگ هشدار"
+
+msgid "cal_fi_allday_event"
+msgid_plural "cal_fi_allday_events"
+msgstr[0] "همه روزها"
+
+msgid "cal_fi_calendar"
+msgstr "تقویم"
+
+msgid "cal_fi_color"
+msgstr "رنگ"
+
+msgid "cal_fi_date"
+msgstr "تاریخ"
+
+msgid "cal_fi_done"
+msgstr "انجام شد"
+
+msgid "cal_fi_enddate"
+msgstr "پایان"
+
+msgid "cal_fi_enddate2"
+msgstr "چقدر"
+
+msgid "cal_fi_hide_done_tasks"
+msgstr "رویداد های اتفاق افتاده را پنهان کن"
+
+msgid "cal_fi_location"
+msgstr "محل"
+
+msgid "cal_fi_no_events"
+msgstr "هیچ رویدادی نیست"
+
+msgid "cal_fi_pcsuite"
+msgstr "بوسیله‌ی پی سی سویت بکاربرده شد"
+
+msgid "cal_fi_remove_items"
+msgstr "حذف آیتم ها"
+
+msgid "cal_fi_repeat"
+msgstr "تکرار"
+
+msgid "cal_fi_repeat_complex"
+msgstr "تکرار پیچیده . امکان ویرایش نیست"
+
+msgid "cal_fi_repeat_until"
+msgstr "تا زمانی که"
+
+msgid "cal_fi_set_alarm_tone1"
+msgstr "زنگ هشدار"
+
+msgid "cal_fi_startdate"
+msgstr "تاریخ شروع"
+
+msgid "cal_fi_tasks_undone_plural"
+msgid_plural "cal_fi_tasks_undone"
+msgstr[0] ""
+
+msgid "cal_fi_visible"
+msgstr "قابل رویت"
+
+msgid "cal_fi_week_start_day"
+msgstr "اولین روز هفته"
+
+msgid "cal_fi_wizard_placeholder_title"
+msgstr "عنوان"
+
+msgid "cal_fi_wizard_type_local"
+msgstr "تقویم محلی"
+
+msgid "cal_fi_wizard_type_smart"
+msgstr "تقویم هوشمند روزهای تولد"
+
+msgid "cal_ia_wizard_complete"
+msgstr "برای ذخیره 'پایان' را فشار دهید و برای خروج از مراحل نصب ، بیرون کادر را فشار دهید تنظیمات را بعدا می‌توانید از منوی نتظیمات تغییر دهید"
+
+msgid "cal_ia_wizard_intro"
+msgstr "این فرآیند امکان ایجاد تقویم جدید را فراهم می‌کند.\n\nبرای ادامه 'بعدی' را فشار هید."
+
+msgid "cal_ia_wizard_setup_complete"
+msgstr "فرآیند تقویم به پایان رسید."
+
+msgid "cal_ia_wizard_typetext"
+msgstr "انتخاب نوع تقویم"
+
+msgid "cal_ib_add_title"
+msgstr "اضافه کردن عنوان"
+
+msgid "cal_ib_alarm_early"
+msgstr "امکان ایجاد آلارم در زمان گذشته وجود ندارد"
+
+msgid "cal_ib_calendar_added_web"
+msgstr "%s تقویم جدید اضافه شد"
+
+msgid "cal_ib_calendar_saved"
+msgstr "%s تقویم ثبت شد"
+
+msgid "cal_ib_date_earlier"
+msgstr "تاریخ  پايان رويداد بايد از تاریخ شروعش ديرتر باشد"
+
+msgid "cal_ib_date_earlier_until"
+msgstr "تاريخ آخرين تکرار بايد از تاریخ  شروعش ديرتر باشد"
+
+msgid "cal_ib_import_duplicate"
+msgstr "مورد مشابه در حال حاظر در تقویم وجود دارد"
+
+msgid "cal_ib_import_duplicates"
+msgstr "بعضی از موارد هم اکنون در تقویم وجود دارند"
+
+msgid "cal_ib_last_event"
+msgstr "رویداد دیگری نیست"
+
+msgid "cal_ib_setting_failed"
+msgstr "امکان ذخیره‌ی تنظیمات وجود ندارد"
+
+msgid "cal_ib_time_earlier"
+msgstr "زمان پايان رويداد بايد از زمان شروعش ديرتر باشد"
+
+msgid "cal_ib_title_exists"
+msgstr "عنوان مشابه در تقویم وجود دارد"
+
+msgid "cal_ib_unix"
+msgstr "میزان تاریخ از حد مجاز بیشتر است"
+
+msgid "cal_ib_visible"
+msgstr "حداقل یک تقویم باید قابل مشاهده باشد"
+
+msgid "cal_me_agenda_home_applet"
+msgstr "تقویم"
+
+msgid "cal_me_go_to_notes"
+msgstr "برو به یادداشت‌ها"
+
+msgid "cal_me_go_to_tasks"
+msgstr "برو به وظایف"
+
+msgid "cal_me_jump_to_today"
+msgstr "پرش به امروز"
+
+msgid "cal_me_new_event"
+msgstr "رویداد جدید"
+
+msgid "cal_me_next_day"
+msgstr "روز بعد"
+
+msgid "cal_me_next_event"
+msgstr "رویداد بعدی"
+
+msgid "cal_me_next_month"
+msgstr "ماه بعد"
+
+msgid "cal_me_next_week"
+msgstr "هفته‌ی بعد"
+
+msgid "cal_me_previous_day"
+msgstr "روز قبل"
+
+msgid "cal_me_previous_event"
+msgstr "رویداد قبلی"
+
+msgid "cal_me_previous_month"
+msgstr "ماه قبل"
+
+msgid "cal_me_previous_week"
+msgstr "هفته‌ی قبل"
+
+msgid "cal_me_toggle_agenda"
+msgstr "دستور کار"
+
+msgid "cal_me_toggle_month"
+msgstr "ماه"
+
+msgid "cal_me_toggle_week"
+msgstr "هفته"
+
+msgid "cal_more_events"
+msgstr "بیشتر"
+
+msgid "cal_nc_delete_event"
+msgstr "حذف رویدادها?\n%s"
+
+msgid "cal_nc_delete_event_repeat"
+msgstr "آیا میخواهید این رویداد به همراه تمامی تکرار هایش حذف شود؟?\n'%s'"
+
+msgid "cal_nc_delete_note"
+msgstr "آیا میخواهید این یاداشت حذف شود؟"
+
+msgid "cal_nc_delete_task"
+msgstr "آیا میخواهید این کار حذف شود؟\n%s"
+
+msgid "cal_nc_edit_complex_last"
+msgstr "شما در حال ویرایش این رویداد هستید\n%s\nکه بطور کامل قابل ویرایش نیست.ابتدا باید یک قانون جدید برای تکرار ساخته شود.هر استثنایی که در قوانین نباشد ،  حذف خواهد شد.\nمایل به ادامه‌ی کار هستید؟"
+
+msgid "cal_nc_edit_complex_recurrence"
+msgstr "تنظیمات این رویداد را تغییر میدهید\n%s\nاین تنظیمات ویرایش شد.تمامی قوانین و استثناء ها از بین خواهد رفت. ادامه می‌دهید؟"
+
+msgid "cal_nc_permanent_delete"
+msgstr "'%s'امکان حذف تقویم وجود ندارد.آیا میخواهید بجای آن محتوای تقویم را حذف کنید؟"
+
+msgid "cal_nc_permanent_sync_delete"
+msgstr "اطلاعات ممکن است از دستگاه‌های دیگر حذف شود.\n\n'%s' امکان حذف تقویم وجود ندارد.آیا میخواهید بجای آن محتوای تقویم را حذف کنید؟"
+
+msgid "cal_nc_remove_calendar"
+msgstr "آیا میخواهید این تقویم و کلیه‌ی رویداد ها ، وظیفه ها و یادداشتهایش حذف شود؟\n'%s'"
+
+msgid "cal_nc_smart_delete"
+msgstr "آیا میخواهید تقویم هوشمند حذف شود؟ اطلاعات اصلی حذف نخواهند شد."
+
+msgid "cal_nc_synced_delete"
+msgstr "‘%s’ تقویم همسان سازی شده است .آیا میخواهید حذف شود؟"
+
+msgid "cal_ni_export_nospace"
+msgstr "برای ذخیره فضای کافی موجود نیست"
+
+msgid "cal_ni_ical_invalid"
+msgstr "فایل تقویم نامعتبر است"
+
+msgid "cal_ni_internal_error"
+msgstr "خطایی رخ داده است"
+
+msgid "cal_ni_web_invalid"
+msgstr "تقویم قادر به باز کردن این آدرس نیست"
+
+msgid "cal_task_summary"
+msgstr "%d وظایف"
+
+msgid "cal_ti_agenda"
+msgstr "تقویم"
+
+msgid "cal_ti_alarm_tone"
+msgstr "انتخاب آهنگ هشدار"
+
+msgid "cal_ti_calendar_private"
+msgstr "مخفی"
+
+msgid "cal_ti_context_delete"
+msgstr "حذف"
+
+msgid "cal_ti_context_edit"
+msgstr "ویرایش"
+
+msgid "cal_ti_edit_calendar"
+msgstr "ویرایش تقویم"
+
+msgid "cal_ti_edit_calendars"
+msgstr "ویرایش تقویم‌ها"
+
+msgid "cal_ti_edit_event"
+msgstr "ویرایش رویداد"
+
+msgid "cal_ti_edit_note"
+msgstr "ویرایش یادداشت"
+
+msgid "cal_ti_edit_task"
+msgstr "ویرایش وظیفه"
+
+msgid "cal_ti_event"
+msgstr "رویداد"
+
+msgid "cal_ti_import"
+msgstr "انتخاب تقویم"
+
+msgid "cal_ti_import_info"
+msgstr "%s افزودن"
+
+msgid "cal_ti_invited_attendees"
+msgstr "شرکت کنندگان دعوت شده"
+
+msgid "cal_ti_jump_to"
+msgstr "پرش به"
+
+msgid "cal_ti_no_notes"
+msgstr "یادداشتی موجود نیست"
+
+msgid "cal_ti_no_tasks"
+msgstr "(وظیفه ای وجود ندارد)"
+
+msgid "cal_ti_notes"
+msgstr "(یادداشتی وجود ندارد)"
+
+msgid "cal_ti_open_sound_clip"
+msgstr "افزودن آهنگ هشدار"
+
+msgid "cal_ti_organiser"
+msgstr "مؤسس"
+
+msgid "cal_ti_remove_event"
+msgstr "حذف رویداد"
+
+msgid "cal_ti_settings"
+msgstr "تنظیمات"
+
+msgid "cal_ti_smart_birthdays"
+msgstr "تولدها"
+
+msgid "cal_ti_tasks"
+msgstr "وظایف"
+
+msgid "cal_ti_title"
+msgstr "عنوان"
+
+msgid "cal_ti_weekview"
+msgstr "هفته %s (%s)"
+
+msgid "cal_ti_weekview_jump"
+msgstr "هفته %s"
+
+msgid "cal_ti_welcome"
+msgstr "تقویم خالی"
+
+msgid "cal_ti_welcome_info"
+msgstr "آیا میخواهید اطلاعات از دستگاه قدیمی منتقل شود؟\n\nاین کار می تواند بعداً از طریق انتقال و همسان سازی موجود در تنظیمات انجام شود."
+
+msgid "cal_ti_wizard"
+msgstr "تقویم"
+
+msgid "cal_ti_wizard_complete"
+msgstr "کامل شد"
+
+msgid "cal_ti_wizard_details"
+msgstr "جزئیات"
+
+msgid "cal_ti_wizard_type"
+msgstr "نوع"
+
+msgid "cal_va_0_min"
+msgstr "صفر دقیقه‌ی قبل"
+
+msgid "cal_va_15_min"
+msgstr "پانزده دقیقه‌ی قبل"
+
+msgid "cal_va_1_hour"
+msgstr "یک ساعت قبل"
+
+msgid "cal_va_30_min"
+msgstr "سی دقیقه‌ی قبل"
+
+msgid "cal_va_3_hours"
+msgstr "سه ساعت قبل"
+
+msgid "cal_va_5_min"
+msgstr "پنج دقیقه‌ی قبل"
+
+msgid "cal_va_allday"
+msgstr "روز\nتمام"
+
+msgid "cal_va_allday_home"
+msgstr "امروز"
+
+msgid "cal_va_allday_long"
+msgstr "تمام روز"
+
+msgid "cal_va_amount_event"
+msgid_plural "cal_va_amount_events"
+msgstr[0] ""
+
+msgid "cal_va_amount_note"
+msgid_plural "cal_va_amount_notes"
+msgstr[0] ""
+
+msgid "cal_va_amount_task"
+msgid_plural "cal_va_amount_tasks"
+msgstr[0] ""
+
+msgid "cal_va_and"
+msgstr "و"
+
+msgid "cal_va_calendar"
+msgstr "'%s' استفاده"
+
+msgid "cal_va_calendar_visible"
+msgid_plural "cal_va_calendars"
+msgstr[0] ""
+
+msgid "cal_va_count_event"
+msgid_plural "cal_va_count_events"
+msgstr[0] ""
+
+msgid "cal_va_day_before"
+msgstr "روز قبل"
+
+msgid "cal_va_every_day"
+msgstr "هر روز"
+
+msgid "cal_va_every_month"
+msgstr "هر ماه"
+
+msgid "cal_va_every_week"
+msgstr "هر هفته"
+
+msgid "cal_va_every_workday"
+msgstr "هر روز کاری"
+
+msgid "cal_va_every_year"
+msgstr "هر سال"
+
+msgid "cal_va_local"
+msgstr "محلی"
+
+msgid "cal_va_monday"
+msgstr "دوشنبه"
+
+msgid "cal_va_never"
+msgstr "هیچ وقت"
+
+msgid "cal_va_newcalendar"
+msgstr "ایجاد یک تقویم جدید"
+
+msgid "cal_va_none"
+msgstr "هیچ کدام"
+
+msgid "cal_va_note_saved"
+msgstr "تاریخ و زمان آخرین ثبت %s"
+
+msgid "cal_va_older_1_month"
+msgstr "قدیمی تر از یک ماه"
+
+msgid "cal_va_older_1_week"
+msgstr "قدیمی تر از یک هفته"
+
+msgid "cal_va_older_1_year"
+msgstr "قدیمی تر از یک سال"
+
+msgid "cal_va_older_2_weeks"
+msgstr "قدیمی تر از دو هفته"
+
+msgid "cal_va_placeholder_description"
+msgstr "شرح"
+
+msgid "cal_va_placeholder_note"
+msgstr "یادداشت"
+
+msgid "cal_va_placeholder_title"
+msgstr "عنوان"
+
+msgid "cal_va_repeat_complex"
+msgstr "تکرار پیچیده . امکان ویرایش نیست"
+
+msgid "cal_va_select_object_no_sound_clips"
+msgstr "(فایلی وجود ندارد)"
+
+msgid "cal_va_smart"
+msgstr "هوشمند"
+
+msgid "cal_va_sunday"
+msgstr "یکشنبه"
+
+msgid "cal_va_synchronized"
+msgstr "همسان سازی شده "
+
+msgid "cal_va_today"
+msgstr "%s (امروز)"
