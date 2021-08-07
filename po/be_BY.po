@@ -1,18 +1,18 @@
-# 
+#
 # Translators:
 # Stanislau  <kasrkin@mail.by>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: n900 extra translations\n"
-"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
-"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.01.25 15:16+0200\n"
 "PO-Revision-Date: 2011-12-28 18:42+0000\n"
 "Last-Translator: Stanislau <kasrkin@mail.by>\n"
 "Language-Team: en_US\n"
+"Language: be_BY\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: be_BY\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 msgid "cal_ap_name"
@@ -86,9 +86,6 @@ msgstr "Месца"
 msgid "cal_fi_no_events"
 msgstr "Няма падзей і задач"
 
-msgid "cal_fi_pcsuite"
-msgstr "(ужыванне PC Suite)"
-
 msgid "cal_fi_remove_items"
 msgstr "Выдаліць..."
 
@@ -128,10 +125,13 @@ msgid "cal_fi_wizard_type_smart"
 msgstr "Каляндар днёў Народзінаў"
 
 msgid "cal_ia_wizard_complete"
-msgstr "Насісніце \"Гатова\", каб захаваць ці змяніць налады, націснуўшы па-за межамі вакна. Вы заўсёды можаце змяніць налады праз \"Налады\" ў меню."
+msgstr ""
+"Насісніце \"Гатова\", каб захаваць ці змяніць налады, націснуўшы па-за "
+"межамі вакна. Вы заўсёды можаце змяніць налады праз \"Налады\" ў меню."
 
 msgid "cal_ia_wizard_intro"
-msgstr "Памочнік дазваляе ствараць новыя каляндары. Націсніце \"Далей\" для працягу."
+msgstr ""
+"Памочнік дазваляе ствараць новыя каляндары. Націсніце \"Далей\" для працягу."
 
 msgid "cal_ia_wizard_setup_complete"
 msgstr "Усталёўка каляндара завершана."
@@ -245,16 +245,26 @@ msgid "cal_nc_delete_task"
 msgstr "Выдаліць задачу? % s"
 
 msgid "cal_nc_edit_complex_last"
-msgstr "Вы редагуеце падзею % s, якая не можа быць цалкам зменена. Неабходна наладзіць новае правіла для паўтору. Усе выключэнні будуць страчаны. Вы жадаеце працягнуць?"
+msgstr ""
+"Вы редагуеце падзею % s, якая не можа быць цалкам зменена. Неабходна "
+"наладзіць новае правіла для паўтору. Усе выключэнні будуць страчаны. Вы "
+"жадаеце працягнуць?"
 
 msgid "cal_nc_edit_complex_recurrence"
-msgstr "Вы змяняеце правіла для паўтору падзеі % s, якое не можа быць цалкам зменена. Неабходна наладзіць новае правіла для паўтору. Усе выключэнні будуць страчаны. Вы жадаеце працягнуць?"
+msgstr ""
+"Вы змяняеце правіла для паўтору падзеі % s, якое не можа быць цалкам "
+"зменена. Неабходна наладзіць новае правіла для паўтору. Усе выключэнні "
+"будуць страчаны. Вы жадаеце працягнуць?"
 
 msgid "cal_nc_permanent_delete"
-msgstr "Каляндар '% s' не можа быць выдалены. Выдаліць увесь змест календара замест гэтага?"
+msgstr ""
+"Каляндар '% s' не можа быць выдалены. Выдаліць увесь змест календара замест "
+"гэтага?"
 
 msgid "cal_nc_permanent_sync_delete"
-msgstr "Дадзеныя могуць быць выдалены іншымі прыладамі. Каляндар '% s' нельга выдаліць. Выдаліць увесь змест календара замест гэтага?"
+msgstr ""
+"Дадзеныя могуць быць выдалены іншымі прыладамі. Каляндар '% s' нельга "
+"выдаліць. Выдаліць увесь змест календара замест гэтага?"
 
 msgid "cal_nc_remove_calendar"
 msgstr "Выдаліць гэты каляндар, яго падзеі, задачы і нататкі? '% s'"
@@ -365,7 +375,9 @@ msgid "cal_ti_welcome"
 msgstr "Каляндар пусты"
 
 msgid "cal_ti_welcome_info"
-msgstr "Перадаць дадзеныя са старога тэлефона? Гэта можа быць зроблена пазней з дапамогай \"перадачы і сінхранизацыі\" ў наладах."
+msgstr ""
+"Перадаць дадзеныя са старога тэлефона? Гэта можа быць зроблена пазней з "
+"дапамогай \"перадачы і сінхранизацыі\" ў наладах."
 
 msgid "cal_ti_wizard"
 msgstr "Каляндар"
@@ -511,3 +523,6 @@ msgstr "Сінхранізаваны"
 
 msgid "cal_va_today"
 msgstr "% s (сёння)"
+
+#~ msgid "cal_fi_pcsuite"
+#~ msgstr "(ужыванне PC Suite)"
