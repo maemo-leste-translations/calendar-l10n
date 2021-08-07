@@ -285,8 +285,8 @@ msgstr ""
 
 msgid "cal_nc_remove_calendar"
 msgstr ""
-"Eliminare il calendario e tutte le attività, le note e gli eventi correlati?"
-"\n"
+"Eliminare il calendario e tutte le attività, le note e gli eventi "
+"correlati?\n"
 "«%s»"
 
 msgid "cal_nc_smart_delete"
