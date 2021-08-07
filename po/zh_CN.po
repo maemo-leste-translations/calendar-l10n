@@ -1,17 +1,17 @@
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: n900 extra translations\n"
-"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
-"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.01.25 15:16+0200\n"
 "PO-Revision-Date: 2012-05-30 14:32+0000\n"
 "Last-Translator: firstfan <firstfan@gmail.com>\n"
 "Language-Team: en_US\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
 msgid "cal_ap_name"
@@ -84,9 +84,6 @@ msgstr "位置"
 msgid "cal_fi_no_events"
 msgstr "无日历项"
 
-msgid "cal_fi_pcsuite"
-msgstr "(PC套件)"
-
 msgid "cal_fi_remove_items"
 msgstr "删除条目"
 
@@ -125,10 +122,15 @@ msgid "cal_fi_wizard_type_smart"
 msgstr "生日智能日历"
 
 msgid "cal_ia_wizard_complete"
-msgstr "点击'完成'保存或放弃通过利用外部的向导设置.您可以在以后通过您菜单中的'设置'来改变"
+msgstr ""
+"点击'完成'保存或放弃通过利用外部的向导设置.您可以在以后通过您菜单中的'设置'来"
+"改变"
 
 msgid "cal_ia_wizard_intro"
-msgstr "日历向导允许您创建新日历.\n\n点击"
+msgstr ""
+"日历向导允许您创建新日历.\n"
+"\n"
+"点击"
 
 msgid "cal_ia_wizard_setup_complete"
 msgstr "日历向导完成."
@@ -230,28 +232,44 @@ msgid "cal_more_events"
 msgstr "更多"
 
 msgid "cal_nc_delete_event"
-msgstr "删除事件?\n%s"
+msgstr ""
+"删除事件?\n"
+"%s"
 
 msgid "cal_nc_delete_event_repeat"
-msgstr "删除所有重复事件?\n'%s'"
+msgstr ""
+"删除所有重复事件?\n"
+"'%s'"
 
 msgid "cal_nc_delete_note"
 msgstr "删除便笺?"
 
 msgid "cal_nc_delete_task"
-msgstr "删除任务?\n%s"
+msgstr ""
+"删除任务?\n"
+"%s"
 
 msgid "cal_nc_edit_complex_last"
-msgstr "你正在编辑事件\n%s\n此项无法完全编辑.新的重复的规则必须设置第一.任何例外的规则都将丢失.\n继续吗?"
+msgstr ""
+"你正在编辑事件\n"
+"%s\n"
+"此项无法完全编辑.新的重复的规则必须设置第一.任何例外的规则都将丢失.\n"
+"继续吗?"
 
 msgid "cal_nc_edit_complex_recurrence"
-msgstr "改变了规则的事件重新发生?\n%s\n这是无法完全编辑的.任何自定义的规则都将丢失.继续?"
+msgstr ""
+"改变了规则的事件重新发生?\n"
+"%s\n"
+"这是无法完全编辑的.任何自定义的规则都将丢失.继续?"
 
 msgid "cal_nc_permanent_delete"
 msgstr "'%s' 日历无法删除,删除所有内容,而不是日历?"
 
 msgid "cal_nc_permanent_sync_delete"
-msgstr "数据也将从其他设备删除.\n\n'%s'"
+msgstr ""
+"数据也将从其他设备删除.\n"
+"\n"
+"'%s'"
 
 msgid "cal_nc_remove_calendar"
 msgstr "删除此日历和事件'%s'"
@@ -362,7 +380,10 @@ msgid "cal_ti_welcome"
 msgstr "空白日历项"
 
 msgid "cal_ti_welcome_info"
-msgstr "从旧手机数据传输?\n\n这可以通过转让及稍后在设置同步."
+msgstr ""
+"从旧手机数据传输?\n"
+"\n"
+"这可以通过转让及稍后在设置同步."
 
 msgid "cal_ti_wizard"
 msgstr "日历"
@@ -395,7 +416,9 @@ msgid "cal_va_5_min"
 msgstr "前5分钟"
 
 msgid "cal_va_allday"
-msgstr "全部\n天"
+msgstr ""
+"全部\n"
+"天"
 
 msgid "cal_va_allday_home"
 msgstr "今天"
@@ -503,3 +526,6 @@ msgstr "同步"
 
 msgid "cal_va_today"
 msgstr "%s (今天)"
+
+#~ msgid "cal_fi_pcsuite"
+#~ msgstr "(PC套件)"
